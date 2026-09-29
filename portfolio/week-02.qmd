@@ -67,6 +67,32 @@ Narasi alternatif kedua dan ketiga membantu saya beralih dari reaksi malas menuj
 - **Objective:** Memastikan kebutuhan FP dan memberikan jawaban yang jelas mengenai permintaannya untuk menumpang.  
 - **State Akhir:** Saya memutuskan untuk membantu, membalas dengan bahasa daerah yang biasa kami gunakan, dan memastikan waktu kedatangannya sebelum membukakan gerbang.
 
+## Catatan Percakapan
+
+> **FP, 00.49:** "ihsan"
+>
+> **FP, 00.51:** "masih jago dak bay?"
+>
+> **Saya, 00.52:** "lai"
+>
+> **FP, 00.52:** "bay nio manggaaduah aku a"
+>
+> **FP, 00.52:** "baliak"
+>
+> **Saya, 00.52:** "hah"
+>
+> **Saya, 00.52:** "hoo"
+>
+> **Saya, 00.52:** "marila"
+>
+> **FP, 00.52:** "mau minta tolong bukain gerbang, maap merepotkan:("
+>
+> **Saya, 00.53:** "kini?"
+>
+> **FP, 00.53:** "iyap"
+
+Percakapan menggunakan bahasa Minang sebagai penanda keakraban. Kalimat "masih jago dak bay?" menanyakan apakah saya masih bangun. Pesan "bay nio manggaaduah aku a" dan "baliak" menyampaikan keinginan FP untuk kembali menumpang. Jawaban "lai" berarti saya masih bangun, "marila" mempersilakan FP datang, dan "kini?" memastikan apakah ia datang saat itu juga.
+
 ## Evidence Tindakan
 
 ::: {.evidence-block}
@@ -74,13 +100,6 @@ Berikut adalah bukti tangkapan layar percakapan WhatsApp antara saya dan FP pada
 
 ![Bukti percakapan WhatsApp dini hari saat memberikan konfirmasi tumpangan kepada FP](../assets/portfolio/week-02-evidence.jpeg)
 :::
-
-Percakapan menggunakan bahasa daerah Minang sebagai penanda keakraban:
-- FP membuka percakapan: "ihsan" (00.49), "masih jago dak bay?" (00.51 — menanyakan apakah saya masih bangun).
-- Respons awal saya: "lai" (00.52 — mengonfirmasi bahwa saya masih bangun).
-- FP menyampaikan maksud: "bay nio manggaduah aku a baliak" (00.52 — menyatakan ingin menumpang tidur lagi) dan "mau minta tolong bukain gerbang, maap merepotkan:(" (00.52).
-- Tindakan verbal saya: "marila" (00.52 — mempersilakan datang) dan "kini?" (00.53 — memastikan apakah ia datang saat itu juga).
-- FP menjawab "iyap" (00.53), sehingga saya memperoleh kepastian untuk segera membukakan gerbang.
 
 ## Analisis Komunikasi
 

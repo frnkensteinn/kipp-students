@@ -58,6 +58,26 @@ Pada character sahabat dekat, bahasa dibuat lebih kasual dan personal dengan kat
 * *Objective:* Memastikan NL segera mendapatkan tautan template twibbon tanpa hambatan dan menyepakati pembagian tugas pengunggahan berkas secara kolektif.
 * *State Akhir:* NL menemukan tautan yang dimaksud, mengonfirmasi pemahaman dengan melakukan *quote* tautan Google Drive tersebut, dan D mengonfirmasi kesiapan pengunggahan berkas (`"upllod"`).
 
+## Catatan Percakapan
+
+> **Saya, 23.02:** Mengirim tautan situs JOINTS x INSPIRE, `https://jointsxinspire.com/`.
+>
+> **NL, 23.04:** "template mana"
+>
+> **NL, 23.05:** "gw masukin template nya"
+>
+> **NL, 23.05:** "ntar bantu uploadin yak"
+>
+> **Saya, 23.05:** "ada link diatas tadi udh gw kirimm"
+>
+> **Saya, 23.05:** "link drive"
+>
+> **NL, 23.05:** Mengutip tautan Google Drive yang sebelumnya saya kirim, lalu mengirimkan "." sebagai konfirmasi.
+>
+> **D, 23.14:** "upllod"
+
+Catatan tersebut memperlihatkan urutan dari kebingungan NL mengenai lokasi template, arahan saya menuju tautan Drive, konfirmasi NL setelah menemukan tautan, hingga kesiapan D membantu proses upload.
+
 ## Evidence
 
 ::: {.evidence-block}
