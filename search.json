@@ -1641,7 +1641,18 @@
     "href": "portfolio/week-04.html#evidence-wajib",
     "title": "Five-Language Translation Portfolio",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 4 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nLima versi untuk friend, technical peer, manager, customer, dan public.\nAlasan perubahan language dan repertoire.\nFeedback understanding dari sedikitnya satu target.",
+    "crumbs": [
+      "Beranda",
+      "Five-Language Translation Portfolio"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-04.html#konteks-personal",
+    "href": "portfolio/week-04.html#konteks-personal",
+    "title": "Five-Language Translation Portfolio",
+    "section": "Konteks Personal",
+    "text": "Konteks Personal\nSaya mengikuti lomba desain aplikasi bersama tiga teman. Tim kami membuat prototype aplikasi pencatatan tugas untuk mahasiswa. Sehari sebelum pengumpulan, saya meminta seorang teman mencoba alur menambah tugas dan menyimpannya tanpa diberi petunjuk.\nPada percobaan pertama, ia membutuhkan sekitar 90 detik dan sempat berhenti karena tidak menemukan tombol simpan. Tim kemudian mengubah posisi tombol, mengganti labelnya dari “Selesai” menjadi “Simpan Tugas”, dan meminta orang yang sama mencoba ulang. Pada percobaan kedua ia menyelesaikan alur sekitar 35 detik tanpa petunjuk. Prototype revisi kemudian kami masukkan ke berkas pengumpulan sebelum tenggat. Hasil lomba belum diumumkan.\nNama orang lain diganti dengan inisial B, K, M, dan U.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1652,62 +1663,51 @@
     "href": "portfolio/week-04.html#core-meaning",
     "title": "Five-Language Translation Portfolio",
     "section": "Core Meaning",
-    "text": "Core Meaning\nModus undangan palsu memanfaatkan file APK yang dikirim melalui chat dan dibuat seolah-olah sebagai dokumen biasa. Menerima file tidak berarti aplikasi langsung terpasang. Risiko meningkat ketika penerima memasang APK tersebut dan memberikan izin akses. Aplikasi berbahaya dapat mencoba membaca data sensitif seperti SMS, notifikasi, atau OTP dan menggunakannya untuk penipuan finansial. Karena itu, penerima perlu memeriksa jenis file serta pengirimnya dan tidak memasang APK yang dikirim melalui chat.\nCore meaning tersebut mengacu pada penjelasan Bank Indonesia mengenai penipuan file APK dan panduan Google mengenai aplikasi berbahaya serta restricted settings.",
+    "text": "Core Meaning\nLima fakta yang harus tetap sama pada seluruh versi:\n\nSaya dan tim membuat prototype aplikasi pencatatan tugas untuk lomba.\nPada percobaan pertama, U kesulitan menemukan tombol simpan dan membutuhkan sekitar 90 detik.\nTim mengubah posisi serta label tombol, lalu U menyelesaikan percobaan kedua sekitar 35 detik tanpa petunjuk.\nPrototype revisi sudah dikumpulkan, tetapi hasil lomba belum diumumkan.\nPercobaan kedua dilakukan oleh orang yang sama, sehingga hasilnya belum membuktikan semua pengguna pasti lebih cepat.\n\nCore meaning tersebut memisahkan observation dari klaim. Saya boleh menyampaikan adanya perbaikan pada pengalaman U, tetapi tidak boleh mengatakan desain baru telah terbukti efektif untuk semua mahasiswa atau bahwa tim telah memenangkan lomba.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#konteks-dan-peta-target",
-    "href": "portfolio/week-04.html#konteks-dan-peta-target",
+    "objectID": "portfolio/week-04.html#peta-target-dan-lima-versi",
+    "href": "portfolio/week-04.html#peta-target-dan-lima-versi",
     "title": "Five-Language Translation Portfolio",
-    "section": "Konteks dan Peta Target",
-    "text": "Konteks dan Peta Target\nSaya menempatkan diri sebagai mahasiswa STI yang menyusun pesan edukasi keamanan digital. Kelima target berada dalam situasi yang berbeda meskipun menerima core meaning yang sama. Teman membutuhkan peringatan personal, rekan STI membutuhkan mekanisme teknis, ketua organisasi membutuhkan kebijakan untuk anggotanya, nasabah mobile banking membutuhkan langkah penanganan, dan pengguna WhatsApp secara umum membutuhkan peringatan yang singkat.",
+    "section": "Peta Target dan Lima Versi",
+    "text": "Peta Target dan Lima Versi\n\n\n\n\n\n\n\n\nTarget\nVersi pesan\nAlasan perubahan language dan repertoire\n\n\n\n\nFriend, B\n“Kemarin prototype lomba tim gua akhirnya dikumpulin. Pas dites pertama, teman gua bingung nyari tombol simpan dan butuh sekitar satu setengah menit. Tombolnya kami pindah dan tulisannya diganti, terus pas dia coba lagi selesai sekitar 35 detik. Lumayan lebih jelas buat dia, tapi hasil lombanya belum keluar.”\nB tidak terlibat dalam proses desain. Saya menggunakan cerita singkat, angka yang mudah dibandingkan, dan penutup yang mencegah ia mengira tim sudah menang.\n\n\nTechnical peer, K\n“Pada usability check pertama, U membutuhkan sekitar 90 detik untuk menyelesaikan task menambah tugas. Titik friction-nya ada pada CTA yang berlabel ‘Selesai’ dan berada di bagian bawah. Kami ubah label menjadi ‘Simpan Tugas’ dan menaikkan posisinya. Retest dengan U menghasilkan waktu sekitar 35 detik tanpa hint. Karena subjeknya sama, ada learning effect, jadi hasil ini belum cukup untuk generalisasi.”\nK memahami istilah task, CTA, friction, retest, dan learning effect. Detail metode serta batas inferensi lebih penting daripada cerita lombanya.\n\n\nManager, M sebagai mentor tim\n“Prototype revisi sudah kami masukkan ke berkas pengumpulan. Perubahan terakhir berasal dari satu uji coba yang menunjukkan U tidak menemukan tombol simpan. Tim memilih perubahan berisiko rendah, yaitu memperjelas label dan posisi tombol, lalu melakukan retest. Waktu U turun dari sekitar 90 menjadi 35 detik. Karena pengujinya masih orang yang sama, kami mencatat hasil ini sebagai sinyal perbaikan, bukan validasi final. Setelah lomba, kami ingin menguji versi tersebut kepada sedikitnya tiga pengguna baru.”\nMentor membutuhkan dasar keputusan, risiko perubahan menjelang tenggat, batas evidence, dan rencana validasi berikutnya.\n\n\nCustomer, U sebagai calon pengguna\n“Makasih sudah mencoba prototype kami kemarin. Dari percobaan lu, kami sadar tombol ‘Selesai’ belum jelas sebagai tombol untuk menyimpan tugas. Kami sudah mengganti tulisannya menjadi ‘Simpan Tugas’ dan memindahkan posisinya. Waktu lu mencoba ulang memang lebih singkat, tetapi kami tetap akan mengetesnya ke pengguna lain. Kalau ada bagian yang masih terasa membingungkan, kabari gua.”\nU perlu mengetahui bahwa feedback-nya dipakai tanpa dijadikan wakil seluruh pengguna. Bahasanya personal, menghargai kontribusi, dan membuka koreksi lanjutan.\n\n\nPublic\n“Satu hari sebelum pengumpulan lomba, uji coba sederhana menunjukkan seorang pengguna kesulitan menemukan tombol simpan pada prototype kami. Tim memperjelas label dan posisi tombol, lalu melakukan percobaan ulang sebelum mengumpulkan versi revisi. Pengguna yang sama menyelesaikan alur lebih cepat pada percobaan kedua, tetapi kami belum menganggap satu pengujian sebagai validasi final. Hasil lomba belum diumumkan; pelajaran terpentingnya adalah menguji asumsi desain sebelum tenggat.”\nVersi publik menekankan proses belajar tanpa jargon berlebihan, tidak membesar-besarkan hasil satu orang, dan tidak menciptakan kesan bahwa tim sudah menang.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#lima-versi-pesan",
-    "href": "portfolio/week-04.html#lima-versi-pesan",
+    "objectID": "portfolio/week-04.html#uji-konsistensi-meaning",
+    "href": "portfolio/week-04.html#uji-konsistensi-meaning",
     "title": "Five-Language Translation Portfolio",
-    "section": "Lima Versi Pesan",
-    "text": "Lima Versi Pesan\n\n\n\n\n\n\n\n\nTarget\nVersi Pesan\nAlasan Adaptasi\n\n\n\n\nFriend (teman dekat pengguna WhatsApp)\n“San, hati-hati kalau dapat file undangan lewat WhatsApp. Cek dulu tipe filenya. Kalau ternyata APK, jangan diinstal meskipun nama atau tampilannya seperti PDF. Aplikasi itu bisa meminta izin untuk membaca SMS, notifikasi, atau OTP. Hapus filenya dan konfirmasi langsung ke pengirim.”\nMenggunakan bahasa santai, contoh WhatsApp, dan tindakan langsung karena hubungannya dekat. Istilah teknis dibatasi pada APK, SMS, dan OTP yang umum dikenali.\n\n\nTechnical peer (rekan mahasiswa STI)\n“Modus undangan palsu memakai social engineering untuk mendorong korban melakukan sideload APK dari aplikasi pesan. File yang diterima tidak otomatis mengeksekusi kode. Risiko muncul setelah instalasi dan pemberian permission, misalnya akses SMS, notifikasi, atau Accessibility. Mitigasinya adalah memblokir instalasi dari sumber tidak dikenal, mengaktifkan Play Protect, memeriksa permission, dan memverifikasi sumber file.”\nIstilah sideload, permission, Accessibility, dan Play Protect digunakan karena target memiliki pengetahuan teknis. Penjelasan menekankan tahapan serangan dan mekanisme mitigasi.\n\n\nManager (ketua organisasi kampus)\n“File undangan palsu yang dikirim melalui chat dapat membahayakan perangkat pribadi maupun data organisasi jika anggota memasang APK dan memberikan izin akses. Dampaknya dapat mencakup kebocoran OTP, notifikasi, atau dokumen kerja. Organisasi perlu melarang pemasangan APK dari chat, meminta anggota mengaktifkan Play Protect, dan menyediakan jalur pelaporan ketika ada file mencurigakan.”\nKetua organisasi membutuhkan gambaran risiko, dampak terhadap anggota, dan keputusan yang dapat diterapkan. Detail teknis dibatasi pada hal yang diperlukan untuk menetapkan aturan.\n\n\nCustomer (nasabah mobile banking)\n“Jika Anda menerima file undangan melalui chat, periksa nama dan jenis filenya sebelum membuka atau memasangnya. Jangan instal file berakhiran APK dari sumber yang tidak dikenal. Jika sudah terlanjur memasang aplikasi mencurigakan, putuskan koneksi internet, hapus aplikasinya, dan segera hubungi bank melalui kanal resmi.”\nNasabah membutuhkan instruksi yang berurutan dan mudah dilakukan. Fokusnya adalah mencegah kerugian dan memberi langkah awal jika aplikasi sudah terpasang.\n\n\nPublic (pengguna WhatsApp dan Android)\n“Waspada undangan palsu lewat chat. File yang terlihat seperti dokumen dapat berupa APK berbahaya. Jangan memasang APK dari pengirim yang tidak terverifikasi, periksa jenis file, dan gunakan aplikasi dari toko resmi. Jika terlanjur memasangnya, putuskan koneksi internet dan hubungi bank melalui kanal resmi.”\nPengguna umum membutuhkan pesan ringkas tanpa banyak jargon serta tindakan yang dapat dilakukan segera.",
+    "section": "Uji Konsistensi Meaning",
+    "text": "Uji Konsistensi Meaning\n\n\n\n\n\n\n\n\n\n\n\nFakta inti\nFriend\nTechnical peer\nManager\nCustomer\nPublic\n\n\n\n\nPrototype dibuat untuk lomba\nAda\nAda\nAda melalui konteks pengumpulan\nAda melalui konteks tim\nAda\n\n\nKesulitan pertama dan sekitar 90 detik\nAda\nAda\nAda\nAda melalui pengalaman U\nAda tanpa angka karena tidak diperlukan\n\n\nPerubahan label dan posisi\nAda\nAda\nAda\nAda\nAda\n\n\nPercobaan kedua sekitar 35 detik\nAda\nAda\nAda\nDisebut lebih singkat\nDisebut lebih cepat\n\n\nHasil lomba belum diumumkan\nAda\nTidak relevan untuk diskusi teknis\nTersirat dari status pengumpulan\nTidak relevan bagi feedback U\nAda\n\n\nTidak digeneralisasi\nTerbatas pada “buat dia”\nLearning effect eksplisit\nSinyal, bukan validasi\nAkan diuji ke pengguna lain\nBelum validasi final\n\n\n\nPerbedaan detail tidak mengubah fakta. Informasi yang dihilangkan hanya informasi yang tidak dibutuhkan target, bukan fakta yang akan membuat target mengambil kesimpulan keliru.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#konsistensi-meaning",
-    "href": "portfolio/week-04.html#konsistensi-meaning",
+    "objectID": "portfolio/week-04.html#feedback-understanding-dan-adaptation",
+    "href": "portfolio/week-04.html#feedback-understanding-dan-adaptation",
     "title": "Five-Language Translation Portfolio",
-    "section": "Konsistensi Meaning",
-    "text": "Konsistensi Meaning\nKelima versi mempertahankan empat fakta yang sama:\n\nPelaku menyamarkan atau mempresentasikan APK sebagai undangan atau dokumen.\nFile tidak langsung memasang dirinya hanya karena diterima melalui chat.\nRisiko meningkat setelah APK dipasang dan mendapatkan izin akses.\nPenerima perlu memeriksa file, tidak memasang APK dari chat, dan mengambil tindakan jika sudah terlanjur memasangnya.\n\nPerubahannya berada pada pilihan istilah, tingkat detail, contoh, dan tindakan yang paling relevan bagi setiap target.",
+    "section": "Feedback Understanding dan Adaptation",
+    "text": "Feedback Understanding dan Adaptation\nSaya menguji versi awal pesan friend kepada B. Versi awal berakhir dengan kalimat, “akhirnya beres juga lombanya.”\n\nSaya: “Kalau lu baca pesan ini, menurut lu sekarang posisi tim gua gimana?”\nB: “Gua nangkepnya prototype lu berhasil dan lombanya sudah selesai. Menang atau masuk final?”\n\nRespons B menunjukkan bahwa kata “beres” membuat status lomba terdengar selesai dan berhasil. Saya lalu mengganti kalimat terakhir menjadi, “prototype revisinya sudah dikumpulin, tapi hasil lombanya belum keluar.”\n\nSaya: “Kalau versi yang ini gimana?”\nB: “Sekarang jelas. Yang sudah selesai itu pengumpulannya, bukan berarti lu sudah menang.”\n\nSaya juga meminta K membaca versi technical peer.\n\nK: “Jangan bilang perubahan tombol membuat waktu turun tanpa catatan. Orangnya sama, jadi dia sudah belajar alurnya dari percobaan pertama.”\nSaya: “Berarti lebih tepat kalau gua sebut hasilnya sinyal, bukan bukti desainnya pasti lebih baik?”\nK: “Iya. Tulis learning effect dan tes lagi ke orang baru nanti.”\n\nFeedback K membuat saya menambahkan batas generalisasi pada versi technical peer, manager, customer, dan public. Dengan begitu, angka 90 dan 35 detik tetap digunakan sebagai observation atas U, bukan klaim sebab-akibat untuk semua pengguna.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
     ]
   },
   {
-    "objectID": "portfolio/week-04.html#feedback-understanding",
-    "href": "portfolio/week-04.html#feedback-understanding",
+    "objectID": "portfolio/week-04.html#evidence-tindakan-dan-outcome",
+    "href": "portfolio/week-04.html#evidence-tindakan-dan-outcome",
     "title": "Five-Language Translation Portfolio",
-    "section": "Feedback Understanding",
-    "text": "Feedback Understanding\nVersi friend diuji kepada seorang teman dekat yang menggunakan WhatsApp dan perangkat Android. Setelah membaca pesannya, teman tersebut memberikan feedback:\n\n“ohh pahamm paham, berarti bahayanya tuh kalo aplikasinya udah diinstal kan, kalo masih nerima file di whatsapp doang belum bahaya. okedehh makasiih banyak infonya sann”\n\nFeedback tersebut menunjukkan bahwa target bukan hanya menyatakan paham, tetapi juga dapat menjelaskan kembali bahwa risiko utama muncul setelah APK dipasang. Target juga dapat membedakan antara sekadar menerima file di WhatsApp dan memasang aplikasi. Karena core meaning diterima dengan tepat, saya mempertahankan pilihan bahasa dan panjang versi friend.",
-    "crumbs": [
-      "Beranda",
-      "Five-Language Translation Portfolio"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-04.html#evidence",
-    "href": "portfolio/week-04.html#evidence",
-    "title": "Five-Language Translation Portfolio",
-    "section": "Evidence",
-    "text": "Evidence\nEvidence utama Week 4 ini adalah lima versi pesan pada tabel dan kutipan feedback dari target versi friend. Tautan Bank Indonesia dan Google berfungsi sebagai sumber pemeriksaan fakta teknis, bukan sebagai pengganti feedback target. Tidak ada screenshot yang digunakan. Feedback dicatat sebagai kutipan dari percakapan chat.",
+    "section": "Evidence Tindakan dan Outcome",
+    "text": "Evidence Tindakan dan Outcome\n\nVersi friend direvisi setelah B salah memahami status pengumpulan sebagai hasil lomba.\nVersi technical peer direvisi setelah K menunjukkan kemungkinan learning effect.\nM menyetujui penggunaan kalimat “sinyal perbaikan, bukan validasi final” untuk menjelaskan keputusan tim.\nU menerima pesan customer dan membalas, “siap, kalau ada versi berikutnya gua mau coba lagi.”\nTim menyimpan rencana pengujian tiga pengguna baru sebagai tindak lanjut setelah lomba.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1718,7 +1718,7 @@
     "href": "portfolio/week-04.html#analisis-komunikasi",
     "title": "Five-Language Translation Portfolio",
     "section": "Analisis Komunikasi",
-    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan Analisis\n\n\n\n\nPerson & character\nTarget dipetakan secara konkret: teman dekat pengguna WhatsApp, rekan mahasiswa STI, ketua organisasi kampus, nasabah mobile banking, dan pengguna WhatsApp atau Android secara umum. Kebutuhan informasi mereka dibedakan tanpa mengubah fakta dasarnya.\n\n\nObjective & state\nState awal setiap target berbeda. Teman dan public perlu mengenali modus, technical peer perlu memahami mekanisme, manager perlu menentukan aturan, sedangkan customer perlu mengetahui langkah penanganan. State tujuannya adalah setiap target memahami risiko dan tindakan yang sesuai dengan perannya.\n\n\nRepertoire & language\nRepertoire berubah dari peringatan personal, penjelasan teknis, ringkasan risiko organisasi, instruksi untuk nasabah, hingga pengumuman publik. Batas teknis bahwa file tidak otomatis terpasang tetap dipertahankan dan klaim diperiksa menggunakan sumber terkait.\n\n\nResponse & adaptation\nRespons teman menunjukkan bahwa ia dapat membedakan tahap menerima file dan memasang APK. Karena core meaning dipahami dengan tepat, versi friend dipertahankan.\n\n\nAgreement & action\nSetiap versi memiliki tindakan yang jelas, seperti tidak memasang APK, memeriksa sumber, mengaktifkan perlindungan, atau menghubungi bank. Feedback target membuktikan pemahaman, tetapi belum membuktikan apakah tindakan tersebut akan dijalankan.\n\n\nRelationship outcome\nVersi friend menggunakan nada peringatan yang tetap akrab dan tidak menyalahkan target. Respons teman menunjukkan bahwa pesan diterima tanpa menimbulkan ketegangan.",
+    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nB membutuhkan cerita dan status yang jelas, K membutuhkan batas metodologis, M membutuhkan rationale keputusan, U membutuhkan pengakuan atas feedback, dan public membutuhkan pembelajaran tanpa overclaim. Target dibedakan berdasarkan relationship, knowledge, stakes, dan authority.\n\n\nObjective & state\nObjective utamanya menjaga core meaning sambil mengubah detail. Saya juga mengelola uncertainty: hasil lomba belum diketahui dan penurunan waktu dapat dipengaruhi learning effect.\n\n\nRepertoire & language\nRepertoire berubah dari cerita personal, laporan usability, update keputusan, feedback loop pengguna, hingga refleksi publik. Jargon hanya dipakai untuk target yang memiliki shared vocabulary.\n\n\nResponse & adaptation\nSalah paham B mengubah penjelasan status lomba. Kritik K mengubah framing angka dan menambahkan batas generalisasi di empat versi.\n\n\nAgreement, action & relationship\nM menyetujui framing, U bersedia mencoba versi berikutnya, dan tim memiliki tindak lanjut tiga pengguna baru. Kontribusi U dihargai tanpa membebankan klaim seluruh pengguna kepadanya.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1729,7 +1729,7 @@
     "href": "portfolio/week-04.html#penggunaan-ai",
     "title": "Five-Language Translation Portfolio",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan untuk membantu membedakan tingkat detail pada lima target dan memeriksa konsistensi core meaning. Saya tetap memeriksa klaim teknis menggunakan sumber Bank Indonesia dan Google.",
+    "text": "Penggunaan AI\nAI digunakan setelah lima versi ditulis untuk membandingkan fakta yang muncul pada tiap pesan. Saya menolak saran AI untuk memakai kalimat “terbukti memangkas waktu lebih dari separuh” karena satu retest dengan orang yang sama belum membuktikan hubungan sebab-akibat. AI tidak membuat angka, respons B, kritik K, respons U, atau hasil lomba.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1740,7 +1740,7 @@
     "href": "portfolio/week-04.html#feedback-dan-tindak-lanjut",
     "title": "Five-Language Translation Portfolio",
     "section": "Feedback dan Tindak Lanjut",
-    "text": "Feedback dan Tindak Lanjut\nFeedback yang diterima: “ohh pahamm paham, berarti bahayanya tuh kalo aplikasinya udah diinstal kan, kalo masih nerima file di whatsapp doang belum bahaya. okedehh makasiih banyak infonya sann” dari target versi friend.\nAdaptation/replay: Target dapat menjelaskan kembali bahwa risiko muncul setelah aplikasi dipasang, bukan saat file hanya diterima. Karena meaning dipahami dengan tepat, versi friend dipertahankan.\nNext practice: Setelah memeriksa pemahaman, saya akan melanjutkan dengan pertanyaan singkat mengenai tindakan yang akan dilakukan target jika menerima file serupa.",
+    "text": "Feedback dan Tindak Lanjut\nFeedback B menunjukkan bahwa status “sudah dikumpulkan” mudah bergeser menjadi “sudah berhasil”. Feedback K menunjukkan bahwa angka yang benar tetap dapat menghasilkan klaim menyesatkan jika learning effect tidak disebutkan. Pada komunikasi berikutnya saya akan memeriksa dua hal: fakta apa yang dipahami target dan inferensi tambahan apa yang muncul. Indikator keberhasilannya adalah target dapat membedakan observation, interpretation, dan hal yang masih belum diketahui.",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1751,7 +1751,7 @@
     "href": "portfolio/week-04.html#self-assessment",
     "title": "Five-Language Translation Portfolio",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence Singkat\n\n\n\n\nPerson & Character\n3\nLima target dibedakan berdasarkan kebutuhan dan tanggung jawab, bukan stereotipe.\n\n\nObjective & State\n3\nCore meaning dan perubahan pemahaman yang dituju konsisten pada semua versi.\n\n\nRepertoire, Language & AI\n4\nLima repertoire memiliki target konkret, rationale yang jelas, batas teknis yang konsisten, dan pemeriksaan fakta menggunakan sumber terkait.\n\n\nResponse & Adaptation\n3\nRespons target digunakan untuk mempertahankan versi friend dan memperbaiki metode checking understanding berikutnya.\n\n\nAgreement, Action & Relationship\n3\nSetiap versi memiliki tindakan yang spesifik dan nada versi friend tetap menjaga hubungan.\n\n\n\nTotal: 16 / 20, Kompeten\n\nAssessment Dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima target dibedakan berdasarkan relationship, knowledge, stakes, dan authority tanpa stereotipe.\n\n\nObjective & State\n4\nCore meaning, status pengumpulan, hasil yang belum diketahui, dan uncertainty learning effect dikelola eksplisit.\n\n\nRepertoire, Language & AI\n4\nLima repertoire memiliki rationale berbeda; jargon dan batas AI disesuaikan dengan target.\n\n\nResponse & Adaptation\n4\nDua jenis feedback mengubah status wording dan batas klaim pada beberapa versi.\n\n\nAgreement, Action & Relationship\n4\nMentor menyetujui framing, pengguna bersedia retest, dan tindak lanjut memiliki target pengguna baru.\n\n\n\nTotal: 20 / 20 - Lanjut\n\nAssessment Dosen\nSkor: - / 20\nEvidence yang mendukung: -\nPrioritas perbaikan: -\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Five-Language Translation Portfolio"
@@ -1784,7 +1784,18 @@
     "href": "portfolio/week-02.html#evidence-wajib",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 2 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nSatu episode komunikasi dengan diri sendiri.\nInitial story dan sedikitnya dua alternative narratives.\nInternal agreement dan bukti tindakan berikutnya.",
+    "crumbs": [
+      "Beranda",
+      "Intra-Self Communication Journal"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-02.html#episode",
+    "href": "portfolio/week-02.html#episode",
+    "title": "Intra-Self Communication Journal",
+    "section": "Episode",
+    "text": "Episode\nIdentitas pihak lain disamarkan. Nama rekan kelompok diganti dengan inisial S.\nPada Rabu pukul 16.20 saya menerima komentar dari asisten praktikum pada draft laporan kelompok: “alur analisis belum bisa diikuti; grafik muncul tanpa penjelasan mengapa metrik ini dipakai.” Saya yang menyusun bagian analisis langsung merasa pekerjaan saya dianggap buruk. Pada saat yang sama, laporan harus dikumpulkan keesokan hari dan dua anggota kelompok sedang mengerjakan bagian lain.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1795,51 +1806,29 @@
     "href": "portfolio/week-02.html#pembedahan-lapisan-batin",
     "title": "Intra-Self Communication Journal",
     "section": "Pembedahan Lapisan Batin",
-    "text": "Pembedahan Lapisan Batin\nPeristiwa yang dianalisis:\nPada 5 Agustus 2026 pukul 00.49 WIB, saya sedang beristirahat di kamar kos Bandung setelah seharian berkegiatan. Tiba-tiba masuk rentetan pesan WhatsApp dari kawan satu daerah asal, FP. Ia baru saja menyelesaikan acara di Bandung dan belum memiliki tempat tinggal di Bandung (kos aslinya berada di Jatinangor). FP berniat menumpang istirahat malam itu dan meminta tolong dibukakan gerbang kos.\n\n\n\n\n\n\n\nLapisan Batin\nCatatan Refleksi Pribadi\n\n\n\n\nFact (Fakta Objektif)\nPesan masuk pukul 00.49–00.52 WIB dari FP menanyakan apakah saya masih bangun, menyatakan ingin menumpang, dan meminta dibukakan gerbang kos. Belum ada penolakan atau penerimaan saat pesan pertama dibaca.\n\n\nInitial story (Asumsi Pertama)\nMuncul rasa kesal spontan: menganggap FP mengganggu jam istirahat malam dan mempertanyakan mengapa ia tidak mencari penginapan atau mengabari dari siang hari.\n\n\nEmotion & body signal\nKaget, lelah fisik, rasa kantuk skala 7/10, mata terasa berat, dan tubuh enggan beranjak dari kasur.\n\n\nReactive character\nSaya sebagai orang yang sedang lelah dan lebih ingin mempertahankan waktu istirahat, sehingga sempat terpikir untuk mengabaikan pesan.\n\n\nDesired character\nSaya sebagai teman yang bersedia membantu ketika kawan membutuhkan tempat untuk beristirahat pada malam hari.\n\n\n\nCerita awal saya melampaui fakta: pesan FP bukanlah bentuk kesengajaan untuk mengganggu, melainkan kebutuhan mendesak dari kawan perantau yang kehabisan opsi tempat tinggal dini hari.",
+    "text": "Pembedahan Lapisan Batin\n\n\n\n\n\n\n\nLapisan\nCatatan\n\n\n\n\nEvent\nKomentar revisi muncul di dokumen bersama, lalu ketua kelompok menandai nama saya di grup.\n\n\nFact\nKomentar menyebut dua hal: alur belum mudah diikuti dan alasan pemilihan metrik belum ditulis. Tidak ada kalimat bahwa seluruh analisis salah atau saya tidak kompeten. Tenggat tersisa sekitar 20 jam.\n\n\nInitial story\n“Asisten menganggap analisis gua jelek; teman-teman pasti merasa gua menghambat.”\n\n\nEmotion dan body signal\nMalu 7/10, kesal 6/10, dada terasa tegang, dan dorongan menutup dokumen.\n\n\nReactive character\nPembela diri yang ingin menjelaskan bahwa grafik dibuat sesuai pembagian tugas dan waktu pengerjaan terbatas.\n\n\nProtective character\nAnggota tim yang takut kehilangan kepercayaan kelompok jika mengakui bagian saya belum jelas.\n\n\nDesired character\nAnalis yang mampu menguji kritik, meminta kejelasan, dan memperbaiki artefak tanpa mengubah data agar terlihat bagus.\n\n\nUncertainty\nSaya belum tahu apakah masalahnya hanya pada narasi atau juga pada pilihan metrik. Saya juga belum tahu bagian mana yang paling membingungkan pembaca.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#narasi-alternatif-alternative-narratives",
-    "href": "portfolio/week-02.html#narasi-alternatif-alternative-narratives",
+    "objectID": "portfolio/week-02.html#initial-story-dan-alternative-narratives",
+    "href": "portfolio/week-02.html#initial-story-dan-alternative-narratives",
     "title": "Intra-Self Communication Journal",
-    "section": "Narasi Alternatif (Alternative Narratives)",
-    "text": "Narasi Alternatif (Alternative Narratives)\n\nPerspektif Kebutuhan Darurat:\nFP baru selesai mengikuti suatu acara dan belum memiliki kos di Bandung. Permintaan untuk menumpang dan dibukakan gerbang menunjukkan bahwa ia membutuhkan tempat beristirahat malam itu. Kalimat “maap merepotkan:(” juga menunjukkan bahwa ia menyadari permintaannya dapat mengganggu waktu istirahat saya.\nPerspektif Nilai Persahabatan:\nRasa lelah saya tetap nyata, tetapi membantu membukakan gerbang merupakan tindakan yang dapat saya lakukan untuk menolong teman yang sedang membutuhkan tempat beristirahat.\nPerspektif Tindakan yang Realistis:\nSaya tidak perlu langsung membuat banyak asumsi. Saya dapat memastikan apakah FP datang saat itu juga, lalu memutuskan tindakan berdasarkan jawaban yang diberikan.\n\nNarasi alternatif kedua dan ketiga membantu saya beralih dari reaksi malas menuju tindakan nyata yang empatik.",
+    "section": "Initial Story dan Alternative Narratives",
+    "text": "Initial Story dan Alternative Narratives\nInitial story: komentar itu adalah penilaian menyeluruh terhadap kemampuan saya dan tanda bahwa kontribusi saya mengecewakan tim.\nAlternative narrative 1 - masalah komunikasi: data dan perhitungannya mungkin benar, tetapi hubungan antara pertanyaan, metrik, grafik, dan kesimpulan belum terlihat bagi pembaca yang tidak mengikuti proses analisis.\nAlternative narrative 2 - sinyal risiko sebelum tenggat: komentar diberikan sebelum pengumpulan, sehingga masih ada kesempatan memperbaiki bagian yang akan membingungkan penilai. Menanyakan titik kebingungan lebih berguna daripada menebak.\nAlternative narrative 3 - kritik bisa mencakup dua lapisan: mungkin bukan hanya tulisan yang kurang jelas; pemilihan metrik juga bisa belum tepat. Karena itu saya perlu siap mengganti struktur atau metrik jika alasan awal tidak bertahan saat diuji.\nKetiga narasi alternatif tidak otomatis menyatakan semuanya baik-baik saja. Narasi itu membuka pilihan yang dapat diuji: meminta contoh bagian yang sulit diikuti, memeriksa kembali alasan metrik, dan mengajak satu teman membaca tanpa penjelasan tambahan.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
     ]
   },
   {
-    "objectID": "portfolio/week-02.html#percakapan-batin-dan-kesepakatan-internal-internal-agreement",
-    "href": "portfolio/week-02.html#percakapan-batin-dan-kesepakatan-internal-internal-agreement",
+    "objectID": "portfolio/week-02.html#percakapan-batin-dan-internal-agreement",
+    "href": "portfolio/week-02.html#percakapan-batin-dan-internal-agreement",
     "title": "Intra-Self Communication Journal",
-    "section": "Percakapan Batin dan Kesepakatan Internal (Internal Agreement)",
-    "text": "Percakapan Batin dan Kesepakatan Internal (Internal Agreement)\n\nDorongan awal: “Saya sedang lelah dan ingin tetap beristirahat. Saya sempat berpikir untuk tidak membalas pesan.”\nPertimbangan lain: “FP belum memiliki kos di Bandung dan sedang meminta bantuan. Saya masih dapat memastikan waktu kedatangannya sebelum turun membuka gerbang.”\nKeputusan saya: “Saya akan membalas pesannya dan menanyakan apakah ia datang sekarang. Jika iya, saya akan turun membukakan gerbang.”\n\nInternal agreement: Membalas pesan FP sebelum pukul 00.53 WIB dengan konfirmasi kedatangan, lalu segera bangun dari kasur untuk turun ke lantai bawah dan membukakan pintu gerbang kos.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#konteks-performance",
-    "href": "portfolio/week-02.html#konteks-performance",
-    "title": "Intra-Self Communication Journal",
-    "section": "Konteks Performance",
-    "text": "Konteks Performance\nTanggal dan setting: 5 Agustus 2026 pukul 00.49–00.53 WIB, kamar kos saya di Bandung.\nPersons dan relationship: Diri saya sendiri dan FP, kawan satu daerah asal di Minangkabau yang sama-sama merantau menempuh pendidikan tinggi di wilayah Bandung Raya. Hubungan akrab, setara, dan terbiasa saling membantu. Identitas disamarkan menggunakan inisial FP demi menjaga privasi.\nObjective dan initial state:\n- State Awal: Tubuh lelah dan mengantuk, disertai dorongan untuk mengabaikan pesan dan tetap beristirahat.\n- Objective: Memastikan kebutuhan FP dan memberikan jawaban yang jelas mengenai permintaannya untuk menumpang.\n- State Akhir: Saya memutuskan untuk membantu, membalas dengan bahasa daerah yang biasa kami gunakan, dan memastikan waktu kedatangannya sebelum membukakan gerbang.",
-    "crumbs": [
-      "Beranda",
-      "Intra-Self Communication Journal"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-02.html#catatan-percakapan",
-    "href": "portfolio/week-02.html#catatan-percakapan",
-    "title": "Intra-Self Communication Journal",
-    "section": "Catatan Percakapan",
-    "text": "Catatan Percakapan\n\nFP, 00.49: “ihsan”\nFP, 00.51: “masih jago dak bay?”\nSaya, 00.52: “lai”\nFP, 00.52: “bay nio manggaaduah aku a”\nFP, 00.52: “baliak”\nSaya, 00.52: “hah”\nSaya, 00.52: “hoo”\nSaya, 00.52: “marila”\nFP, 00.52: “mau minta tolong bukain gerbang, maap merepotkan:(”\nSaya, 00.53: “kini?”\nFP, 00.53: “iyap”\n\nPercakapan menggunakan bahasa Minang sebagai penanda keakraban. Kalimat “masih jago dak bay?” menanyakan apakah saya masih bangun. Pesan “bay nio manggaaduah aku a” dan “baliak” menyampaikan keinginan FP untuk kembali menumpang. Jawaban “lai” berarti saya masih bangun, “marila” mempersilakan FP datang, dan “kini?” memastikan apakah ia datang saat itu juga.",
+    "section": "Percakapan Batin dan Internal Agreement",
+    "text": "Percakapan Batin dan Internal Agreement\n\nPembela diri: “Kalau langsung revisi, seolah-olah gua mengakui pekerjaannya asal.”\nPengatur tenggat: “Kalau kita debat dulu, waktunya habis dan laporannya tetap tidak jelas.”\nAnalis: “Kita tidak perlu memilih antara membela diri dan menerima semua kritik. Pisahkan dulu dua klaimnya, cari bagian yang tidak terbaca, lalu uji metriknya.”\nPembela diri: “Tapi kalau ternyata metriknya memang salah?”\nAnalis: “Lebih aman mengetahuinya sekarang. Tanggung jawab kita bukan mempertahankan draft, tetapi mempertahankan analisis yang bisa dijelaskan.”\n\nInternal agreement pukul 16.34: saya tidak akan membalas saat emosi masih tinggi. Dalam 15 menit saya akan menulis ulang fakta kritik, lalu sebelum pukul 17.00 mengirim dua pertanyaan klarifikasi. Setelah mendapat jawaban, saya akan membuat revisi 45 menit dan meminta seorang anggota kelompok melakukan blind read. Jika metrik tidak dapat dijustifikasi, saya akan mengusulkan penggantian dan menjelaskan dampaknya kepada tim.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1850,7 +1839,7 @@
     "href": "portfolio/week-02.html#evidence-tindakan",
     "title": "Intra-Self Communication Journal",
     "section": "Evidence Tindakan",
-    "text": "Evidence Tindakan\n\nBerikut adalah bukti tangkapan layar percakapan WhatsApp antara saya dan FP pada dini hari tanggal 5 Agustus 2026. Bukti ini menunjukkan peralihan keputusan internal saya menjadi tindakan komunikasi yang menyambut:\n\n\n\nBukti percakapan WhatsApp dini hari saat memberikan konfirmasi tumpangan kepada FP",
+    "text": "Evidence Tindakan\nPada 16.48 saya mengirim pesan:\n\nSaya: “Kak, terima kasih sudah menandai bagian ini. Supaya revisinya tepat: yang paling sulit diikuti transisi dari data ke grafiknya, atau interpretasi setelah grafik? Untuk metrik, apakah masalahnya alasan pemilihan belum tertulis atau metriknya sendiri kurang sesuai?”\nAsisten: “Utamanya transisi. Metriknya masih masuk akal, tapi jelaskan kenapa pakai median, bukan mean, karena datanya timpang.”\n\nSaya mengubah struktur menjadi: pertanyaan analisis → kondisi distribusi data → alasan memakai median → grafik → interpretasi. Pada 18.02 saya meminta S membaca bagian itu tanpa penjelasan lisan.\n\nS: “Sekarang kebaca. Di versi lama grafiknya kayak muncul tiba-tiba. Tapi kalimat terakhir masih seolah median membuktikan penyebab.”\nSaya: “Benar, itu terlalu jauh. Gua ubah jadi menunjukkan pola, bukan penyebab.”\n\nVersi revisi selesai pukul 18.17. Ketua kelompok mengonfirmasi pada 18.31 bahwa bagian tersebut siap digabung. Setelah laporan dinilai, tidak ada catatan lanjutan pada pilihan metrik dan kelompok memperoleh komentar bahwa interpretasi sudah mengikuti data.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1861,7 +1850,7 @@
     "href": "portfolio/week-02.html#analisis-komunikasi",
     "title": "Intra-Self Communication Journal",
     "section": "Analisis Komunikasi",
-    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan Analisis\n\n\n\n\nPerson & character\nSaya memposisikan diri sebagai tuan rumah dan kawan perantau yang suportif. FP dihadapi sebagai manusia yang sedang terdesak kebutuhan tempat berteduh pada dini hari, bukan sebagai beban pengganggu tidur.\n\n\nObjective & state\nState awal adalah keengganan beranjak dari kasur karena lelah. Objective batin saya adalah mengalihkan fokus dari ketidaknyamanan pribadi ke pertolongan kawan. State akhir tercapai saat gerbang kos dibukakan dan FP dapat beristirahat.\n\n\nRepertoire & language\nSaya menggunakan dialek Minang santai (\"lai\", \"marila\", \"kini?\") untuk mencairkan rasa sungkan FP yang merasa merepotkan (\"maap merepotkan:(\").\n\n\nResponse & adaptation\nMelihat ekspresi rasa bersalah FP pada pesan chat, saya tidak mengeluhkan waktu kedatangannya yang larut, melainkan langsung meminta konfirmasi kepastian (\"kini?\") agar ia merasa diterima.\n\n\nAgreement & action\nTerjadi kesepakatan instan: FP langsung menuju lokasi gerbang kos, dan saya bangkit turun dari lantai atas untuk membukakan gerbang serta menyambutnya masuk kamar.\n\n\nRelationship outcome\nIkatan persaudaraan sesama perantau terjaga erat. FP merasa tertolong di saat darurat, dan saya belajar mengendalikan reaksi egois batin demi nilai kepedulian nyata.",
+    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nSaya mengenali pembela diri, pelindung reputasi, pengatur tenggat, dan analis sebagai internal character dengan objective berbeda, bukan menyebut diri “terlalu sensitif”.\n\n\nObjective & state\nObjective ganda adalah menjaga kualitas analisis, memenuhi tenggat, dan tetap terbuka pada kemungkinan metrik salah. State bergerak dari kepastian defensif menuju uncertainty yang dapat diuji.\n\n\nRepertoire & language\nRepertoire mencakup pause, fact-story separation, tiga alternative narratives, pertanyaan klarifikasi, blind read, dan pembatasan klaim. AI tidak dipakai untuk menciptakan feedback.\n\n\nResponse & adaptation\nJawaban asisten mempersempit masalah ke transisi dan rationale median. Feedback S menangkap overclaim baru; saya mengubah “penyebab” menjadi “pola”. Dua loop feedback menghasilkan dua adaptation berbeda.\n\n\nAgreement, action & relationship\nInternal agreement mempunyai waktu dan kondisi eskalasi. Tindakan selesai sesuai jadwal, kontribusi kelompok tidak tertunda, dan komunikasi dengan asisten tetap terbuka.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1872,7 +1861,7 @@
     "href": "portfolio/week-02.html#penggunaan-ai",
     "title": "Intra-Self Communication Journal",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan untuk membantu merapikan struktur dan bahasa. Isi pengalaman, percakapan, serta keputusan tetap saya periksa berdasarkan kejadian yang saya alami. Identitas rekan ditulis sebagai FP dalam narasi.",
+    "text": "Penggunaan AI\nSetelah revisi selesai, AI digunakan untuk menandai kalimat yang berupa fact, story, dan prediction dalam jurnal saya. Saya menolak saran AI untuk menulis bahwa komentar asisten “bersifat suportif” karena tone tersebut tidak dapat dipastikan dari teks. Data, balasan asisten, dan feedback S tidak dibuat atau dilengkapi oleh AI.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1883,7 +1872,7 @@
     "href": "portfolio/week-02.html#feedback-dan-tindak-lanjut",
     "title": "Intra-Self Communication Journal",
     "section": "Feedback dan Tindak Lanjut",
-    "text": "Feedback dan Tindak Lanjut\nFeedback yang diterima: FP menjawab “iyap” pada pukul 00.53 setelah saya menanyakan “kini?”. Respons tersebut mengonfirmasi bahwa ia datang saat itu juga. Tidak ada kutipan feedback lanjutan yang saya lampirkan dalam evidence ini.\nAdaptation/replay: Alih-alih mengabaikan pesan karena lelah, saya membalas dan menanyakan waktu kedatangan. Pertanyaan singkat tersebut memberi informasi yang saya perlukan untuk bertindak tanpa memperpanjang percakapan.\nNext practice: Saat menerima kabar atau permintaan mendadak yang memicu rasa lelah atau kesal, saya akan mengambil jeda napas 30 detik untuk membedakan fakta kebutuhan orang lain dari cerita ego pribadi sebelum membalas pesan.",
+    "text": "Feedback dan Tindak Lanjut\nFeedback asisten membuktikan initial story saya terlalu luas: masalah spesifiknya adalah transisi dan alasan metrik. Feedback S menunjukkan saya masih bisa overclaim setelah struktur diperbaiki. Pada tugas berikutnya saya akan melakukan blind read sebelum meminta review asisten. Indikatornya: pembaca dapat menjawab “mengapa metrik ini dipakai?” dan membedakan pola dari sebab tanpa penjelasan lisan.",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1894,7 +1883,7 @@
     "href": "portfolio/week-02.html#self-assessment",
     "title": "Intra-Self Communication Journal",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence Singkat\n\n\n\n\nPerson & Character\n3\nDorongan untuk tetap beristirahat dibedakan dari pilihan saya sebagai teman yang bersedia membantu. Kondisi FP dipertimbangkan tanpa memberi label negatif.\n\n\nObjective & State\n3\nPerubahan dari rasa kantuk/enggan menuju tindakan membukakan pintu terdokumentasi dengan batas waktu jelas.\n\n\nRepertoire, Language & AI\n3\nPemakaian bahasa Minang mencairkan rasa sungkan rekan. Deklarasi AI jujur dan mematuhi etika privasi.\n\n\nResponse & Adaptation\n3\nMenangkap sinyal rasa bersalah rekan dan segera mengalihkan fokus ke konfirmasi waktu tiba di gerbang.\n\n\nAgreement, Action & Relationship\n3\nKesepakatan tumpangan terlaksana dengan pembukaan gerbang. Hubungan pertemanan semakin solid dan saling percaya.\n\n\n\nTotal: 15 / 20 — Kompeten\n\nAssessment Dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nEmpat internal character dengan objective dan risiko berbeda dipetakan tanpa mengubah emotion menjadi fakta eksternal.\n\n\nObjective & State\n4\nKualitas, tenggat, reputasi, dan uncertainty tentang metrik dikelola secara eksplisit.\n\n\nRepertoire, Language & AI\n4\nPause, pemisahan fakta-story, tiga narasi, klarifikasi, blind read, dan batas AI digunakan dengan rationale.\n\n\nResponse & Adaptation\n4\nDua respons eksternal menghasilkan perubahan struktur dan koreksi overclaim.\n\n\nAgreement, Action & Relationship\n4\nAgreement bertenggat dilaksanakan, laporan terintegrasi, dan hubungan kerja tetap terjaga.\n\n\n\nTotal: 20 / 20 - Lanjut\n\nAssessment Dosen\nSkor: - / 20\nEvidence yang mendukung: -\nPrioritas perbaikan: -\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Intra-Self Communication Journal"
@@ -1905,7 +1894,7 @@
     "href": "portfolio/index.html",
     "title": "Indeks Portfolio",
     "section": "",
-    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n15/20\n\n\n—\n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n15/20\n\n\n—\n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n15/20\n\n\n—\n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n16/20\n\n\n—\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n15/20\n\n\n—\n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
+    "text": "Perbarui metadata di bagian atas setiap file week-XX.qmd. Nilai status yang disarankan: Belum dimulai, Draft, Siap dinilai, Perlu revisi, atau Tercapai.\n\n\n\n\n\n\nTipButuh contoh?\n\n\n\nLihat contoh portfolio lengkap untuk Minggu 1–15. Semua contoh menggunakan mahasiswa, person, percakapan, dan artefak fiktif. Gunakan sebagai acuan mutu dan struktur, bukan sebagai jawaban untuk disalin.\n\n\n\n\n\n\n\n\n   \n    \n    \n      Urut berdasar\n      Default\n      \n        Evidence\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nMinggu\n\n\n\nEvidence\n\n\n\nStatus\n\n\n\nSelf\n\n\n\nAssessor\n\n\n\n\n\n\n\n\n1\n\n\nCharacter Map\n\n\nSiap dinilai\n\n\n20/20\n\n\n - \n\n\n\n\n\n\n2\n\n\nIntra-Self Communication Journal\n\n\nSiap dinilai\n\n\n20/20\n\n\n - \n\n\n\n\n\n\n3\n\n\nRelationship Conversation\n\n\nSiap dinilai\n\n\n20/20\n\n\n - \n\n\n\n\n\n\n4\n\n\nFive-Language Translation Portfolio\n\n\nSiap dinilai\n\n\n20/20\n\n\n-\n\n\n\n\n\n\n5\n\n\nProfessional Discovery Interview\n\n\nSiap dinilai\n\n\n20/20\n\n\n - \n\n\n\n\n\n\n6\n\n\nTarget–Attention Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n7\n\n\nProblem–Solution Interest Pitch\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n8\n\n\nUTS Performance Evidence Package\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n9\n\n\nDesire-State Communication\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n10\n\n\nAction & Agreement Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n11\n\n\nMulti-Person Negotiation Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n12\n\n\nCommunity Communication Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n13\n\n\nPublic Contribution Challenge\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n14\n\n\nAI-Mediated Communication Design\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\n15\n\n\nCapstone Performance Portfolio\n\n\nBelum dimulai\n\n\n—\n\n\n—\n\n\n\n\n\n\nTidak ada yang cocok\n Kembali ke atas",
     "crumbs": [
       "Beranda",
       "Indeks Portfolio"
@@ -4868,29 +4857,18 @@
     "href": "portfolio/week-01.html#evidence-wajib",
     "title": "Character Map",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nLima character dari sedikitnya tiga domain kehidupan.\nObjective, responsibility, repertoire, dan risiko tiap character.\nSatu contoh perubahan language ketika character berubah.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 1 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nLima character dari sedikitnya tiga domain kehidupan.\nObjective, responsibility, repertoire, dan risiko tiap character.\nSatu contoh perubahan language ketika character berubah.",
     "crumbs": [
       "Beranda",
       "Character Map"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#lima-character---peta-karakter-komunikasi-pribadi",
-    "href": "portfolio/week-01.html#lima-character---peta-karakter-komunikasi-pribadi",
+    "objectID": "portfolio/week-01.html#lima-character",
+    "href": "portfolio/week-01.html#lima-character",
     "title": "Character Map",
-    "section": "Lima Character - Peta Karakter Komunikasi Pribadi",
-    "text": "Lima Character - Peta Karakter Komunikasi Pribadi\nDalam peta ini, person berarti manusia utuh yang saya hadapi, sedangkan personality adalah kecenderungan pribadi yang tidak saya simpulkan hanya dari satu percakapan. Character adalah peran yang saya pilih dalam hubungan dan situasi tertentu. Karena itu, satu person dapat saya hadapi dengan character yang berbeda ketika objective dan konteks komunikasinya berubah.\n\n\n\n\n\n\n\n\n\n\nDomain dan Character\nPerson & Relationship\nObjective & Responsibility\nRepertoire & Language\nRisiko dan Latihan\n\n\n\n\nDiri Sendiri — Pengatur Ritme Belajar (Reflective Learner)\nDiri sendiri saat menghadapi beban praktikum dan tugas kuliah STI yang bertumpuk\nObjective: Menjaga fokus kerja, mengendalikan stres, dan mencegah prokrastinasi. Responsibility: Menilai kapasitas energi secara jujur dan merencanakan waktu kerja secara bertahap.\nSelf-talk berbasis fakta, pencatatan to-do list terukur di aplikasi catatan, memecah tugas besar menjadi sub-tugas kecil.\nTerjebak dalam kritik diri berlebih atau menunda pekerjaan saat tugas terasa berat. Latihan: Menerapkan aturan lima menit pertama (langsung mulai tanpa menuntut hasil sempurna).\n\n\nKeluarga — Anak Terakhir\nOrang tua di rumah dan Kakak di luar daerah sedang berkuliah (komunikasi jarak jauh karena merantau di Bandung)\nObjective: Memberikan rasa tenang mengenai kondisi perkuliahan dan kesehatan. Responsibility: Memberi kabar secara berkala tanpa harus menunggu ditanya.\nBahasa santun, hangat, dan terbuka melalui WhatsApp atau panggilan telepon. Kabar akademik diceritakan dengan istilah yang mudah dipahami.\nKomunikasi merenggang dan menjadi sekadar transaksional akibat kesibukan kampus. Latihan: Menjadwalkan panggilan telepon rutin minimal satu kali setiap akhir pekan.\n\n\nSahabat Dekat — Teman Pendengar (Attentive Peer)\nTeman dekat di lingkungan kampus yang sedang mengalami kendala belajar atau kelelahan mental\nObjective: Memberikan kehadiran emosional yang suportif dan menjaga ruang aman. Responsibility: Menyimak tanpa memotong dan menjaga kerahasiaan cerita.\nMendengarkan aktif, kontak mata, bahasa kasual yang hangat (“Mau didengerin dulu atau cari solusi bareng?”), memvalidasi perasaan sebelum berbicara.\nNaluri terburu-buru memberikan solusi teknis (fixer trap). Latihan: Menahan diri selama tiga menit pertama untuk mendengarkan utuh sebelum merespons.\n\n\nProfesional/Akademik — Rekan Tim Lomba (Collaborative Teammate)\nRekan sekelas yang sekaligus rekan satu tim dalam perlombaan\nObjective: Memastikan seluruh syarat administratif dan persiapan lomba tuntas tepat waktu. Responsibility: Menyediakan data pendukung, menjaga kejelasan peran, dan saling membantu saat ada kendala.\nRespons cepat, bahasa santai namun to-the-point, koordinasi tautan dokumen (link sharing), dan konfirmasi langkah lanjutan.\nAsumsi bahwa semua anggota otomatis melihat informasi yang sudah dikirim di grup chat. Latihan: Melakukan pin message atau quote reply saat membagikan tautan penting.\n\n\nKomunitas/Organisasi — Anggota Divisi Acara (Adaptive Contributor)\nRekan satu divisi kepanitiaan / organisasi mahasiswa di kampus ITB\nObjective: Menjalankan target program kerja divisi secara selaras dengan tujuan kepanitiaan. Responsibility: Menyampaikan laporan progres tugas secara transparan dan berani bertanya saat menemui kendala.\nBahasa semi-formal yang terbuka, koordinasi aktif di grup kerja, mencatat poin kesepakatan saat forum rapat.\nBersikap pasif dan hanya menunggu instruksi koordinator. Latihan: Berinisiatif menanyakan status koordinasi dan menawarkan bantuan sebelum sesi rapat dimulai.",
-    "crumbs": [
-      "Beranda",
-      "Character Map"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-01.html#perubahan-language-ketika-character-berbeda",
-    "href": "portfolio/week-01.html#perubahan-language-ketika-character-berbeda",
-    "title": "Character Map",
-    "section": "Perubahan Language ketika Character Berbeda",
-    "text": "Perubahan Language ketika Character Berbeda\nContoh berikut mempertahankan meaning yang sama, yaitu memberi tahu bahwa tautan template sudah tersedia, meminta rekan menggunakannya, dan menawarkan bantuan sebelum tenggat. Perbedaannya hanya berada pada character, relationship, dan pilihan language.\n\nSebagai Sahabat Dekat: “Link templatenya tadi udah gw kirim di atas, coba cek lagi ya. Kalau masih bingung bilang aja, nanti gw bantu biar selesai sebelum deadline.”\nSebagai Rekan Tim Lomba: “Link template twibbon dan panduannya sudah ada di Drive pada pesan sebelumnya. NL bisa lanjut memasukkan foto ke template, lalu kabari di grup agar kita bisa menyelesaikan proses upload sebelum tenggat.”\n\nPada character sahabat dekat, bahasa dibuat lebih kasual dan personal dengan kata “gw”, ajakan “coba cek lagi”, dan tawaran bantuan langsung. Pada character rekan tim lomba, bahasa dibuat lebih terstruktur dengan menyebut letak berkas, tindakan yang perlu dilakukan, bentuk konfirmasi, dan tenggat. Keduanya tetap menyampaikan meaning dan objective yang sama tanpa mengubah fakta.",
+    "section": "Lima Character",
+    "text": "Lima Character\nSaya memahami personality sebagai kecenderungan yang relatif menetap, sedangkan character adalah peran yang saya pilih dalam relationship dan situasi tertentu. Karena itu, orang yang sama dapat menerima language yang berbeda ketika objective dan tanggung jawab saya berubah.\n\n\n\n\n\n\n\n\n\n\nDomain dan character\nPerson dan relationship\nObjective dan responsibility\nRepertoire dan language\nRisiko dan latihan\n\n\n\n\nIntra-self - pengatur ritme belajar\nDiri sendiri ketika beberapa deadline berdekatan\nMenentukan prioritas tanpa mengabaikan kebutuhan istirahat; membedakan keterlambatan nyata dari rasa panik\nAudit fakta, time-boxing, dan self-talk: “yang harus selesai malam ini bagian mana?”\nTerlalu lama membuat rencana. Latihan: batasi planning sepuluh menit lalu mulai satu langkah terkecil.\n\n\nKeluarga - anak yang memberi kabar\nIbu dan ayah yang tidak mengikuti istilah teknis perkuliahan\nMemberi gambaran keadaan secara jujur tanpa membuat mereka cemas\nBahasa sederhana dan konfirmasi: “tugasnya terkendali, gua cuma pulang agak malam”\nMenyembunyikan kesulitan agar terlihat baik-baik saja. Latihan: sampaikan satu kendala beserta rencana menanganinya.\n\n\nPertemanan - pendengar\nTeman dekat yang sedang kewalahan\nMemahami dulu apakah ia ingin didengar atau mencari solusi; menjaga kerahasiaan\nParaphrase dan pilihan: “lu mau cerita dulu atau kita petakan bareng?”\nMasuk ke fixer mode. Latihan: lakukan dua paraphrase sebelum memberi saran.\n\n\nAkademik - rekan tim lomba\nTiga rekan satu tim dengan kontribusi dan beban kuliah berbeda\nMenyelesaikan proposal tepat waktu sekaligus menjaga ownership setiap anggota\nCheck-in, opsi trade-off, task list dengan owner dan tenggat, serta bahasa setara\nTerlihat mengambil alih karena saya memegang dokumen utama. Latihan: minta keberatan sebelum keputusan dikunci.\n\n\nOrganisasi - staf acara\nKoordinator divisi yang memiliki authority formal dan staf lain yang setara\nMelaporkan risiko lebih awal dan meminta keputusan ketika scope berubah\nUpdate status-hambatan-kebutuhan keputusan\nMenunggu arahan karena takut melampaui peran. Latihan: bawa satu rekomendasi beserta batas kewenangan.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4901,7 +4879,7 @@
     "href": "portfolio/week-01.html#konteks-performance",
     "title": "Character Map",
     "section": "Konteks Performance",
-    "text": "Konteks Performance\nTanggal dan setting: 11 September 2026, koordinasi persiapan pendaftaran lomba melalui grup WhatsApp pukul 23.02–23.14 WIB.\nPersons dan relationship: NL dan D, rekan satu angkatan di Program Studi Sistem dan Teknologi Informasi ITB (STI’25) sekaligus rekan satu tim dalam pendaftaran kompetisi teknologi JOINTS x INSPIRE. Nama rekan ditulis menggunakan inisial dalam narasi portofolio. Relasi bersifat setara, akrab, dan terbiasa bekerja sama dalam proyek akademik.\nObjective dan initial state:\n\nState Awal: NL sempat kebingungan menemukan lokasi template twibbon yang menjadi syarat wajib pendaftaran lomba dan meminta bantuan untuk proses pengunggahan berkas (\"template mana\", \"gw masukin template nya\", \"ntar bantu uploadin yak\").\nObjective: Memastikan NL segera mendapatkan tautan template twibbon tanpa hambatan dan menyepakati pembagian tugas pengunggahan berkas secara kolektif.\nState Akhir: NL menemukan tautan yang dimaksud, mengonfirmasi pemahaman dengan melakukan quote tautan Google Drive tersebut, dan D mengonfirmasi kesiapan pengunggahan berkas (\"upllod\").",
+    "text": "Konteks Performance\nPada Selasa pukul 21.10, tim beranggotakan saya, R, N, dan D sedang menyelesaikan proposal lomba inovasi digital. Tenggat tinggal 15 jam. Saya memegang dokumen utama, R menyusun solusi teknis, N mengolah riset pengguna, dan D membuat mockup.\nState awalnya: bagian riset belum masuk, mockup belum final, dan R ingin menambah fitur prediksi yang membutuhkan perubahan proposal. Objective saya bukan hanya mengirim proposal tepat waktu, tetapi juga menjaga agar keputusan scope tidak menghapus kontribusi salah satu anggota.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4912,18 +4890,29 @@
     "href": "portfolio/week-01.html#catatan-percakapan",
     "title": "Character Map",
     "section": "Catatan Percakapan",
-    "text": "Catatan Percakapan\n\nSaya, 23.02: Mengirim tautan situs JOINTS x INSPIRE, https://jointsxinspire.com/.\nNL, 23.04: “template mana”\nNL, 23.05: “gw masukin template nya”\nNL, 23.05: “ntar bantu uploadin yak”\nSaya, 23.05: “ada link diatas tadi udh gw kirimm”\nSaya, 23.05: “link drive”\nNL, 23.05: Mengutip tautan Google Drive yang sebelumnya saya kirim, lalu mengirimkan “.” sebagai konfirmasi.\nD, 23.14: “upllod”\n\nCatatan tersebut memperlihatkan urutan dari kebingungan NL mengenai lokasi template, arahan saya menuju tautan Drive, konfirmasi NL setelah menemukan tautan, hingga kesiapan D membantu proses upload.",
+    "text": "Catatan Percakapan\nCatatan berikut ditulis ulang segera setelah panggilan Discord. Nama anggota tim diganti dengan inisial R, N, dan D.\n\nSaya: “Sebelum nambah fitur, boleh update singkat? Yang sudah aman apa, yang masih berisiko apa?”\nN: “Data wawancaranya sudah, tapi narasinya belum masuk. Kalau struktur berubah lagi gua harus nyesuaiin.”\nR: “Model prediksinya bisa jadi pembeda. Sayang kalau nggak dimasukin.”\nSaya: “Berarti ada dua kebutuhan: proposal harus konsisten sama data N, tapi unsur teknisnya juga jangan terlalu generik. Bro, versi minimum fitur prediksi yang bisa dijelaskan tanpa ubah alur utama apa?”\nR: “Bisa dijadiin rencana pengembangan, bukan fitur versi awal.”\nD: “Kalau gitu mockup gua nggak perlu dirombak total.”\nSaya: “Oke, usulnya: mockup tetap, temuan N masuk malam ini, fitur prediksi kita taruh di roadmap dan R pegang dua paragraf penjelasannya. Ada yang keberatan sebelum kita kunci?”\nN: “Gua setuju. Cuma bagian riset jangan dipotong jadi satu kalimat lagi ya.”\nSaya: “Noted. N tentukan dua temuan yang wajib dipertahankan. Gua nggak akan potong tanpa konfirmasi.”\nR: “Sip. Gua kirim sebelum jam sebelas.”\n\nSetelah rapat, D mengirim pesan pribadi: “Tadi R bilang sip, tapi nadanya kayak masih berat. Mungkin karena idenya turun jadi roadmap.” Saya menyadari persetujuan verbal belum tentu berarti ownership-nya tetap terjaga.\nSaya lalu menghubungi R:\n\nSaya: “Bro, gua mau cek lagi. Tadi kita sepakat fiturnya pindah ke roadmap, tapi gua takut keputusan cepatnya bikin kontribusi lu terasa dikecilkan. Ada yang masih mengganjal?”\nR: “Sedikit sih. Awalnya gua kira bagian teknis bakal jadi inti.”\nSaya: “Masuk akal. Gimana kalau lu tetap jadi owner bagian feasibility dan roadmap-nya kita beri ruang setengah halaman, selama klaimnya nggak melebihi data yang ada?”\nR: “Nah, kalau tetap ada bagian feasibility gua oke.”",
     "crumbs": [
       "Beranda",
       "Character Map"
     ]
   },
   {
-    "objectID": "portfolio/week-01.html#evidence",
-    "href": "portfolio/week-01.html#evidence",
+    "objectID": "portfolio/week-01.html#evidence-tindakan-dan-outcome",
+    "href": "portfolio/week-01.html#evidence-tindakan-dan-outcome",
     "title": "Character Map",
-    "section": "Evidence",
-    "text": "Evidence\n\nBerikut adalah bukti tangkapan layar percakapan grup WhatsApp saat koordinasi pemenuhan syarat twibbon untuk pendaftaran lomba JOINTS x INSPIRE bersama rekan tim (NL dan D). Kontribusi saya adalah menyediakan dan mengarahkan kembali tautan Google Drive template twibbon yang sebelumnya telah saya kirimkan di grup, sehingga NL dapat langsung memasukkan foto ke template dan tim siap mengunggah berkas secara bersama-sama.\n\n\n\nKoordinasi pengisian dan pengunggahan twibbon lomba JOINTS x INSPIRE bersama rekan tim",
+    "section": "Evidence Tindakan dan Outcome",
+    "text": "Evidence Tindakan dan Outcome\n\nTask list diperbarui pada 21.36: N - dua temuan riset (22.30), R - feasibility dan roadmap (23.00), D - mockup final (23.15), saya - integrasi dan pemeriksaan akhir (01.00).\nR menyerahkan bagian feasibility pukul 22.48; N mengonfirmasi kedua temuannya tidak dipotong.\nProposal dikirim pukul 00.42, sebelum tenggat.\nKeesokan harinya R menulis, “format roadmap kemarin enak juga, teknisnya tetap kebaca tanpa maksa mockup berubah.”",
+    "crumbs": [
+      "Beranda",
+      "Character Map"
+    ]
+  },
+  {
+    "objectID": "portfolio/week-01.html#perubahan-language-ketika-character-berubah",
+    "href": "portfolio/week-01.html#perubahan-language-ketika-character-berubah",
+    "title": "Character Map",
+    "section": "Perubahan Language ketika Character Berubah",
+    "text": "Perubahan Language ketika Character Berubah\nUntuk hambatan yang sama - sebuah pekerjaan belum selesai - language saya berubah sesuai character:\n\nSebagai rekan tim lomba: “Versi minimum yang masih menjaga inti idenya apa, dan siapa owner-nya?” Fokusnya trade-off, ownership, dan keputusan bersama.\nSebagai staf kepada koordinator: “Bagian ini berisiko lewat tenggat; gua merekomendasikan scope A, tetapi keputusan perubahan target ada pada Kakak.” Fokusnya authority dan eskalasi.\nSebagai pengatur ritme belajar: “Faktanya bagian mana yang belum selesai, dan langkah 20 menit pertama apa?” Fokusnya memisahkan fakta dari rasa panik.\n\nCore meaning-nya tetap sama - ada pekerjaan yang perlu diselesaikan - tetapi objective, relationship, authority, dan repertoire berbeda.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4934,7 +4923,7 @@
     "href": "portfolio/week-01.html#analisis-komunikasi",
     "title": "Character Map",
     "section": "Analisis Komunikasi",
-    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan Analisis\n\n\n\n\nPerson & character\nSaya memposisikan diri sebagai rekan tim lomba yang suportif dan berorientasi pada penyelesaian tugas bersama. NL dihadapi sebagai rekan yang sedang berfokus menyelesaikan tugas teknis twibbon di tengah ritme persiapan lomba larut malam.\n\n\nObjective & state\nState awal adalah ketidakjelasan lokasi berkas template twibbon. Objective saya adalah mengarahkan posisi tautan secara cepat. State tujuan tercapai saat NL berhasil mengakses tautan Google Drive dan D siap mengunggah.\n\n\nRepertoire & language\nRepertoire yang digunakan adalah petunjuk langsung (direct guidance) dan penegasan sumber daya. Bahasa yang digunakan santai, ringkas, dan responsif (\"ada link diatas tadi udh gw kirimm\", \"link drive\"), sesuai dengan kultur komunikasi koordinasi daring mahasiswa.\n\n\nResponse & adaptation\nRespons NL adalah mengutip (quote) tautan Drive yang saya tunjukkan dengan tanda konfirmasi titik (\".\"), yang menunjukkan bahwa pesan telah diterima dan dipahami. Saya tidak perlu memperpanjang perdebatan mengapa ia tidak melihat chat sebelumnya, melainkan langsung menjaga alur kerja tetap berjalan.\n\n\nAgreement & action\nTerbentuk kesepakatan pembagian peran: NL memproses pemasangan foto ke dalam template twibbon dari folder Drive, sementara tim (direspons oleh D) siap saling membantu proses pengunggahan berkas ke sistem pendaftaran.\n\n\nRelationship outcome\nHubungan kerja sama tim tetap solid, santai, dan kolaboratif. Koordinasi berjalan efektif tanpa ada gesekan atau kepanikan menjelang batas waktu pendaftaran.",
+    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nN dibaca sebagai pemilik data, R sebagai pemilik gagasan teknis, dan D sebagai pihak yang terkena dampak perubahan scope. Ketika peran R berubah dari pengusul fitur inti menjadi owner roadmap, stakes dan ownership-nya ikut berubah.\n\n\nObjective & state\nSaya mengelola ketepatan waktu, konsistensi data, dan ownership anggota. Ketidakpastian tersisa pada respons R meskipun ia berkata “sip”.\n\n\nRepertoire & language\nSaya memakai check-in, paraphrase dua kebutuhan, opsi minimum, invitation to dissent, task list, dan follow-up privat. Bahasa berubah sesuai character dan authority.\n\n\nResponse & adaptation\nSinyal lemah dari nada R disampaikan D. Saya membuka repair dan mengembalikan ownership melalui bagian feasibility.\n\n\nAgreement, action & relationship\nAgreement mencantumkan scope, owner, tenggat, hak N mengonfirmasi pemotongan, dan tindak lanjut dengan R. Proposal terkirim dan repair menghasilkan komentar positif.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4945,7 +4934,7 @@
     "href": "portfolio/week-01.html#penggunaan-ai",
     "title": "Character Map",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan sebagai asisten untuk membantu merapikan format tabel dan struktur portofolio. Nama rekan ditulis sebagai inisial NL dan D dalam narasi. Seluruh isi peran, bukti percakapan, dan analisis komunikasi tetap saya periksa berdasarkan kejadian nyata.",
+    "text": "Penggunaan AI\nAI digunakan setelah percakapan untuk memeriksa apakah catatan sudah membedakan ucapan yang teramati dari interpretasi. AI sempat menyimpulkan R “kecewa”, tetapi saya menggantinya menjadi “gua menangkap kemungkinan keberatan” karena kekecewaan baru terkonfirmasi setelah saya bertanya langsung. AI tidak digunakan untuk menghasilkan respons anggota tim.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4956,7 +4945,7 @@
     "href": "portfolio/week-01.html#feedback-dan-tindak-lanjut",
     "title": "Character Map",
     "section": "Feedback dan Tindak Lanjut",
-    "text": "Feedback dan Tindak Lanjut\nFeedback yang diterima: “Sip, untung langsung lu arahin link-nya, tadi sempat ketumpuk chat di atas”. Kalimat ini dicatat berdasarkan konfirmasi lisan dari rekan tim setelah proses pengisian twibbon selesai dan tidak terlihat pada tangkapan layar.\nAdaptation/replay: Dari kejadian ini, saya belajar bahwa membagikan tautan penting di tengah percakapan grup berpotensi tenggelam. Pada koordinasi selanjutnya, saya membiasakan untuk melakukan pin message pada tautan penting atau menyematkan ringkasan berkas di deskripsi grup.\nNext practice: Saat mengoordinasikan tugas tim dengan tenggat waktu dekat, saya akan langsung menyertakan tautan terkait bersamaan dengan instruksi pembagian tugas agar rekan kerja tidak perlu mencari ulang.",
+    "text": "Feedback dan Tindak Lanjut\nFeedback utama berasal dari D dan koreksi langsung R. Replay yang saya lakukan adalah membuka kembali agreement, menanyakan hal yang belum tersampaikan, lalu memperjelas ownership. Pada koordinasi berikutnya saya akan menutup rapat dengan pertanyaan kepada tiap owner: “apa yang masih mengganjal dari keputusan ini?” Indikator berhasilnya adalah keberatan muncul sebelum rapat ditutup, bukan melalui pihak ketiga.",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -4967,7 +4956,7 @@
     "href": "portfolio/week-01.html#self-assessment",
     "title": "Character Map",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence Singkat\n\n\n\n\nPerson & Character\n3\nLima karakter dari lima domain dipetakan secara jelas. Karakter rekan tim lomba diposisikan secara setara dan empatik tanpa stereotip.\n\n\nObjective & State\n3\nState awal kebingungan tautan dan state tujuan penuntasan syarat administratif terdokumentasi secara eksplisit.\n\n\nRepertoire, Language & AI\n3\nRepertoire petunjuk langsung dan bahasa santai responsif sesuai konteks tim lomba. Batas transparansi AI dijelaskan dengan jujur.\n\n\nResponse & Adaptation\n3\nMenanggapi kebingungan rekan secara sigap tanpa menyalahkan dan memantau respons konfirmasi kutipan tautan.\n\n\nAgreement, Action & Relationship\n3\nKesepakatan peran pengerjaan twibbon dan aksi unggah tercapai. Relasi pertemanan dan tim tetap terjaga dengan baik.\n\n\n\nTotal: 15 / 20 — Kompeten\n\nAssessment Dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nLima character dipetakan lintas domain; perubahan role, stakes, dan ownership R dibaca eksplisit.\n\n\nObjective & State\n4\nKetepatan waktu, konsistensi data, ownership, dan ketidakpastian respons dikelola bersama.\n\n\nRepertoire, Language & AI\n4\nCheck-in, paraphrase, trade-off, invitation to dissent, task list, repair, dan batas AI memiliki rationale.\n\n\nResponse & Adaptation\n4\nSinyal lemah ditindaklanjuti dan menghasilkan perubahan konkret pada ownership R.\n\n\nAgreement, Action & Relationship\n4\nScope, owner, tenggat, authority, review, dan repair tercatat serta menghasilkan proposal tepat waktu.\n\n\n\nTotal: 20 / 20 - Lanjut\n\nAssessment Dosen\nSkor: - / 20\nEvidence yang mendukung: -\nPrioritas perbaikan: -\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Character Map"
@@ -5000,51 +4989,51 @@
     "href": "portfolio/week-03.html#evidence-wajib",
     "title": "Relationship Conversation",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 3 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nTranscript atau catatan percakapan.\nEvidence listening dan response.\nAnalisis relationship state sebelum dan sesudah.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#percakapan-yang-dianalisis",
-    "href": "portfolio/week-03.html#percakapan-yang-dianalisis",
+    "objectID": "portfolio/week-03.html#konteks-dan-relationship-state-awal",
+    "href": "portfolio/week-03.html#konteks-dan-relationship-state-awal",
     "title": "Relationship Conversation",
-    "section": "Percakapan yang Dianalisis",
-    "text": "Percakapan yang Dianalisis\nPada 17 Februari 2026, saya bertanya kepada ibu kapan keluarga di rumah akan mulai berpuasa Ramadan. Ibu menjawab bahwa ia masih menunggu kabar dari pemerintah dan akan mengikuti keputusan pemerintah.\nSetelah memahami acuan yang dipilih ibu, saya mengirimkan unggahan media sosial yang menyebutkan bahwa berdasarkan perhitungan hisab, 1 Ramadan jatuh pada Kamis, 19 Februari 2026. Ibu kemudian mengatakan bahwa ia juga akan mulai berpuasa pada hari Kamis. Sebelumnya, ia mengira puasa dimulai keesokan harinya.",
+    "section": "Konteks dan Relationship State Awal",
+    "text": "Konteks dan Relationship State Awal\nIdentitas teman kos disamarkan. Namanya diganti dengan inisial A.\nSaya berbicara dengan A, teman satu kos sekaligus teman satu jurusan. Selama dua minggu ia beberapa kali mengikuti rapat daring di ruang bersama setelah pukul 23.00. Kamar saya bersebelahan dengan ruang itu. Saya sempat dua kali menegur melalui chat singkat, “boleh kecilin suara?”, dan ia selalu menjawab “iya”, tetapi kebisingan muncul lagi pada hari berikutnya.\nState relationship sebelum percakapan: kami tetap akrab saat kuliah, tetapi saya mulai menghindari ruang bersama pada malam hari. Saya memiliki story bahwa A tidak peduli, sedangkan saya belum pernah menanyakan mengapa ia memilih ruangan tersebut. Objective saya adalah memperoleh batas waktu tenang yang jelas tanpa mempermalukan A atau menghalangi tanggung jawab organisasinya.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#catatan-percakapan",
-    "href": "portfolio/week-03.html#catatan-percakapan",
+    "objectID": "portfolio/week-03.html#transcript-percakapan",
+    "href": "portfolio/week-03.html#transcript-percakapan",
     "title": "Relationship Conversation",
-    "section": "Catatan Percakapan",
-    "text": "Catatan Percakapan\n\nSaya, 18.58: “maa, dirumah puasa kapann”\nIbu, 19.07: “Nunggu kbr dr pemerintah dulu can. Mm ikut pemerintah aja.”\nSaya, 19.09: “oiyaa maaa”\nSaya, 19.14: “ini maa” disertai unggahan mengenai perkiraan awal Ramadan.\nIbu, 19.34: “Berarti mm hr kamis jg puasa nya dek.”\nIbu, 19.35: “Td nya mm kira besok mulai puasa, ternyata hr kamis atau jumat.”\nSaya, 19.50: “ooiyaa maa”\n\nPercakapan ini menunjukkan bahwa jawaban ibu memengaruhi respons saya. Setelah mengetahui bahwa ibu menunggu pemerintah, saya tidak memperdebatkan pilihannya dan mencari informasi yang berkaitan dengan acuan tersebut.",
+    "section": "Transcript Percakapan",
+    "text": "Transcript Percakapan\nPercakapan dilakukan di teras kos pada Sabtu sore, bukan ketika rapatnya sedang berlangsung.\n\nSaya: “Bro, gua mau bahas soal rapat malam di ruang tengah. Ini bukan mau nyuruh lu berhenti rapat. Gua pengin cari aturan yang bisa jalan buat kita berdua.”\nA: “Soal suara ya? Gua sudah coba kecilin sih. Di kamar sinyalnya jelek banget.”\nSaya: “Jadi lu pakai ruang tengah bukan karena lebih santai, tapi karena koneksi di kamar sering putus?”\nA: “Iya. Kalau rapat divisi putus-putus, gua yang dimarahin. Minggu ini juga lagi dekat acara.”\nSaya: “Berarti lu butuh koneksi stabil dan tetap bisa koordinasi sampai acara selesai. Di sisi gua, tiga kali minggu ini gua kebangun setelah jam sebelas. Kemarin gua baru tidur jam satu dan besoknya ada praktikum. Gua capek dan mulai kesel, tapi gua nggak mau nyimpulin lu sengaja ganggu.”\nA: “Gua kira dari kamar lu nggak terlalu kedengeran. Chat lu juga cuma pas sekali dua kali.”\nSaya: “Oke, berarti informasi dari gua kurang jelas. Yang gua butuhkan: setelah jam 23.00 suara di ruang tengah nggak masuk kamar. Apakah rapat setelah jam itu bisa pakai headset dan pindah ke pojok dekat dapur?”\nA: “Headset bisa. Tapi pojok dapur sinyalnya kadang jelek juga.”\nSaya: “Kalau sinyalnya jelek, opsi lain apa? Gua bisa toleransi sampai 23.30 untuk minggu acara, asal gua tahu jadwalnya. Setelah itu kalau masih lanjut, mungkin lu bisa pakai lobby gedung sebelah?”\nA: “Lobby bisa, cuma harus jalan keluar. Untuk minggu ini gua minta sampai 23.30. Setelah acara harusnya nggak ada rapat malam lagi.”\nSaya: “Gua bisa setuju sampai 23.30 khusus sampai Jumat. Lu kirim jadwal rapat di chat sebelum jam sembilan, pakai headset, dan pintu ruang tengah ditutup. Kalau lewat 23.30, pindah ke lobby. Kalau suara masih masuk, gua akan chat ‘volume’ tanpa perlu jelasin panjang. Cocok?”\nA: “Cocok. Kalau gua kelewatan, chat aja. Maaf ya, gua beneran kira nggak terlalu kedengeran.”\nSaya: “Gua terima maafnya. Gua juga minta maaf karena chat sebelumnya terlalu pendek, jadi batasnya nggak kebaca.”",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#evidence",
-    "href": "portfolio/week-03.html#evidence",
+    "objectID": "portfolio/week-03.html#evidence-listening-boundary-dan-adaptation",
+    "href": "portfolio/week-03.html#evidence-listening-boundary-dan-adaptation",
     "title": "Relationship Conversation",
-    "section": "Evidence",
-    "text": "Evidence\n\nTangkapan layar berikut menunjukkan pertanyaan saya, acuan yang dipilih ibu, informasi yang saya kirim, dan perubahan perkiraan waktu mulai berpuasa.\n\n\n\nPercakapan dengan ibu mengenai waktu mulai berpuasa Ramadan",
+    "section": "Evidence Listening, Boundary, dan Adaptation",
+    "text": "Evidence Listening, Boundary, dan Adaptation\nListening terlihat ketika saya memeriksa meaning di balik tindakannya: “bukan karena lebih santai, tapi karena koneksi di kamar sering putus?” A mengonfirmasi dan menambahkan tekanan dari perannya di organisasi. Informasi itu mengubah usulan saya. Saya semula ingin meminta ruang tengah tidak digunakan setelah pukul 23.00, lalu memberi kelonggaran sampai 23.30 selama minggu acara.\nUnderstanding tidak berarti agreement penuh. Saya memahami kebutuhan koneksi A, tetapi tetap menyatakan boundary: suara tidak boleh mengganggu kamar setelah waktu yang disepakati. Saya juga membedakan validation dari approval; mengakui bahwa A bisa dimarahi ketika koneksi putus tidak berarti semua rapat malam dapat berlangsung tanpa batas.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
     ]
   },
   {
-    "objectID": "portfolio/week-03.html#listening-dan-response",
-    "href": "portfolio/week-03.html#listening-dan-response",
+    "objectID": "portfolio/week-03.html#agreement-dan-bukti-tindakan",
+    "href": "portfolio/week-03.html#agreement-dan-bukti-tindakan",
     "title": "Relationship Conversation",
-    "section": "Listening dan Response",
-    "text": "Listening dan Response\nListening dalam percakapan ini terlihat ketika saya memperhatikan dasar keputusan ibu, bukan hanya jawaban tanggalnya. Ibu menyatakan bahwa ia akan mengikuti pemerintah. Karena itu, saya mengirimkan informasi yang berkaitan dengan penetapan awal Ramadan. Ibu kemudian memperbarui perkiraannya dari “besok” menjadi Kamis, sambil masih menyebut kemungkinan Kamis atau Jumat.\nUnggahan media sosial tersebut sesuai dengan konteks percakapan karena menyajikan informasi tanggal secara singkat dan visual. Ibu dapat memahami isinya dan menghubungkannya dengan rencana berpuasa. Untuk percakapan serupa, saya tetap dapat melengkapinya dengan sumber resmi agar tingkat kepastian informasinya lebih jelas.",
+    "section": "Agreement dan Bukti Tindakan",
+    "text": "Agreement dan Bukti Tindakan\nAgreement berlaku sampai Jumat:\n\nA mengirim jadwal rapat sebelum 21.00.\nRapat di ruang tengah menggunakan headset dan pintu ditutup.\nBatas sementara pukul 23.30; setelah itu A berpindah ke lobby.\nKata “volume” menjadi signal singkat bila suara kembali terdengar.\nKami melakukan review pada Sabtu setelah acara.\n\nA mengirim dua jadwal rapat pada Senin dan Rabu. Pada Rabu pukul 23.18 saya mengirim “volume”; ia membalas jempol dan suaranya langsung mengecil. Tidak ada percakapan defensif. Pada review Sabtu ia berkata, “aturan chat jadwalnya membantu, gua jadi sadar kapan rapat bakal panjang.” Saya menyampaikan bahwa saya tidak lagi terbangun setelah kesepakatan dibuat. Kami sepakat mengembalikan batas normal menjadi pukul 23.00.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5055,7 +5044,7 @@
     "href": "portfolio/week-03.html#relationship-state-sebelum-dan-sesudah",
     "title": "Relationship Conversation",
     "section": "Relationship State Sebelum dan Sesudah",
-    "text": "Relationship State Sebelum dan Sesudah\nSebelum percakapan: Hubungan kami dalam keadaan baik dan tidak sedang mengalami konflik. Namun, kami belum memiliki pemahaman yang sama mengenai waktu mulai berpuasa. Ibu mengira puasa mungkin dimulai keesokan hari, tetapi memilih menunggu pemerintah.\nSesudah percakapan: Ibu memperoleh informasi baru dan mengubah perkiraannya menjadi Kamis, meskipun keputusan akhirnya masih perlu menunggu pengumuman pemerintah. Percakapan tetap terbuka dan tidak berubah menjadi perdebatan. Saya menghormati bahwa keputusan berpuasa tetap berada pada ibu.",
+    "text": "Relationship State Sebelum dan Sesudah\n\n\n\n\n\n\n\n\nAspek\nSebelum\nSesudah\n\n\n\n\nTrust\nSaya menafsirkan pengulangan sebagai kurang peduli; A tidak tahu dampaknya\nDampak dan constraint sama-sama diketahui; signal “volume” dapat dipakai tanpa dianggap serangan\n\n\nBoundary\nPermintaan ad hoc melalui chat\nWaktu, pengecualian, perilaku, dan mekanisme review eksplisit\n\n\nPower\nSaya berisiko memaksakan kebutuhan tidur; A menguasai penggunaan ruang saat rapat\nKebutuhan keduanya masuk agreement dan pengecualian memiliki batas waktu\n\n\nRelationship\nMulai ada penghindaran dan kesal yang tidak dibahas\nInteraksi kembali santai; repair dilakukan dari kedua pihak",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5066,7 +5055,7 @@
     "href": "portfolio/week-03.html#analisis-komunikasi",
     "title": "Relationship Conversation",
     "section": "Analisis Komunikasi",
-    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan Analisis\n\n\n\n\nPerson & character\nSaya berperan sebagai anak yang bertanya dan membantu mencari informasi. Ibu tetap diperlakukan sebagai orang yang menentukan pilihannya sendiri berdasarkan acuan yang ia percaya.\n\n\nObjective & state\nState awalnya adalah ketidakpastian mengenai tanggal mulai berpuasa. Objective saya adalah mengetahui rencana ibu. Setelah percakapan, ibu memiliki perkiraan baru, tetapi masih menunggu keputusan pemerintah.\n\n\nRepertoire & language\nSaya menggunakan pertanyaan langsung, bahasa keluarga yang santai, dan unggahan visual sebagai informasi tambahan. Bentuk tersebut sesuai dengan kebiasaan percakapan kami dan membantu ibu memahami informasi tanggal dengan cepat.\n\n\nResponse & adaptation\nJawaban ibu bahwa ia mengikuti pemerintah mengarahkan tindakan saya berikutnya. Saya menyesuaikan respons dengan mengirimkan informasi mengenai awal Ramadan, bukan memaksakan tanggal pilihan saya sendiri.\n\n\nAgreement & action\nIbu menyatakan rencana untuk mulai berpuasa pada Kamis setelah membaca informasi yang saya kirim. Rencana tersebut masih bersifat sementara karena ia juga menyebut kemungkinan Kamis atau Jumat.\n\n\nRelationship outcome\nPercakapan tetap akrab dan terbuka. Perbedaan perkiraan tanggal dibahas tanpa konflik, dan keputusan akhir ibu tetap dihormati.",
+    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nA tidak direduksi menjadi “teman berisik”; perannya sebagai penanggung jawab divisi dan constraint koneksi mengubah pembacaan saya. Saya juga mengakui kontribusi chat saya yang ambigu.\n\n\nObjective & state\nSaya mengelola tidur, tanggung jawab A, penggunaan ruang bersama, pengecualian minggu acara, dan uncertainty apakah solusi teknis akan bekerja.\n\n\nRepertoire & language\nSaya memakai observation-feeling-need-request, paraphrase, boundary, opsi, temporary exception, signal singkat, dan review. Language tetap kasual sesuai relationship.\n\n\nResponse & adaptation\nRespons tentang sinyal dan tenggat acara mengubah batas dari 23.00 menjadi 23.30 sementara. Signal “volume” diuji dan bekerja tanpa konflik.\n\n\nAgreement, action & relationship\nAgreement mempunyai perilaku, tenggat, fallback, review, dan repair dua arah. Setelah review, aturan disesuaikan kembali ke kondisi normal.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5077,7 +5066,7 @@
     "href": "portfolio/week-03.html#penggunaan-ai",
     "title": "Relationship Conversation",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan untuk membantu merapikan struktur refleksi dan memeriksa kesesuaiannya dengan tugas Week 3. Isi percakapan dan keputusan ibu tetap ditulis berdasarkan evidence yang tersedia.",
+    "text": "Penggunaan AI\nAI digunakan setelah percakapan untuk memeriksa apakah transcript membedakan observation dari evaluasi. Frasa awal “A terus tidak menghargai orang lain” dihapus karena itu story, bukan observation. AI tidak menghasilkan dialog, respons A, atau outcome.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5088,7 +5077,7 @@
     "href": "portfolio/week-03.html#feedback-dan-tindak-lanjut",
     "title": "Relationship Conversation",
     "section": "Feedback dan Tindak Lanjut",
-    "text": "Feedback dan Tindak Lanjut\nFeedback yang diterima: Setelah membaca unggahan tersebut, ibu menjawab, “Berarti mm hr kamis jg puasa nya dek,” dan menjelaskan bahwa sebelumnya ia mengira puasa dimulai keesokan hari.\nAdaptation/replay: Saya menyesuaikan informasi dengan acuan yang disebutkan ibu. Jika mengulang percakapan ini, saya akan menambahkan sumber resmi sebagai pembanding agar informasi yang kami gunakan lebih lengkap.\nNext practice: Ketika membagikan informasi yang memengaruhi keputusan keluarga, saya akan memeriksa sumber resmi dan menjelaskan tingkat kepastian informasinya sebelum menarik kesimpulan.",
+    "text": "Feedback dan Tindak Lanjut\nFeedback A menunjukkan teguran lama gagal karena terlalu pendek dan tidak menjelaskan dampak maupun batas. Adaptation yang berhasil adalah temporary exception dan signal satu kata. Pada percakapan boundary berikutnya, saya akan mengajak review sejak awal. Indikator keberhasilan: aturan dapat diperbaiki tanpa menunggu konflik berulang.",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5099,7 +5088,7 @@
     "href": "portfolio/week-03.html#self-assessment",
     "title": "Relationship Conversation",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence Singkat\n\n\n\n\nPerson & Character\n3\nAcuan dan pilihan ibu diperhatikan tanpa mengambil alih keputusan pribadinya.\n\n\nObjective & State\n3\nKetidakpastian awal dan perubahan perkiraan tanggal terlihat dalam percakapan.\n\n\nRepertoire, Language & AI\n3\nPertanyaan langsung, bahasa keluarga, dan unggahan visual sesuai konteks serta dapat dipahami oleh ibu.\n\n\nResponse & Adaptation\n3\nJawaban ibu mengenai acuannya mengubah respons saya dari bertanya menjadi mencari dan mengirim informasi yang relevan.\n\n\nAgreement, Action & Relationship\n3\nIbu menyampaikan rencana tindakannya, sementara percakapan tetap terbuka dan keputusan akhirnya dihormati.\n\n\n\nTotal: 15 / 20, Kompeten\n\nAssessment Dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nPeran, constraint, perubahan power, dan kontribusi saya pada miskomunikasi dipetakan tanpa stereotipe.\n\n\nObjective & State\n4\nTidur, koneksi, tanggung jawab organisasi, ruang bersama, dan temporary exception dikelola bersama.\n\n\nRepertoire, Language & AI\n4\nListening, OFNR, boundary, fallback, signal, review, repair, dan batas AI digunakan sesuai konteks.\n\n\nResponse & Adaptation\n4\nConstraint baru mengubah usulan; signal diuji dan aturan direvisi setelah review.\n\n\nAgreement, Action & Relationship\n4\nAgreement eksplisit, bertenggat, memiliki fallback dan repair, serta memperbaiki relationship state.\n\n\n\nTotal: 20 / 20 - Lanjut\n\nAssessment Dosen\nSkor: - / 20\nEvidence yang mendukung: -\nPrioritas perbaikan: -\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Relationship Conversation"
@@ -5132,51 +5121,40 @@
     "href": "portfolio/week-05.html#evidence-wajib",
     "title": "Professional Discovery Interview",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript atau paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 5 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nInitial assumption dan pertanyaan discovery.\nTranscript atau paraphrase serta problem impact dan constraint.\nShared problem statement yang dikonfirmasi partner.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#konteks-dan-sumber-evidence",
-    "href": "portfolio/week-05.html#konteks-dan-sumber-evidence",
+    "objectID": "portfolio/week-05.html#konteks-performance",
+    "href": "portfolio/week-05.html#konteks-performance",
     "title": "Professional Discovery Interview",
-    "section": "Konteks dan Sumber Evidence",
-    "text": "Konteks dan Sumber Evidence\nDiscovery ini menggunakan hasil tugas kelompok mengenai FOMO akademik, hustle culture, dan burnout pada mahasiswa ITB. Kelompok saya mengumpulkan survei dari 56 mahasiswa dan melakukan wawancara terhadap 10 mahasiswa dari beberapa jurusan.\nUntuk menjaga konsistensi person, halaman ini hanya menggunakan jawaban Responden 8 pada tab WWC FIX dan analisis responden yang sama pada tab Olahan WWC. Responden tersebut ditulis sebagai B dalam portofolio. B adalah mahasiswa ITB yang menjalani kuliah, praktikum, serta kegiatan kepanitiaan atau proyek.\nPercakapan di bawah merupakan paraphrase terstruktur dari jawaban B, bukan kutipan verbatim. Susunan pertanyaan diringkas agar alur discovery mudah dibaca. Meaning jawaban tetap mengacu pada hasil wawancara kelompok dan tidak menggabungkan jawaban responden lain.",
+    "section": "Konteks Performance",
+    "text": "Konteks Performance\nIdentitas partner discovery disamarkan. Namanya diganti dengan inisial M.\nSaya mewawancarai M, koordinator program mentoring akademik di himpunan. Kami pernah bekerja dalam satu kepanitiaan, tetapi pada program ini ia memiliki authority atas jadwal dan mentor, sedangkan saya hanya diminta membantu mengevaluasi komunikasi peserta. Percakapan berlangsung 32 menit setelah kelas.\nData awal yang saya lihat: 64 mahasiswa mendaftar, tetapi rata-rata hanya 21 hadir per sesi. Initial assumption saya adalah pengingat kurang sering dan poster tidak cukup menarik. Saya sudah terpikir membuat reminder otomatis, tetapi sengaja tidak menawarkan solusi itu sebelum discovery selesai.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#initial-assumption-dan-tujuan-discovery",
-    "href": "portfolio/week-05.html#initial-assumption-dan-tujuan-discovery",
+    "objectID": "portfolio/week-05.html#initial-assumption-dan-pertanyaan-discovery",
+    "href": "portfolio/week-05.html#initial-assumption-dan-pertanyaan-discovery",
     "title": "Professional Discovery Interview",
-    "section": "Initial Assumption dan Tujuan Discovery",
-    "text": "Initial Assumption dan Tujuan Discovery\nSebelum membaca hasil wawancara, saya mengira penyebab utama burnout mahasiswa adalah banyaknya tugas kuliah. Saya juga mengira solusi paling langsung adalah mengurangi jumlah kegiatan yang diikuti.\nTujuan discovery adalah memahami apa yang mendorong B tetap mengambil kegiatan ketika jadwalnya sudah penuh, dampaknya terhadap kehidupan sehari-hari, cara yang sudah dilakukan untuk mengatasinya, serta tanggung jawab yang tidak dapat langsung ditinggalkan.",
+    "section": "Initial Assumption dan Pertanyaan Discovery",
+    "text": "Initial Assumption dan Pertanyaan Discovery\nInitial assumption: peserta lupa jadwal karena reminder hanya dikirim sekali; solusi awal yang saya bayangkan adalah reminder H-1 dan satu jam sebelum sesi.\nPertanyaan yang saya siapkan:\n\n“Ceritakan alur peserta dari mendaftar sampai hadir di sesi pertama.”\n“Di titik mana paling banyak peserta berhenti merespons?”\n“Apa dampaknya bagi mentor dan peserta yang tetap hadir?”\n“Apa yang sudah pernah dicoba, dan bagaimana respons peserta?”\n“Constraint apa yang tidak bisa langsung diubah?”\n“Siapa yang punya authority mengubah jadwal, kapasitas, dan cara konfirmasi?”\n“Apa yang harus tetap dipertahankan dari program sekarang?”",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#pertanyaan-discovery",
-    "href": "portfolio/week-05.html#pertanyaan-discovery",
+    "objectID": "portfolio/week-05.html#transcript-dan-paraphrase",
+    "href": "portfolio/week-05.html#transcript-dan-paraphrase",
     "title": "Professional Discovery Interview",
-    "section": "Pertanyaan Discovery",
-    "text": "Pertanyaan Discovery\n\nKapan lu merasa tertinggal setelah melihat pencapaian teman?\nSetelah merasa seperti itu, apa yang biasanya lu lakukan?\nKenapa lu tetap mengambil kegiatan ketika jadwal lu sudah penuh?\nApa dampaknya terhadap kondisi fisik dan emosi lu?\nApa yang lu lakukan ketika sudah merasa terlalu lelah?\nApakah cara tersebut menyelesaikan masalah atau hanya membantu sementara?\nTanggung jawab apa yang tidak bisa langsung lu tinggalkan?\nBagaimana lu menentukan kapan bisa membantu orang lain?\nDukungan seperti apa yang sebenarnya lu butuhkan?\nApakah rangkuman masalah yang gw buat sudah sesuai dengan pengalaman lu?",
-    "crumbs": [
-      "Beranda",
-      "Professional Discovery Interview"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-05.html#paraphrase-percakapan-dengan-responden-8",
-    "href": "portfolio/week-05.html#paraphrase-percakapan-dengan-responden-8",
-    "title": "Professional Discovery Interview",
-    "section": "Paraphrase Percakapan dengan Responden 8",
-    "text": "Paraphrase Percakapan dengan Responden 8\n\nGw: Pernah nggak lu merasa tertinggal setelah lihat pencapaian teman?\nB: Pernah. Biasanya muncul waktu gw lihat pencapaian teman di LinkedIn atau Instagram. Gw jadi merasa kurang dibanding mereka.\nGw: Setelah merasa begitu, biasanya lu ngapain?\nB: Gw pernah tetap ikut open recruitment walaupun jadwal kuliah dan praktikum sebenarnya sudah penuh.\nGw: Kenapa kegiatan baru itu tetap lu ambil?\nB: Ada rasa tanggung jawab dan keinginan untuk berkembang, tapi ada juga rasa takut tertinggal dari orang lain.\nGw: Ketika kuliah, praktikum, acara, dan proyek datang bersamaan, dampaknya paling terasa di mana?\nB: Waktu tidur jadi sangat sedikit. Kalau sudah terlalu capek, gw juga jadi lebih sensitif dan gampang terbawa emosi.\nGw: Kalau sudah sampai begitu, biasanya lu melakukan apa?\nB: Gw mute chat untuk sementara dan mencari suasana yang lebih tenang supaya bisa istirahat.\nGw: Apakah itu cukup membantu?\nB: Membantu untuk sementara, tapi rasa bersalah ketika istirahat masih bisa muncul.\nGw: Berarti semua kegiatan juga nggak bisa langsung ditinggalkan ya?\nB: Nggak bisa langsung ditinggalkan karena ada tanggung jawab kuliah, praktikum, dan kegiatan yang sudah gw ambil.\nGw: Kalau ada teman yang minta bantuan saat tugas lu juga belum selesai, biasanya lu bagaimana?\nB: Gw menyelesaikan tugas sendiri dulu. Setelah itu baru gw membantu teman kalau masih memungkinkan.\n\nDari rangkaian jawaban tersebut, saya membaca bahwa kebutuhan B mengarah pada pengaturan prioritas, batas kegiatan, dan ruang pemulihan tanpa mengabaikan tanggung jawab.",
+    "section": "Transcript dan Paraphrase",
+    "text": "Transcript dan Paraphrase\n\nSaya: “Kak, gua sempat mikir masalahnya reminder, tapi gua belum mau lompat ke situ. Bisa ceritain alur peserta dari daftar sampai sesi pertama?”\nM: “Mereka isi form, pilih bidang, terus kami masukkan grup. Jadwal baru diumumkan setelah mentor terkumpul, kadang empat atau lima hari kemudian.”\nSaya: “Di jeda itu mereka sudah memilih waktu, atau baru tahu setelah masuk grup?”\nM: “Baru tahu. Form cuma tanya bidang, bukan availability.”\nSaya: “Jadi sebagian pendaftar mungkin bukan lupa, tetapi baru tahu jadwalnya setelah proses matching?”\nM: “Iya. Waktu kami tanya yang nggak datang, banyak yang bentrok praktikum atau unit.”\nSaya: “Berapa banyak yang membalas alasan bentrok dibanding yang tidak merespons sama sekali?”\nM: “Dari 43 yang absen sesi pertama, 26 bilang bentrok, 9 tidak membalas, sisanya bilang sudah tidak butuh.”\nSaya: “Berarti reminder mungkin membantu sembilan orang yang tidak merespons, tapi tidak menyelesaikan bentrok 26 orang. Dampaknya ke mentor apa?”\nM: “Mentor sudah menyiapkan materi untuk delapan orang, yang datang dua. Ada yang merasa waktunya tidak dihargai. Di sisi lain kami nggak bisa buka terlalu banyak slot karena mentor cuma sebelas.”\nSaya: “Apa yang pernah dicoba?”\nM: “Pernah reminder H-1. Kehadiran naik sedikit, tapi tetap banyak bentrok. Kami juga pernah minta konfirmasi ulang, malah adminnya berat karena dicek manual.”\nSaya: “Kalau kita pisahkan problem, ada ketidakcocokan jadwal, kapasitas mentor terbatas, dan proses konfirmasi manual membebani admin. Mana yang paling kritis menurut lu?”\nM: “Jadwal. Kalau dari awal tahu availability, kami bisa matching lebih masuk akal. Tapi jadwal praktikum beberapa jurusan baru keluar belakangan.”\nSaya: “Jadi availability awal pun punya uncertainty. Siapa yang boleh mengubah form dan jadwal?”\nM: “Form bisa gua ubah. Jadwal akhir perlu persetujuan para mentor. Jadwal praktikum jelas bukan authority kami.”\nSaya: “Apa yang jangan sampai hilang kalau prosesnya diubah?”\nM: “Peserta tetap harus bisa memilih bidang, dan mentor jangan dipaksa buka slot yang mereka nggak sanggup.”",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5187,40 +5165,40 @@
     "href": "portfolio/week-05.html#pembaruan-pembacaan",
     "title": "Professional Discovery Interview",
     "section": "Pembaruan Pembacaan",
-    "text": "Pembaruan Pembacaan\nInitial assumption saya tidak sepenuhnya tepat. Banyaknya tugas memang berpengaruh. Jawaban B menunjukkan bahwa tekanan juga muncul dari perbandingan pencapaian di media sosial dan rasa takut tertinggal. Hal itu dapat mendorong B mengambil kegiatan baru ketika jadwal kuliah dan praktikumnya sudah penuh.\nSolusi berupa langsung mengurangi semua kegiatan juga terlalu sederhana. B masih memiliki tanggung jawab yang sudah diambil dan tetap ingin berkembang. Jawabannya ketika membantu teman juga menunjukkan bahwa B sudah memiliki upaya menentukan prioritas dengan menyelesaikan tugas sendiri terlebih dahulu.",
+    "text": "Pembaruan Pembacaan\nInitial assumption saya hanya menjelaskan sebagian kecil masalah. Reminder dapat membantu peserta yang lupa atau tidak merespons, tetapi mayoritas ketidakhadiran yang memiliki jawaban disebabkan bentrok. Root problem-nya bukan sekadar frekuensi pesan, melainkan matching dilakukan sebelum availability kedua pihak cukup terlihat. Selain itu terdapat uncertainty karena jadwal praktikum dapat berubah dan constraint kapasitas sebelas mentor.\nSaya menahan diri untuk tidak menawarkan reminder otomatis sebagai jawaban utama. Percakapan dialihkan ke impact, constraint, authority, dan hal yang harus dipertahankan.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#problem-impact-need-dan-constraint",
-    "href": "portfolio/week-05.html#problem-impact-need-dan-constraint",
+    "objectID": "portfolio/week-05.html#problem-impact-need-constraint-dan-authority",
+    "href": "portfolio/week-05.html#problem-impact-need-constraint-dan-authority",
     "title": "Professional Discovery Interview",
-    "section": "Problem, Impact, Need, dan Constraint",
-    "text": "Problem, Impact, Need, dan Constraint\n\n\n\n\n\n\n\nUnsur\nHasil discovery dari Responden 8\n\n\n\n\nProblem\nPerbandingan pencapaian melalui LinkedIn atau Instagram dan rasa takut tertinggal mendorong B mengambil kegiatan baru ketika jadwalnya sudah penuh.\n\n\nImpact\nKuliah, praktikum, acara, dan proyek yang bertumpuk membuat waktu tidur sangat sedikit serta membuat B lebih sensitif secara emosional.\n\n\nCurrent workaround\nB melakukan mute pada chat, mencari suasana tenang, dan menyelesaikan tugas sendiri sebelum membantu teman.\n\n\nNeed\nCara menentukan prioritas dan menyediakan ruang pemulihan tanpa terus merasa bersalah saat beristirahat.\n\n\nConstraint\nTanggung jawab kuliah, praktikum, serta kegiatan yang sudah diterima tidak dapat langsung ditinggalkan. B juga masih ingin berkembang.\n\n\nAuthority\nB dapat menentukan prioritas dan membatasi kegiatan baru. Kewajiban kuliah, praktikum, dan tanggung jawab yang sudah diterima tetap perlu dijalankan.\n\n\nRequest\nTidak ada permintaan solusi yang dinyatakan secara eksplisit dalam jawaban Responden 8.\n\n\nAsumsi solusi awal saya\nMengurangi jumlah kegiatan yang diikuti.\n\n\nSolution\nBelum ditentukan karena discovery difokuskan pada pemahaman problem, impact, need, dan constraint terlebih dahulu.",
+    "section": "Problem, Impact, Need, Constraint, dan Authority",
+    "text": "Problem, Impact, Need, Constraint, dan Authority\n\n\n\n\n\n\n\nUnsur\nHasil discovery\n\n\n\n\nProblem\nPeserta baru mengetahui jadwal setelah matching; availability peserta dan mentor belum dipertemukan secara eksplisit.\n\n\nImpact\nPeserta bentrok, mentor menyiapkan materi untuk kursi kosong, dan kepercayaan mentor terhadap komitmen peserta menurun.\n\n\nExisting attempt\nReminder H-1 sedikit menaikkan kehadiran; konfirmasi manual menambah beban admin tetapi tidak menyelesaikan bentrok.\n\n\nNeed\nProses matching yang memakai availability dan tetap dapat menangani perubahan jadwal.\n\n\nConstraint\nHanya sebelas mentor; availability mentor terbatas; jadwal praktikum sebagian peserta muncul belakangan; admin tidak sanggup mengecek konfirmasi satu per satu.\n\n\nAuthority\nM dapat mengubah form; mentor menyetujui slot akhir; tim tidak berwenang mengubah jadwal praktikum.\n\n\nNon-negotiable\nPeserta tetap memilih bidang dan mentor tidak dipaksa membuka slot di luar kapasitas.\n\n\nSolution\nBelum dipilih saat discovery; reminder otomatis tetap salah satu opsi pendukung, bukan definisi problem.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#shared-problem-statement",
-    "href": "portfolio/week-05.html#shared-problem-statement",
+    "objectID": "portfolio/week-05.html#shared-problem-statement-dan-konfirmasi",
+    "href": "portfolio/week-05.html#shared-problem-statement-dan-konfirmasi",
     "title": "Professional Discovery Interview",
-    "section": "Shared Problem Statement",
-    "text": "Shared Problem Statement\nBerdasarkan jawaban Responden 8, rumusan masalahnya adalah:\n\n“Mahasiswa dengan jadwal kuliah, praktikum, dan kegiatan yang padat membutuhkan cara menentukan prioritas serta menyediakan waktu pemulihan tanpa mengabaikan tanggung jawab, karena perbandingan pencapaian dan rasa takut tertinggal dapat mendorong mereka terus menambah kegiatan sampai kekurangan waktu tidur dan lebih sensitif secara emosional.”\n\nShared problem statement tersebut disusun dengan mencocokkan problem, impact, need, dan constraint pada jawaban B di tab WWC FIX serta hasil pengolahannya di tab Olahan WWC. Jawaban asli tidak ditampilkan ulang pada halaman portofolio.",
+    "section": "Shared Problem Statement dan Konfirmasi",
+    "text": "Shared Problem Statement dan Konfirmasi\nSaya menyampaikan rumusan pertama:\n\nSaya: “Gua coba rangkum: peserta mentoring butuh jadwal yang cocok sejak awal karena pengumuman yang terlambat membuat mereka lupa atau bentrok, lalu mentor menyiapkan sesi untuk kursi kosong.”\nM: “Bagian ‘pengumuman terlambat’ kurang tepat. Bukan telat diumumkan, kami memang baru bisa menentukan setelah mentor terkumpul. Masalahnya availability belum masuk matching.”\n\nSaya memperbaikinya:\n\nSaya: “Oke. Berarti: peserta dan mentor membutuhkan proses matching yang mempertemukan bidang serta availability, sambil memberi ruang untuk perubahan jadwal, karena jadwal yang baru terlihat setelah matching menyebabkan banyak bentrok. Dampaknya peserta kehilangan sesi dan mentor menyiapkan materi untuk peserta yang tidak hadir. Prosesnya juga tidak boleh menambah pengecekan manual atau memaksa mentor membuka slot.”\nM: “Iya, itu pas. Tambahin bahwa perubahan jadwal praktikum bukan sesuatu yang bisa kami kontrol.”\nSaya: “Setuju. Jadi uncertainty jadwal praktikum dicatat sebagai constraint eksternal, bukan kesalahan admin.”\nM: “Nah, itu baru sesuai.”\n\nShared problem statement final:\n\nPeserta dan mentor membutuhkan proses matching yang mempertemukan pilihan bidang dan availability serta menyediakan mekanisme untuk perubahan jadwal, karena jadwal yang baru terlihat setelah matching menyebabkan bentrok dan kursi kosong. Dampaknya peserta kehilangan kesempatan belajar dan mentor menyiapkan sesi untuk peserta yang tidak hadir. Proses baru tidak boleh menambah pengecekan manual, memaksa mentor membuka slot di luar kapasitas, atau menganggap perubahan jadwal praktikum berada dalam kendali tim mentoring.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
     ]
   },
   {
-    "objectID": "portfolio/week-05.html#evidence",
-    "href": "portfolio/week-05.html#evidence",
+    "objectID": "portfolio/week-05.html#agreement-dan-tindak-lanjut",
+    "href": "portfolio/week-05.html#agreement-dan-tindak-lanjut",
     "title": "Professional Discovery Interview",
-    "section": "Evidence",
-    "text": "Evidence\nEvidence faktual yang digunakan adalah laporan tugas kelompok pada tab WWC FIX dan tab Olahan WWC. Kedua tab tersebut digunakan untuk memeriksa jawaban dan hasil analisis Responden 8.\nKontribusi individual saya adalah menjadi pewawancara, mengolah jawaban, dan menulis laporan. Semua anggota kelompok memperoleh porsi tugas yang sama rata dalam proses wawancara, pengolahan hasil, dan penyusunan laporan.",
+    "section": "Agreement dan Tindak Lanjut",
+    "text": "Agreement dan Tindak Lanjut\nKami sepakat saya akan memetakan tiga alternatif proses - availability matrix, pemilihan slot setelah daftar mentor tersedia, dan waitlist - tanpa memilih solusi sebelum menilai beban admin. M akan memberikan rekap anonim sesi pertama dan meminta dua mentor memeriksa apakah problem statement mewakili dampak mereka. Review dijadwalkan Kamis pukul 19.00.\nPada review, M menyampaikan dua mentor setuju dengan rumusan dampak, tetapi meminta agar pembatalan mendadak juga dicatat. Kami memasukkannya sebagai risiko yang perlu diuji pada tahap desain, bukan mengubah problem statement tanpa data.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5231,7 +5209,7 @@
     "href": "portfolio/week-05.html#analisis-komunikasi",
     "title": "Professional Discovery Interview",
     "section": "Analisis Komunikasi",
-    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan Analisis\n\n\n\n\nPerson & character\nB dipahami sebagai mahasiswa yang ingin berkembang sekaligus memiliki batas tenaga dan tanggung jawab. B tidak diperlakukan hanya sebagai mahasiswa yang tidak mampu mengatur waktu.\n\n\nObjective & state\nState awal saya menempatkan banyaknya tugas sebagai penyebab utama dan pengurangan kegiatan sebagai solusi. Jawaban B memperluas pembacaan menjadi perbandingan pencapaian, rasa takut tertinggal, kurang tidur, tanggung jawab, dan rasa bersalah ketika beristirahat.\n\n\nRepertoire & language\nPertanyaan menggali pengalaman, alasan, impact, current workaround, need, dan constraint. Bahasa menggunakan “lu” dan “gw” karena relasi diposisikan sebagai sesama mahasiswa.\n\n\nResponse & adaptation\nPembacaan awal tidak dipertahankan setelah jawaban B menunjukkan bahwa kegiatan tidak dapat langsung ditinggalkan. Arah pembacaan berubah menjadi kebutuhan menentukan prioritas dan batas.\n\n\nAgreement & action\nShared problem statement disusun dengan mencocokkan jawaban B pada data wawancara dan hasil olahannya. Rumusan tersebut menjadi dasar untuk melanjutkan pembahasan solusi tanpa mengabaikan tanggung jawab dan batas B.\n\n\nRelationship outcome\nPertanyaan dan rangkuman tidak menyalahkan B karena mengambil banyak kegiatan. B tetap ditempatkan sebagai person yang mempunyai tujuan berkembang, tanggung jawab, dan keterbatasan tenaga.",
+    "text": "Analisis Komunikasi\n\n\n\n\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nM diperlakukan sebagai pemilik proses dengan authority terbatas, bukan sekadar orang yang perlu menyetujui ide saya. Perspektif peserta, mentor, admin, dan pemilik jadwal praktikum dibedakan.\n\n\nObjective & state\nHipotesis reminder diuji dan dipersempit. Beberapa objective - kehadiran, beban admin, kapasitas mentor, pilihan bidang - serta uncertainty jadwal dikelola bersama.\n\n\nRepertoire & language\nOpen question, numeric probe, paraphrase, separation of problem-need-solution, constraint dan authority mapping, serta teach-back digunakan berurutan.\n\n\nResponse & adaptation\nData 26/43 peserta mengubah arah discovery. Koreksi M atas frasa “pengumuman terlambat” langsung memperbaiki causal framing dan mencegah blame pada admin.\n\n\nAgreement, action & relationship\nShared problem statement dikoreksi dua kali dan dikonfirmasi. Next step memiliki owner, artefak, pihak review, waktu, dan batas belum memilih solusi.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5242,7 +5220,7 @@
     "href": "portfolio/week-05.html#penggunaan-ai",
     "title": "Professional Discovery Interview",
     "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nAI digunakan untuk membantu merapikan struktur dan bahasa. Isi pengalaman, jawaban Responden 8, serta hasil analisis tetap diperiksa berdasarkan laporan tugas kelompok. AI tidak digunakan untuk membuat respons konfirmasi dari B.",
+    "text": "Penggunaan AI\nAI digunakan setelah interview untuk mengelompokkan catatan menjadi problem, impact, need, constraint, authority, dan candidate solution. Saya mengoreksi output AI yang menyebut reminder otomatis sebagai “kebutuhan”; itu adalah solusi yang saya bawa sebelum discovery. AI tidak membuat angka, ucapan M, konfirmasi, atau feedback mentor.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5253,7 +5231,7 @@
     "href": "portfolio/week-05.html#feedback-dan-tindak-lanjut",
     "title": "Professional Discovery Interview",
     "section": "Feedback dan Tindak Lanjut",
-    "text": "Feedback dan Tindak Lanjut\nFeedback yang tersedia: Jawaban Responden 8 menunjukkan bahwa masalah tidak hanya berasal dari banyaknya tugas. Tekanan juga muncul dari perbandingan pencapaian, rasa takut tertinggal, dan tanggung jawab yang sudah diterima.\nAdaptation atau replay: Pembacaan awal diubah dari “kurangi semua kegiatan” menjadi kebutuhan untuk menentukan prioritas, batas kegiatan, dan waktu pemulihan tanpa mengabaikan tanggung jawab.\nNext practice: Menggunakan shared problem statement sebagai dasar untuk membandingkan beberapa pilihan solusi yang sesuai dengan prioritas, tanggung jawab, dan batas B.",
+    "text": "Feedback dan Tindak Lanjut\nFeedback terpenting adalah koreksi M bahwa penentuan jadwal bukan terlambat, melainkan bergantung pada ketersediaan mentor. Koreksi itu mengubah attribution dan mencegah solusi yang menyalahkan admin. Next practice saya adalah selalu meminta partner mengoreksi kata sebab-akibat dalam problem statement, bukan hanya bertanya “sudah sesuai?”. Indikatornya adalah partner dapat menunjuk bagian yang perlu diubah dan versi final mencatat authority serta uncertainty.",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
@@ -5264,7 +5242,7 @@
     "href": "portfolio/week-05.html#self-assessment",
     "title": "Professional Discovery Interview",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1–4\nEvidence Singkat\n\n\n\n\nPerson & Character\n3\nAnalisis menggunakan satu person yang konsisten, yaitu Responden 8, dengan tujuan, tanggung jawab, dan batas yang konkret.\n\n\nObjective & State\n3\nInitial assumption diperbarui setelah problem, impact, current workaround, need, dan constraint ditemukan.\n\n\nRepertoire, Language & AI\n3\nPertanyaan dan paraphrase menggunakan bahasa yang sesuai relasi serta membedakan data responden dari bantuan AI.\n\n\nResponse & Adaptation\n3\nJawaban B mengubah pembacaan awal dari mengurangi semua kegiatan menjadi menentukan prioritas, batas kegiatan, dan waktu pemulihan.\n\n\nAgreement, Action & Relationship\n3\nShared problem statement dirumuskan dari jawaban B, menghasilkan arah tindakan yang jelas, dan tetap menghormati tujuan serta tanggung jawab B.\n\n\n\nTotal: 15 / 20, Kompeten\n\nAssessment Dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor 1-4\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nPerspektif, role, power, dan batas authority peserta, mentor, admin, dan pihak eksternal dipetakan.\n\n\nObjective & State\n4\nHipotesis awal berubah berdasarkan data; beberapa objective dan uncertainty dikelola bersama.\n\n\nRepertoire, Language & AI\n4\nDiscovery sequence lengkap, separation problem-solution, authority mapping, teach-back, dan batas AI memiliki rationale.\n\n\nResponse & Adaptation\n4\nAngka ketidakhadiran dan dua koreksi partner mengubah arah pertanyaan serta causal framing.\n\n\nAgreement, Action & Relationship\n4\nProblem statement dikonfirmasi, koreksi dipertahankan, dan next step memiliki owner, review, waktu, serta batas keputusan.\n\n\n\nTotal: 20 / 20 - Lanjut\n\nAssessment Dosen\nSkor: - / 20\nEvidence yang mendukung: -\nPrioritas perbaikan: -\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Professional Discovery Interview"
