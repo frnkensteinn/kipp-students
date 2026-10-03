@@ -2,9 +2,9 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Siap dinilai"
-self_score: "15/20"
-assessor_score: "—"
-description: "Evidence perubahan dari reaction menuju response."
+self_score: "20/20"
+assessor_score: " - "
+description: "Mengubah reaksi defensif setelah menerima kritik menjadi tindakan revisi yang terukur."
 categories: [Fondasi, Intra-Self]
 ---
 
@@ -18,129 +18,105 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Episode
+
+Identitas pihak lain disamarkan. Nama rekan kelompok diganti dengan inisial S.
+
+Pada Rabu pukul 16.20 saya menerima komentar dari asisten praktikum pada draft laporan kelompok: “alur analisis belum bisa diikuti; grafik muncul tanpa penjelasan mengapa metrik ini dipakai.” Saya yang menyusun bagian analisis langsung merasa pekerjaan saya dianggap buruk. Pada saat yang sama, laporan harus dikumpulkan keesokan hari dan dua anggota kelompok sedang mengerjakan bagian lain.
 
 ## Pembedahan Lapisan Batin
 
-**Peristiwa yang dianalisis:**  
-Pada 5 Agustus 2026 pukul 00.49 WIB, saya sedang beristirahat di kamar kos Bandung setelah seharian berkegiatan. Tiba-tiba masuk rentetan pesan WhatsApp dari kawan satu daerah asal, FP. Ia baru saja menyelesaikan acara di Bandung dan belum memiliki tempat tinggal di Bandung (kos aslinya berada di Jatinangor). FP berniat menumpang istirahat malam itu dan meminta tolong dibukakan gerbang kos.
-
-| Lapisan Batin | Catatan Refleksi Pribadi |
+| Lapisan | Catatan |
 |---|---|
-| **Fact (Fakta Objektif)** | Pesan masuk pukul 00.49–00.52 WIB dari FP menanyakan apakah saya masih bangun, menyatakan ingin menumpang, dan meminta dibukakan gerbang kos. Belum ada penolakan atau penerimaan saat pesan pertama dibaca. |
-| **Initial story (Asumsi Pertama)** | Muncul rasa kesal spontan: menganggap FP mengganggu jam istirahat malam dan mempertanyakan mengapa ia tidak mencari penginapan atau mengabari dari siang hari. |
-| **Emotion & body signal** | Kaget, lelah fisik, rasa kantuk skala 7/10, mata terasa berat, dan tubuh enggan beranjak dari kasur. |
-| **Reactive character** | Saya sebagai orang yang sedang lelah dan lebih ingin mempertahankan waktu istirahat, sehingga sempat terpikir untuk mengabaikan pesan. |
-| **Desired character** | Saya sebagai teman yang bersedia membantu ketika kawan membutuhkan tempat untuk beristirahat pada malam hari. |
+| **Event** | Komentar revisi muncul di dokumen bersama, lalu ketua kelompok menandai nama saya di grup. |
+| **Fact** | Komentar menyebut dua hal: alur belum mudah diikuti dan alasan pemilihan metrik belum ditulis. Tidak ada kalimat bahwa seluruh analisis salah atau saya tidak kompeten. Tenggat tersisa sekitar 20 jam. |
+| **Initial story** | “Asisten menganggap analisis gua jelek; teman-teman pasti merasa gua menghambat.” |
+| **Emotion dan body signal** | Malu 7/10, kesal 6/10, dada terasa tegang, dan dorongan menutup dokumen. |
+| **Reactive character** | Pembela diri yang ingin menjelaskan bahwa grafik dibuat sesuai pembagian tugas dan waktu pengerjaan terbatas. |
+| **Protective character** | Anggota tim yang takut kehilangan kepercayaan kelompok jika mengakui bagian saya belum jelas. |
+| **Desired character** | Analis yang mampu menguji kritik, meminta kejelasan, dan memperbaiki artefak tanpa mengubah data agar terlihat bagus. |
+| **Uncertainty** | Saya belum tahu apakah masalahnya hanya pada narasi atau juga pada pilihan metrik. Saya juga belum tahu bagian mana yang paling membingungkan pembaca. |
 
-Cerita awal saya melampaui fakta: pesan FP bukanlah bentuk kesengajaan untuk mengganggu, melainkan kebutuhan mendesak dari kawan perantau yang kehabisan opsi tempat tinggal dini hari.
+## Initial Story dan Alternative Narratives
 
-## Narasi Alternatif (Alternative Narratives)
+**Initial story:** komentar itu adalah penilaian menyeluruh terhadap kemampuan saya dan tanda bahwa kontribusi saya mengecewakan tim.
 
-1. **Perspektif Kebutuhan Darurat:**  
-   FP baru selesai mengikuti suatu acara dan belum memiliki kos di Bandung. Permintaan untuk menumpang dan dibukakan gerbang menunjukkan bahwa ia membutuhkan tempat beristirahat malam itu. Kalimat "maap merepotkan:(" juga menunjukkan bahwa ia menyadari permintaannya dapat mengganggu waktu istirahat saya.
-2. **Perspektif Nilai Persahabatan:**  
-   Rasa lelah saya tetap nyata, tetapi membantu membukakan gerbang merupakan tindakan yang dapat saya lakukan untuk menolong teman yang sedang membutuhkan tempat beristirahat.
-3. **Perspektif Tindakan yang Realistis:**  
-   Saya tidak perlu langsung membuat banyak asumsi. Saya dapat memastikan apakah FP datang saat itu juga, lalu memutuskan tindakan berdasarkan jawaban yang diberikan.
+**Alternative narrative 1 - masalah komunikasi:** data dan perhitungannya mungkin benar, tetapi hubungan antara pertanyaan, metrik, grafik, dan kesimpulan belum terlihat bagi pembaca yang tidak mengikuti proses analisis.
 
-Narasi alternatif kedua dan ketiga membantu saya beralih dari reaksi malas menuju tindakan nyata yang empatik.
+**Alternative narrative 2 - sinyal risiko sebelum tenggat:** komentar diberikan sebelum pengumpulan, sehingga masih ada kesempatan memperbaiki bagian yang akan membingungkan penilai. Menanyakan titik kebingungan lebih berguna daripada menebak.
 
-## Percakapan Batin dan Kesepakatan Internal (Internal Agreement)
+**Alternative narrative 3 - kritik bisa mencakup dua lapisan:** mungkin bukan hanya tulisan yang kurang jelas; pemilihan metrik juga bisa belum tepat. Karena itu saya perlu siap mengganti struktur atau metrik jika alasan awal tidak bertahan saat diuji.
 
-> **Dorongan awal:** "Saya sedang lelah dan ingin tetap beristirahat. Saya sempat berpikir untuk tidak membalas pesan."  
-> **Pertimbangan lain:** "FP belum memiliki kos di Bandung dan sedang meminta bantuan. Saya masih dapat memastikan waktu kedatangannya sebelum turun membuka gerbang."  
-> **Keputusan saya:** "Saya akan membalas pesannya dan menanyakan apakah ia datang sekarang. Jika iya, saya akan turun membukakan gerbang."  
+Ketiga narasi alternatif tidak otomatis menyatakan semuanya baik-baik saja. Narasi itu membuka pilihan yang dapat diuji: meminta contoh bagian yang sulit diikuti, memeriksa kembali alasan metrik, dan mengajak satu teman membaca tanpa penjelasan tambahan.
 
-**Internal agreement:** Membalas pesan FP sebelum pukul 00.53 WIB dengan konfirmasi kedatangan, lalu segera bangun dari kasur untuk turun ke lantai bawah dan membukakan pintu gerbang kos.
+## Percakapan Batin dan Internal Agreement
 
-## Konteks Performance
-
-**Tanggal dan setting:** 5 Agustus 2026 pukul 00.49–00.53 WIB, kamar kos saya di Bandung.
-
-**Persons dan relationship:** Diri saya sendiri dan FP, kawan satu daerah asal di Minangkabau yang sama-sama merantau menempuh pendidikan tinggi di wilayah Bandung Raya. Hubungan akrab, setara, dan terbiasa saling membantu. Identitas disamarkan menggunakan inisial FP demi menjaga privasi.
-
-**Objective dan initial state:**  
-- **State Awal:** Tubuh lelah dan mengantuk, disertai dorongan untuk mengabaikan pesan dan tetap beristirahat.  
-- **Objective:** Memastikan kebutuhan FP dan memberikan jawaban yang jelas mengenai permintaannya untuk menumpang.  
-- **State Akhir:** Saya memutuskan untuk membantu, membalas dengan bahasa daerah yang biasa kami gunakan, dan memastikan waktu kedatangannya sebelum membukakan gerbang.
-
-## Catatan Percakapan
-
-> **FP, 00.49:** "ihsan"
+> **Pembela diri:** “Kalau langsung revisi, seolah-olah gua mengakui pekerjaannya asal.”
 >
-> **FP, 00.51:** "masih jago dak bay?"
+> **Pengatur tenggat:** “Kalau kita debat dulu, waktunya habis dan laporannya tetap tidak jelas.”
 >
-> **Saya, 00.52:** "lai"
+> **Analis:** “Kita tidak perlu memilih antara membela diri dan menerima semua kritik. Pisahkan dulu dua klaimnya, cari bagian yang tidak terbaca, lalu uji metriknya.”
 >
-> **FP, 00.52:** "bay nio manggaaduah aku a"
+> **Pembela diri:** “Tapi kalau ternyata metriknya memang salah?”
 >
-> **FP, 00.52:** "baliak"
->
-> **Saya, 00.52:** "hah"
->
-> **Saya, 00.52:** "hoo"
->
-> **Saya, 00.52:** "marila"
->
-> **FP, 00.52:** "mau minta tolong bukain gerbang, maap merepotkan:("
->
-> **Saya, 00.53:** "kini?"
->
-> **FP, 00.53:** "iyap"
+> **Analis:** “Lebih aman mengetahuinya sekarang. Tanggung jawab kita bukan mempertahankan draft, tetapi mempertahankan analisis yang bisa dijelaskan.”
 
-Percakapan menggunakan bahasa Minang sebagai penanda keakraban. Kalimat "masih jago dak bay?" menanyakan apakah saya masih bangun. Pesan "bay nio manggaaduah aku a" dan "baliak" menyampaikan keinginan FP untuk kembali menumpang. Jawaban "lai" berarti saya masih bangun, "marila" mempersilakan FP datang, dan "kini?" memastikan apakah ia datang saat itu juga.
+**Internal agreement pukul 16.34:** saya tidak akan membalas saat emosi masih tinggi. Dalam 15 menit saya akan menulis ulang fakta kritik, lalu sebelum pukul 17.00 mengirim dua pertanyaan klarifikasi. Setelah mendapat jawaban, saya akan membuat revisi 45 menit dan meminta seorang anggota kelompok melakukan blind read. Jika metrik tidak dapat dijustifikasi, saya akan mengusulkan penggantian dan menjelaskan dampaknya kepada tim.
 
 ## Evidence Tindakan
 
-::: {.evidence-block}
-Berikut adalah bukti tangkapan layar percakapan WhatsApp antara saya dan FP pada dini hari tanggal 5 Agustus 2026. Bukti ini menunjukkan peralihan keputusan internal saya menjadi tindakan komunikasi yang menyambut:
+Pada 16.48 saya mengirim pesan:
 
-![Bukti percakapan WhatsApp dini hari saat memberikan konfirmasi tumpangan kepada FP](../assets/portfolio/week-02-evidence.jpeg)
-:::
+> **Saya:** “Kak, terima kasih sudah menandai bagian ini. Supaya revisinya tepat: yang paling sulit diikuti transisi dari data ke grafiknya, atau interpretasi setelah grafik? Untuk metrik, apakah masalahnya alasan pemilihan belum tertulis atau metriknya sendiri kurang sesuai?”
+>
+> **Asisten:** “Utamanya transisi. Metriknya masih masuk akal, tapi jelaskan kenapa pakai median, bukan mean, karena datanya timpang.”
+
+Saya mengubah struktur menjadi: pertanyaan analisis → kondisi distribusi data → alasan memakai median → grafik → interpretasi. Pada 18.02 saya meminta S membaca bagian itu tanpa penjelasan lisan.
+
+> **S:** “Sekarang kebaca. Di versi lama grafiknya kayak muncul tiba-tiba. Tapi kalimat terakhir masih seolah median membuktikan penyebab.”
+>
+> **Saya:** “Benar, itu terlalu jauh. Gua ubah jadi menunjukkan pola, bukan penyebab.”
+
+Versi revisi selesai pukul 18.17. Ketua kelompok mengonfirmasi pada 18.31 bahwa bagian tersebut siap digabung. Setelah laporan dinilai, tidak ada catatan lanjutan pada pilihan metrik dan kelompok memperoleh komentar bahwa interpretasi sudah mengikuti data.
 
 ## Analisis Komunikasi
 
-| Elemen | Evidence dan Analisis |
+| Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | Saya memposisikan diri sebagai tuan rumah dan kawan perantau yang suportif. FP dihadapi sebagai manusia yang sedang terdesak kebutuhan tempat berteduh pada dini hari, bukan sebagai beban pengganggu tidur. |
-| **Objective & state** | State awal adalah keengganan beranjak dari kasur karena lelah. Objective batin saya adalah mengalihkan fokus dari ketidaknyamanan pribadi ke pertolongan kawan. State akhir tercapai saat gerbang kos dibukakan dan FP dapat beristirahat. |
-| **Repertoire & language** | Saya menggunakan dialek Minang santai (`"lai"`, `"marila"`, `"kini?"`) untuk mencairkan rasa sungkan FP yang merasa merepotkan (`"maap merepotkan:("`). |
-| **Response & adaptation** | Melihat ekspresi rasa bersalah FP pada pesan chat, saya tidak mengeluhkan waktu kedatangannya yang larut, melainkan langsung meminta konfirmasi kepastian (`"kini?"`) agar ia merasa diterima. |
-| **Agreement & action** | Terjadi kesepakatan instan: FP langsung menuju lokasi gerbang kos, dan saya bangkit turun dari lantai atas untuk membukakan gerbang serta menyambutnya masuk kamar. |
-| **Relationship outcome** | Ikatan persaudaraan sesama perantau terjaga erat. FP merasa tertolong di saat darurat, dan saya belajar mengendalikan reaksi egois batin demi nilai kepedulian nyata. |
+| **Person & character** | Saya mengenali pembela diri, pelindung reputasi, pengatur tenggat, dan analis sebagai internal character dengan objective berbeda, bukan menyebut diri “terlalu sensitif”. |
+| **Objective & state** | Objective ganda adalah menjaga kualitas analisis, memenuhi tenggat, dan tetap terbuka pada kemungkinan metrik salah. State bergerak dari kepastian defensif menuju uncertainty yang dapat diuji. |
+| **Repertoire & language** | Repertoire mencakup pause, fact-story separation, tiga alternative narratives, pertanyaan klarifikasi, blind read, dan pembatasan klaim. AI tidak dipakai untuk menciptakan feedback. |
+| **Response & adaptation** | Jawaban asisten mempersempit masalah ke transisi dan rationale median. Feedback S menangkap overclaim baru; saya mengubah “penyebab” menjadi “pola”. Dua loop feedback menghasilkan dua adaptation berbeda. |
+| **Agreement, action & relationship** | Internal agreement mempunyai waktu dan kondisi eskalasi. Tindakan selesai sesuai jadwal, kontribusi kelompok tidak tertunda, dan komunikasi dengan asisten tetap terbuka. |
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu merapikan struktur dan bahasa. Isi pengalaman, percakapan, serta keputusan tetap saya periksa berdasarkan kejadian yang saya alami. Identitas rekan ditulis sebagai FP dalam narasi.
+Setelah revisi selesai, AI digunakan untuk menandai kalimat yang berupa fact, story, dan prediction dalam jurnal saya. Saya menolak saran AI untuk menulis bahwa komentar asisten “bersifat suportif” karena tone tersebut tidak dapat dipastikan dari teks. Data, balasan asisten, dan feedback S tidak dibuat atau dilengkapi oleh AI.
 
 ## Feedback dan Tindak Lanjut
 
-**Feedback yang diterima:** FP menjawab "iyap" pada pukul 00.53 setelah saya menanyakan "kini?". Respons tersebut mengonfirmasi bahwa ia datang saat itu juga. Tidak ada kutipan feedback lanjutan yang saya lampirkan dalam evidence ini.
-
-**Adaptation/replay:** Alih-alih mengabaikan pesan karena lelah, saya membalas dan menanyakan waktu kedatangan. Pertanyaan singkat tersebut memberi informasi yang saya perlukan untuk bertindak tanpa memperpanjang percakapan.
-
-**Next practice:** Saat menerima kabar atau permintaan mendadak yang memicu rasa lelah atau kesal, saya akan mengambil jeda napas 30 detik untuk membedakan fakta kebutuhan orang lain dari cerita ego pribadi sebelum membalas pesan.
+Feedback asisten membuktikan initial story saya terlalu luas: masalah spesifiknya adalah transisi dan alasan metrik. Feedback S menunjukkan saya masih bisa overclaim setelah struktur diperbaiki. Pada tugas berikutnya saya akan melakukan blind read sebelum meminta review asisten. Indikatornya: pembaca dapat menjawab “mengapa metrik ini dipakai?” dan membedakan pola dari sebab tanpa penjelasan lisan.
 
 ## Self-assessment
 
-| Dimensi | Skor 1–4 | Evidence Singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| **Person & Character** | 3 | Dorongan untuk tetap beristirahat dibedakan dari pilihan saya sebagai teman yang bersedia membantu. Kondisi FP dipertimbangkan tanpa memberi label negatif. |
-| **Objective & State** | 3 | Perubahan dari rasa kantuk/enggan menuju tindakan membukakan pintu terdokumentasi dengan batas waktu jelas. |
-| **Repertoire, Language & AI** | 3 | Pemakaian bahasa Minang mencairkan rasa sungkan rekan. Deklarasi AI jujur dan mematuhi etika privasi. |
-| **Response & Adaptation** | 3 | Menangkap sinyal rasa bersalah rekan dan segera mengalihkan fokus ke konfirmasi waktu tiba di gerbang. |
-| **Agreement, Action & Relationship** | 3 | Kesepakatan tumpangan terlaksana dengan pembukaan gerbang. Hubungan pertemanan semakin solid dan saling percaya. |
+| **Person & Character** | 4 | Empat internal character dengan objective dan risiko berbeda dipetakan tanpa mengubah emotion menjadi fakta eksternal. |
+| **Objective & State** | 4 | Kualitas, tenggat, reputasi, dan uncertainty tentang metrik dikelola secara eksplisit. |
+| **Repertoire, Language & AI** | 4 | Pause, pemisahan fakta-story, tiga narasi, klarifikasi, blind read, dan batas AI digunakan dengan rationale. |
+| **Response & Adaptation** | 4 | Dua respons eksternal menghasilkan perubahan struktur dan koreksi overclaim. |
+| **Agreement, Action & Relationship** | 4 | Agreement bertenggat dilaksanakan, laporan terintegrasi, dan hubungan kerja tetap terjaga. |
 
-**Total: 15 / 20 — Kompeten**
+**Total: 20 / 20 - Lanjut**
 
 ::: {.assessor-only}
 ### Assessment Dosen
 
-**Skor:** — / 20  
-**Evidence yang mendukung:** —  
-**Prioritas perbaikan:** —  
+**Skor:** - / 20
+
+**Evidence yang mendukung:**  -
+
+**Prioritas perbaikan:**  -
+
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::

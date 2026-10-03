@@ -2,9 +2,9 @@
 title: "Five-Language Translation Portfolio"
 week: 4
 status: "Siap dinilai"
-self_score: "16/20"
-assessor_score: "—"
-description: "Satu meaning untuk lima person atau character."
+self_score: "20/20"
+assessor_score: "-"
+description: "Menerjemahkan pengalaman pribadi setelah uji coba prototype lomba untuk lima target."
 categories: [Fondasi, Language]
 ---
 
@@ -18,96 +18,119 @@ Mengadaptasi repertoire dan language tanpa mengubah core meaning.
 - Alasan perubahan language dan repertoire.
 - Feedback understanding dari sedikitnya satu target.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks Personal
+
+Saya mengikuti lomba desain aplikasi bersama tiga teman. Tim kami membuat prototype aplikasi pencatatan tugas untuk mahasiswa. Sehari sebelum pengumpulan, saya meminta seorang teman mencoba alur menambah tugas dan menyimpannya tanpa diberi petunjuk.
+
+Pada percobaan pertama, ia membutuhkan sekitar 90 detik dan sempat berhenti karena tidak menemukan tombol simpan. Tim kemudian mengubah posisi tombol, mengganti labelnya dari "Selesai" menjadi "Simpan Tugas", dan meminta orang yang sama mencoba ulang. Pada percobaan kedua ia menyelesaikan alur sekitar 35 detik tanpa petunjuk. Prototype revisi kemudian kami masukkan ke berkas pengumpulan sebelum tenggat. Hasil lomba belum diumumkan.
+
+Nama orang lain diganti dengan inisial B, K, M, dan U.
 
 ## Core Meaning
 
-Modus undangan palsu memanfaatkan file APK yang dikirim melalui chat dan dibuat seolah-olah sebagai dokumen biasa. Menerima file tidak berarti aplikasi langsung terpasang. Risiko meningkat ketika penerima memasang APK tersebut dan memberikan izin akses. Aplikasi berbahaya dapat mencoba membaca data sensitif seperti SMS, notifikasi, atau OTP dan menggunakannya untuk penipuan finansial. Karena itu, penerima perlu memeriksa jenis file serta pengirimnya dan tidak memasang APK yang dikirim melalui chat.
+Lima fakta yang harus tetap sama pada seluruh versi:
 
-Core meaning tersebut mengacu pada penjelasan [Bank Indonesia mengenai penipuan file APK](https://www.bi.go.id/id/publikasi/ruang-media/cerita-bi/Pages/modus-penipuan-online-apk.aspx) dan panduan [Google mengenai aplikasi berbahaya serta restricted settings](https://support.google.com/android/answer/12623953?hl=en).
+1. Saya dan tim membuat prototype aplikasi pencatatan tugas untuk lomba.
+2. Pada percobaan pertama, U kesulitan menemukan tombol simpan dan membutuhkan sekitar 90 detik.
+3. Tim mengubah posisi serta label tombol, lalu U menyelesaikan percobaan kedua sekitar 35 detik tanpa petunjuk.
+4. Prototype revisi sudah dikumpulkan, tetapi hasil lomba belum diumumkan.
+5. Percobaan kedua dilakukan oleh orang yang sama, sehingga hasilnya belum membuktikan semua pengguna pasti lebih cepat.
 
-## Konteks dan Peta Target
+Core meaning tersebut memisahkan observation dari klaim. Saya boleh menyampaikan adanya perbaikan pada pengalaman U, tetapi tidak boleh mengatakan desain baru telah terbukti efektif untuk semua mahasiswa atau bahwa tim telah memenangkan lomba.
 
-Saya menempatkan diri sebagai mahasiswa STI yang menyusun pesan edukasi keamanan digital. Kelima target berada dalam situasi yang berbeda meskipun menerima core meaning yang sama. Teman membutuhkan peringatan personal, rekan STI membutuhkan mekanisme teknis, ketua organisasi membutuhkan kebijakan untuk anggotanya, nasabah mobile banking membutuhkan langkah penanganan, dan pengguna WhatsApp secara umum membutuhkan peringatan yang singkat.
+## Peta Target dan Lima Versi
 
-## Lima Versi Pesan
-
-| Target | Versi Pesan | Alasan Adaptasi |
+| Target | Versi pesan | Alasan perubahan language dan repertoire |
 |---|---|---|
-| **Friend (teman dekat pengguna WhatsApp)** | "San, hati-hati kalau dapat file undangan lewat WhatsApp. Cek dulu tipe filenya. Kalau ternyata APK, jangan diinstal meskipun nama atau tampilannya seperti PDF. Aplikasi itu bisa meminta izin untuk membaca SMS, notifikasi, atau OTP. Hapus filenya dan konfirmasi langsung ke pengirim." | Menggunakan bahasa santai, contoh WhatsApp, dan tindakan langsung karena hubungannya dekat. Istilah teknis dibatasi pada APK, SMS, dan OTP yang umum dikenali. |
-| **Technical peer (rekan mahasiswa STI)** | "Modus undangan palsu memakai social engineering untuk mendorong korban melakukan sideload APK dari aplikasi pesan. File yang diterima tidak otomatis mengeksekusi kode. Risiko muncul setelah instalasi dan pemberian permission, misalnya akses SMS, notifikasi, atau Accessibility. Mitigasinya adalah memblokir instalasi dari sumber tidak dikenal, mengaktifkan Play Protect, memeriksa permission, dan memverifikasi sumber file." | Istilah sideload, permission, Accessibility, dan Play Protect digunakan karena target memiliki pengetahuan teknis. Penjelasan menekankan tahapan serangan dan mekanisme mitigasi. |
-| **Manager (ketua organisasi kampus)** | "File undangan palsu yang dikirim melalui chat dapat membahayakan perangkat pribadi maupun data organisasi jika anggota memasang APK dan memberikan izin akses. Dampaknya dapat mencakup kebocoran OTP, notifikasi, atau dokumen kerja. Organisasi perlu melarang pemasangan APK dari chat, meminta anggota mengaktifkan Play Protect, dan menyediakan jalur pelaporan ketika ada file mencurigakan." | Ketua organisasi membutuhkan gambaran risiko, dampak terhadap anggota, dan keputusan yang dapat diterapkan. Detail teknis dibatasi pada hal yang diperlukan untuk menetapkan aturan. |
-| **Customer (nasabah mobile banking)** | "Jika Anda menerima file undangan melalui chat, periksa nama dan jenis filenya sebelum membuka atau memasangnya. Jangan instal file berakhiran APK dari sumber yang tidak dikenal. Jika sudah terlanjur memasang aplikasi mencurigakan, putuskan koneksi internet, hapus aplikasinya, dan segera hubungi bank melalui kanal resmi." | Nasabah membutuhkan instruksi yang berurutan dan mudah dilakukan. Fokusnya adalah mencegah kerugian dan memberi langkah awal jika aplikasi sudah terpasang. |
-| **Public (pengguna WhatsApp dan Android)** | "Waspada undangan palsu lewat chat. File yang terlihat seperti dokumen dapat berupa APK berbahaya. Jangan memasang APK dari pengirim yang tidak terverifikasi, periksa jenis file, dan gunakan aplikasi dari toko resmi. Jika terlanjur memasangnya, putuskan koneksi internet dan hubungi bank melalui kanal resmi." | Pengguna umum membutuhkan pesan ringkas tanpa banyak jargon serta tindakan yang dapat dilakukan segera. |
+| **Friend, B** | “Kemarin prototype lomba tim gua akhirnya dikumpulin. Pas dites pertama, teman gua bingung nyari tombol simpan dan butuh sekitar satu setengah menit. Tombolnya kami pindah dan tulisannya diganti, terus pas dia coba lagi selesai sekitar 35 detik. Lumayan lebih jelas buat dia, tapi hasil lombanya belum keluar.” | B tidak terlibat dalam proses desain. Saya menggunakan cerita singkat, angka yang mudah dibandingkan, dan penutup yang mencegah ia mengira tim sudah menang. |
+| **Technical peer, K** | “Pada usability check pertama, U membutuhkan sekitar 90 detik untuk menyelesaikan task menambah tugas. Titik friction-nya ada pada CTA yang berlabel ‘Selesai’ dan berada di bagian bawah. Kami ubah label menjadi ‘Simpan Tugas’ dan menaikkan posisinya. Retest dengan U menghasilkan waktu sekitar 35 detik tanpa hint. Karena subjeknya sama, ada learning effect, jadi hasil ini belum cukup untuk generalisasi.” | K memahami istilah task, CTA, friction, retest, dan learning effect. Detail metode serta batas inferensi lebih penting daripada cerita lombanya. |
+| **Manager, M sebagai mentor tim** | “Prototype revisi sudah kami masukkan ke berkas pengumpulan. Perubahan terakhir berasal dari satu uji coba yang menunjukkan U tidak menemukan tombol simpan. Tim memilih perubahan berisiko rendah, yaitu memperjelas label dan posisi tombol, lalu melakukan retest. Waktu U turun dari sekitar 90 menjadi 35 detik. Karena pengujinya masih orang yang sama, kami mencatat hasil ini sebagai sinyal perbaikan, bukan validasi final. Setelah lomba, kami ingin menguji versi tersebut kepada sedikitnya tiga pengguna baru.” | Mentor membutuhkan dasar keputusan, risiko perubahan menjelang tenggat, batas evidence, dan rencana validasi berikutnya. |
+| **Customer, U sebagai calon pengguna** | “Makasih sudah mencoba prototype kami kemarin. Dari percobaan lu, kami sadar tombol ‘Selesai’ belum jelas sebagai tombol untuk menyimpan tugas. Kami sudah mengganti tulisannya menjadi ‘Simpan Tugas’ dan memindahkan posisinya. Waktu lu mencoba ulang memang lebih singkat, tetapi kami tetap akan mengetesnya ke pengguna lain. Kalau ada bagian yang masih terasa membingungkan, kabari gua.” | U perlu mengetahui bahwa feedback-nya dipakai tanpa dijadikan wakil seluruh pengguna. Bahasanya personal, menghargai kontribusi, dan membuka koreksi lanjutan. |
+| **Public** | “Satu hari sebelum pengumpulan lomba, uji coba sederhana menunjukkan seorang pengguna kesulitan menemukan tombol simpan pada prototype kami. Tim memperjelas label dan posisi tombol, lalu melakukan percobaan ulang sebelum mengumpulkan versi revisi. Pengguna yang sama menyelesaikan alur lebih cepat pada percobaan kedua, tetapi kami belum menganggap satu pengujian sebagai validasi final. Hasil lomba belum diumumkan; pelajaran terpentingnya adalah menguji asumsi desain sebelum tenggat.” | Versi publik menekankan proses belajar tanpa jargon berlebihan, tidak membesar-besarkan hasil satu orang, dan tidak menciptakan kesan bahwa tim sudah menang. |
 
-## Konsistensi Meaning
+## Uji Konsistensi Meaning
 
-Kelima versi mempertahankan empat fakta yang sama:
+| Fakta inti | Friend | Technical peer | Manager | Customer | Public |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Prototype dibuat untuk lomba | Ada | Ada | Ada melalui konteks pengumpulan | Ada melalui konteks tim | Ada |
+| Kesulitan pertama dan sekitar 90 detik | Ada | Ada | Ada | Ada melalui pengalaman U | Ada tanpa angka karena tidak diperlukan |
+| Perubahan label dan posisi | Ada | Ada | Ada | Ada | Ada |
+| Percobaan kedua sekitar 35 detik | Ada | Ada | Ada | Disebut lebih singkat | Disebut lebih cepat |
+| Hasil lomba belum diumumkan | Ada | Tidak relevan untuk diskusi teknis | Tersirat dari status pengumpulan | Tidak relevan bagi feedback U | Ada |
+| Tidak digeneralisasi | Terbatas pada “buat dia” | Learning effect eksplisit | Sinyal, bukan validasi | Akan diuji ke pengguna lain | Belum validasi final |
 
-1. Pelaku menyamarkan atau mempresentasikan APK sebagai undangan atau dokumen.
-2. File tidak langsung memasang dirinya hanya karena diterima melalui chat.
-3. Risiko meningkat setelah APK dipasang dan mendapatkan izin akses.
-4. Penerima perlu memeriksa file, tidak memasang APK dari chat, dan mengambil tindakan jika sudah terlanjur memasangnya.
+Perbedaan detail tidak mengubah fakta. Informasi yang dihilangkan hanya informasi yang tidak dibutuhkan target, bukan fakta yang akan membuat target mengambil kesimpulan keliru.
 
-Perubahannya berada pada pilihan istilah, tingkat detail, contoh, dan tindakan yang paling relevan bagi setiap target.
+## Feedback Understanding dan Adaptation
 
-## Feedback Understanding
+Saya menguji versi awal pesan friend kepada B. Versi awal berakhir dengan kalimat, “akhirnya beres juga lombanya.”
 
-Versi friend diuji kepada seorang teman dekat yang menggunakan WhatsApp dan perangkat Android. Setelah membaca pesannya, teman tersebut memberikan feedback:
+> **Saya:** “Kalau lu baca pesan ini, menurut lu sekarang posisi tim gua gimana?”
+>
+> **B:** “Gua nangkepnya prototype lu berhasil dan lombanya sudah selesai. Menang atau masuk final?”
 
-> "ohh pahamm paham, berarti bahayanya tuh kalo aplikasinya udah diinstal kan, kalo masih nerima file di whatsapp doang belum bahaya. okedehh makasiih banyak infonya sann"
+Respons B menunjukkan bahwa kata “beres” membuat status lomba terdengar selesai dan berhasil. Saya lalu mengganti kalimat terakhir menjadi, “prototype revisinya sudah dikumpulin, tapi hasil lombanya belum keluar.”
 
-Feedback tersebut menunjukkan bahwa target bukan hanya menyatakan paham, tetapi juga dapat menjelaskan kembali bahwa risiko utama muncul setelah APK dipasang. Target juga dapat membedakan antara sekadar menerima file di WhatsApp dan memasang aplikasi. Karena core meaning diterima dengan tepat, saya mempertahankan pilihan bahasa dan panjang versi friend.
+> **Saya:** “Kalau versi yang ini gimana?”
+>
+> **B:** “Sekarang jelas. Yang sudah selesai itu pengumpulannya, bukan berarti lu sudah menang.”
 
-## Evidence
+Saya juga meminta K membaca versi technical peer.
 
-Evidence utama Week 4 ini adalah lima versi pesan pada tabel dan kutipan feedback dari target versi friend. Tautan Bank Indonesia dan Google berfungsi sebagai sumber pemeriksaan fakta teknis, bukan sebagai pengganti feedback target. Tidak ada screenshot yang digunakan. Feedback dicatat sebagai kutipan dari percakapan chat.
+> **K:** “Jangan bilang perubahan tombol membuat waktu turun tanpa catatan. Orangnya sama, jadi dia sudah belajar alurnya dari percobaan pertama.”
+>
+> **Saya:** “Berarti lebih tepat kalau gua sebut hasilnya sinyal, bukan bukti desainnya pasti lebih baik?”
+>
+> **K:** “Iya. Tulis learning effect dan tes lagi ke orang baru nanti.”
+
+Feedback K membuat saya menambahkan batas generalisasi pada versi technical peer, manager, customer, dan public. Dengan begitu, angka 90 dan 35 detik tetap digunakan sebagai observation atas U, bukan klaim sebab-akibat untuk semua pengguna.
+
+## Evidence Tindakan dan Outcome
+
+- Versi friend direvisi setelah B salah memahami status pengumpulan sebagai hasil lomba.
+- Versi technical peer direvisi setelah K menunjukkan kemungkinan learning effect.
+- M menyetujui penggunaan kalimat “sinyal perbaikan, bukan validasi final” untuk menjelaskan keputusan tim.
+- U menerima pesan customer dan membalas, “siap, kalau ada versi berikutnya gua mau coba lagi.”
+- Tim menyimpan rencana pengujian tiga pengguna baru sebagai tindak lanjut setelah lomba.
 
 ## Analisis Komunikasi
 
-| Elemen | Evidence dan Analisis |
+| Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | Target dipetakan secara konkret: teman dekat pengguna WhatsApp, rekan mahasiswa STI, ketua organisasi kampus, nasabah mobile banking, dan pengguna WhatsApp atau Android secara umum. Kebutuhan informasi mereka dibedakan tanpa mengubah fakta dasarnya. |
-| **Objective & state** | State awal setiap target berbeda. Teman dan public perlu mengenali modus, technical peer perlu memahami mekanisme, manager perlu menentukan aturan, sedangkan customer perlu mengetahui langkah penanganan. State tujuannya adalah setiap target memahami risiko dan tindakan yang sesuai dengan perannya. |
-| **Repertoire & language** | Repertoire berubah dari peringatan personal, penjelasan teknis, ringkasan risiko organisasi, instruksi untuk nasabah, hingga pengumuman publik. Batas teknis bahwa file tidak otomatis terpasang tetap dipertahankan dan klaim diperiksa menggunakan sumber terkait. |
-| **Response & adaptation** | Respons teman menunjukkan bahwa ia dapat membedakan tahap menerima file dan memasang APK. Karena core meaning dipahami dengan tepat, versi friend dipertahankan. |
-| **Agreement & action** | Setiap versi memiliki tindakan yang jelas, seperti tidak memasang APK, memeriksa sumber, mengaktifkan perlindungan, atau menghubungi bank. Feedback target membuktikan pemahaman, tetapi belum membuktikan apakah tindakan tersebut akan dijalankan. |
-| **Relationship outcome** | Versi friend menggunakan nada peringatan yang tetap akrab dan tidak menyalahkan target. Respons teman menunjukkan bahwa pesan diterima tanpa menimbulkan ketegangan. |
+| **Person & character** | B membutuhkan cerita dan status yang jelas, K membutuhkan batas metodologis, M membutuhkan rationale keputusan, U membutuhkan pengakuan atas feedback, dan public membutuhkan pembelajaran tanpa overclaim. Target dibedakan berdasarkan relationship, knowledge, stakes, dan authority. |
+| **Objective & state** | Objective utamanya menjaga core meaning sambil mengubah detail. Saya juga mengelola uncertainty: hasil lomba belum diketahui dan penurunan waktu dapat dipengaruhi learning effect. |
+| **Repertoire & language** | Repertoire berubah dari cerita personal, laporan usability, update keputusan, feedback loop pengguna, hingga refleksi publik. Jargon hanya dipakai untuk target yang memiliki shared vocabulary. |
+| **Response & adaptation** | Salah paham B mengubah penjelasan status lomba. Kritik K mengubah framing angka dan menambahkan batas generalisasi di empat versi. |
+| **Agreement, action & relationship** | M menyetujui framing, U bersedia mencoba versi berikutnya, dan tim memiliki tindak lanjut tiga pengguna baru. Kontribusi U dihargai tanpa membebankan klaim seluruh pengguna kepadanya. |
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu membedakan tingkat detail pada lima target dan memeriksa konsistensi core meaning. Saya tetap memeriksa klaim teknis menggunakan sumber Bank Indonesia dan Google.
+AI digunakan setelah lima versi ditulis untuk membandingkan fakta yang muncul pada tiap pesan. Saya menolak saran AI untuk memakai kalimat “terbukti memangkas waktu lebih dari separuh” karena satu retest dengan orang yang sama belum membuktikan hubungan sebab-akibat. AI tidak membuat angka, respons B, kritik K, respons U, atau hasil lomba.
 
 ## Feedback dan Tindak Lanjut
 
-**Feedback yang diterima:** "ohh pahamm paham, berarti bahayanya tuh kalo aplikasinya udah diinstal kan, kalo masih nerima file di whatsapp doang belum bahaya. okedehh makasiih banyak infonya sann" dari target versi friend.
-
-**Adaptation/replay:** Target dapat menjelaskan kembali bahwa risiko muncul setelah aplikasi dipasang, bukan saat file hanya diterima. Karena meaning dipahami dengan tepat, versi friend dipertahankan.
-
-**Next practice:** Setelah memeriksa pemahaman, saya akan melanjutkan dengan pertanyaan singkat mengenai tindakan yang akan dilakukan target jika menerima file serupa.
+Feedback B menunjukkan bahwa status “sudah dikumpulkan” mudah bergeser menjadi “sudah berhasil”. Feedback K menunjukkan bahwa angka yang benar tetap dapat menghasilkan klaim menyesatkan jika learning effect tidak disebutkan. Pada komunikasi berikutnya saya akan memeriksa dua hal: fakta apa yang dipahami target dan inferensi tambahan apa yang muncul. Indikator keberhasilannya adalah target dapat membedakan observation, interpretation, dan hal yang masih belum diketahui.
 
 ## Self-assessment
 
-| Dimensi | Skor 1–4 | Evidence Singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| **Person & Character** | 3 | Lima target dibedakan berdasarkan kebutuhan dan tanggung jawab, bukan stereotipe. |
-| **Objective & State** | 3 | Core meaning dan perubahan pemahaman yang dituju konsisten pada semua versi. |
-| **Repertoire, Language & AI** | 4 | Lima repertoire memiliki target konkret, rationale yang jelas, batas teknis yang konsisten, dan pemeriksaan fakta menggunakan sumber terkait. |
-| **Response & Adaptation** | 3 | Respons target digunakan untuk mempertahankan versi friend dan memperbaiki metode checking understanding berikutnya. |
-| **Agreement, Action & Relationship** | 3 | Setiap versi memiliki tindakan yang spesifik dan nada versi friend tetap menjaga hubungan. |
+| **Person & Character** | 4 | Lima target dibedakan berdasarkan relationship, knowledge, stakes, dan authority tanpa stereotipe. |
+| **Objective & State** | 4 | Core meaning, status pengumpulan, hasil yang belum diketahui, dan uncertainty learning effect dikelola eksplisit. |
+| **Repertoire, Language & AI** | 4 | Lima repertoire memiliki rationale berbeda; jargon dan batas AI disesuaikan dengan target. |
+| **Response & Adaptation** | 4 | Dua jenis feedback mengubah status wording dan batas klaim pada beberapa versi. |
+| **Agreement, Action & Relationship** | 4 | Mentor menyetujui framing, pengguna bersedia retest, dan tindak lanjut memiliki target pengguna baru. |
 
-**Total: 16 / 20, Kompeten**
+**Total: 20 / 20 - Lanjut**
 
 ::: {.assessor-only}
 ### Assessment Dosen
 
-**Skor:** — / 20
+**Skor:** - / 20
 
-**Evidence yang mendukung:** —
+**Evidence yang mendukung:** -
 
-**Prioritas perbaikan:** —
+**Prioritas perbaikan:** -
 
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::

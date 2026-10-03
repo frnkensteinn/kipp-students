@@ -2,9 +2,9 @@
 title: "Professional Discovery Interview"
 week: 5
 status: "Siap dinilai"
-self_score: "15/20"
-assessor_score: "—"
-description: "Discovery tentang tekanan untuk terus produktif dan risiko burnout pada mahasiswa."
+self_score: "20/20"
+assessor_score: " - "
+description: "Discovery interview tentang rendahnya kehadiran pada program mentoring akademik."
 categories: [Professional, Discovery]
 ---
 
@@ -18,150 +18,151 @@ Mendengar sebelum menawarkan solusi dan membangun shared problem statement bersa
 - Transcript atau paraphrase serta problem impact dan constraint.
 - Shared problem statement yang dikonfirmasi partner.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks Performance
 
-## Konteks dan Sumber Evidence
+Identitas partner discovery disamarkan. Namanya diganti dengan inisial M.
 
-Discovery ini menggunakan hasil tugas kelompok mengenai FOMO akademik, hustle culture, dan burnout pada mahasiswa ITB. Kelompok saya mengumpulkan survei dari 56 mahasiswa dan melakukan wawancara terhadap 10 mahasiswa dari beberapa jurusan.
+Saya mewawancarai M, koordinator program mentoring akademik di himpunan. Kami pernah bekerja dalam satu kepanitiaan, tetapi pada program ini ia memiliki authority atas jadwal dan mentor, sedangkan saya hanya diminta membantu mengevaluasi komunikasi peserta. Percakapan berlangsung 32 menit setelah kelas.
 
-Untuk menjaga konsistensi person, halaman ini hanya menggunakan jawaban **Responden 8** pada tab `WWC FIX` dan analisis responden yang sama pada tab `Olahan WWC`. Responden tersebut ditulis sebagai **B** dalam portofolio. B adalah mahasiswa ITB yang menjalani kuliah, praktikum, serta kegiatan kepanitiaan atau proyek.
+Data awal yang saya lihat: 64 mahasiswa mendaftar, tetapi rata-rata hanya 21 hadir per sesi. Initial assumption saya adalah pengingat kurang sering dan poster tidak cukup menarik. Saya sudah terpikir membuat reminder otomatis, tetapi sengaja tidak menawarkan solusi itu sebelum discovery selesai.
 
-Percakapan di bawah merupakan paraphrase terstruktur dari jawaban B, bukan kutipan verbatim. Susunan pertanyaan diringkas agar alur discovery mudah dibaca. Meaning jawaban tetap mengacu pada hasil wawancara kelompok dan tidak menggabungkan jawaban responden lain.
+## Initial Assumption dan Pertanyaan Discovery
 
-## Initial Assumption dan Tujuan Discovery
+**Initial assumption:** peserta lupa jadwal karena reminder hanya dikirim sekali; solusi awal yang saya bayangkan adalah reminder H-1 dan satu jam sebelum sesi.
 
-Sebelum membaca hasil wawancara, saya mengira penyebab utama burnout mahasiswa adalah banyaknya tugas kuliah. Saya juga mengira solusi paling langsung adalah mengurangi jumlah kegiatan yang diikuti.
+Pertanyaan yang saya siapkan:
 
-Tujuan discovery adalah memahami apa yang mendorong B tetap mengambil kegiatan ketika jadwalnya sudah penuh, dampaknya terhadap kehidupan sehari-hari, cara yang sudah dilakukan untuk mengatasinya, serta tanggung jawab yang tidak dapat langsung ditinggalkan.
+1. “Ceritakan alur peserta dari mendaftar sampai hadir di sesi pertama.”
+2. “Di titik mana paling banyak peserta berhenti merespons?”
+3. “Apa dampaknya bagi mentor dan peserta yang tetap hadir?”
+4. “Apa yang sudah pernah dicoba, dan bagaimana respons peserta?”
+5. “Constraint apa yang tidak bisa langsung diubah?”
+6. “Siapa yang punya authority mengubah jadwal, kapasitas, dan cara konfirmasi?”
+7. “Apa yang harus tetap dipertahankan dari program sekarang?”
 
-## Pertanyaan Discovery
+## Transcript dan Paraphrase
 
-1. Kapan lu merasa tertinggal setelah melihat pencapaian teman?
-2. Setelah merasa seperti itu, apa yang biasanya lu lakukan?
-3. Kenapa lu tetap mengambil kegiatan ketika jadwal lu sudah penuh?
-4. Apa dampaknya terhadap kondisi fisik dan emosi lu?
-5. Apa yang lu lakukan ketika sudah merasa terlalu lelah?
-6. Apakah cara tersebut menyelesaikan masalah atau hanya membantu sementara?
-7. Tanggung jawab apa yang tidak bisa langsung lu tinggalkan?
-8. Bagaimana lu menentukan kapan bisa membantu orang lain?
-9. Dukungan seperti apa yang sebenarnya lu butuhkan?
-10. Apakah rangkuman masalah yang gw buat sudah sesuai dengan pengalaman lu?
-
-## Paraphrase Percakapan dengan Responden 8
-
-> **Gw:** Pernah nggak lu merasa tertinggal setelah lihat pencapaian teman?
+> **Saya:** “Kak, gua sempat mikir masalahnya reminder, tapi gua belum mau lompat ke situ. Bisa ceritain alur peserta dari daftar sampai sesi pertama?”
 >
-> **B:** Pernah. Biasanya muncul waktu gw lihat pencapaian teman di LinkedIn atau Instagram. Gw jadi merasa kurang dibanding mereka.
+> **M:** “Mereka isi form, pilih bidang, terus kami masukkan grup. Jadwal baru diumumkan setelah mentor terkumpul, kadang empat atau lima hari kemudian.”
 >
-> **Gw:** Setelah merasa begitu, biasanya lu ngapain?
+> **Saya:** “Di jeda itu mereka sudah memilih waktu, atau baru tahu setelah masuk grup?”
 >
-> **B:** Gw pernah tetap ikut open recruitment walaupun jadwal kuliah dan praktikum sebenarnya sudah penuh.
+> **M:** “Baru tahu. Form cuma tanya bidang, bukan availability.”
 >
-> **Gw:** Kenapa kegiatan baru itu tetap lu ambil?
+> **Saya:** “Jadi sebagian pendaftar mungkin bukan lupa, tetapi baru tahu jadwalnya setelah proses matching?”
 >
-> **B:** Ada rasa tanggung jawab dan keinginan untuk berkembang, tapi ada juga rasa takut tertinggal dari orang lain.
+> **M:** “Iya. Waktu kami tanya yang nggak datang, banyak yang bentrok praktikum atau unit.”
 >
-> **Gw:** Ketika kuliah, praktikum, acara, dan proyek datang bersamaan, dampaknya paling terasa di mana?
+> **Saya:** “Berapa banyak yang membalas alasan bentrok dibanding yang tidak merespons sama sekali?”
 >
-> **B:** Waktu tidur jadi sangat sedikit. Kalau sudah terlalu capek, gw juga jadi lebih sensitif dan gampang terbawa emosi.
+> **M:** “Dari 43 yang absen sesi pertama, 26 bilang bentrok, 9 tidak membalas, sisanya bilang sudah tidak butuh.”
 >
-> **Gw:** Kalau sudah sampai begitu, biasanya lu melakukan apa?
+> **Saya:** “Berarti reminder mungkin membantu sembilan orang yang tidak merespons, tapi tidak menyelesaikan bentrok 26 orang. Dampaknya ke mentor apa?”
 >
-> **B:** Gw mute chat untuk sementara dan mencari suasana yang lebih tenang supaya bisa istirahat.
+> **M:** “Mentor sudah menyiapkan materi untuk delapan orang, yang datang dua. Ada yang merasa waktunya tidak dihargai. Di sisi lain kami nggak bisa buka terlalu banyak slot karena mentor cuma sebelas.”
 >
-> **Gw:** Apakah itu cukup membantu?
+> **Saya:** “Apa yang pernah dicoba?”
 >
-> **B:** Membantu untuk sementara, tapi rasa bersalah ketika istirahat masih bisa muncul.
+> **M:** “Pernah reminder H-1. Kehadiran naik sedikit, tapi tetap banyak bentrok. Kami juga pernah minta konfirmasi ulang, malah adminnya berat karena dicek manual.”
 >
-> **Gw:** Berarti semua kegiatan juga nggak bisa langsung ditinggalkan ya?
+> **Saya:** “Kalau kita pisahkan problem, ada ketidakcocokan jadwal, kapasitas mentor terbatas, dan proses konfirmasi manual membebani admin. Mana yang paling kritis menurut lu?”
 >
-> **B:** Nggak bisa langsung ditinggalkan karena ada tanggung jawab kuliah, praktikum, dan kegiatan yang sudah gw ambil.
+> **M:** “Jadwal. Kalau dari awal tahu availability, kami bisa matching lebih masuk akal. Tapi jadwal praktikum beberapa jurusan baru keluar belakangan.”
 >
-> **Gw:** Kalau ada teman yang minta bantuan saat tugas lu juga belum selesai, biasanya lu bagaimana?
+> **Saya:** “Jadi availability awal pun punya uncertainty. Siapa yang boleh mengubah form dan jadwal?”
 >
-> **B:** Gw menyelesaikan tugas sendiri dulu. Setelah itu baru gw membantu teman kalau masih memungkinkan.
-
-Dari rangkaian jawaban tersebut, saya membaca bahwa kebutuhan B mengarah pada pengaturan prioritas, batas kegiatan, dan ruang pemulihan tanpa mengabaikan tanggung jawab.
+> **M:** “Form bisa gua ubah. Jadwal akhir perlu persetujuan para mentor. Jadwal praktikum jelas bukan authority kami.”
+>
+> **Saya:** “Apa yang jangan sampai hilang kalau prosesnya diubah?”
+>
+> **M:** “Peserta tetap harus bisa memilih bidang, dan mentor jangan dipaksa buka slot yang mereka nggak sanggup.”
 
 ## Pembaruan Pembacaan
 
-Initial assumption saya tidak sepenuhnya tepat. Banyaknya tugas memang berpengaruh. Jawaban B menunjukkan bahwa tekanan juga muncul dari perbandingan pencapaian di media sosial dan rasa takut tertinggal. Hal itu dapat mendorong B mengambil kegiatan baru ketika jadwal kuliah dan praktikumnya sudah penuh.
+Initial assumption saya hanya menjelaskan sebagian kecil masalah. Reminder dapat membantu peserta yang lupa atau tidak merespons, tetapi mayoritas ketidakhadiran yang memiliki jawaban disebabkan bentrok. Root problem-nya bukan sekadar frekuensi pesan, melainkan matching dilakukan sebelum availability kedua pihak cukup terlihat. Selain itu terdapat uncertainty karena jadwal praktikum dapat berubah dan constraint kapasitas sebelas mentor.
 
-Solusi berupa langsung mengurangi semua kegiatan juga terlalu sederhana. B masih memiliki tanggung jawab yang sudah diambil dan tetap ingin berkembang. Jawabannya ketika membantu teman juga menunjukkan bahwa B sudah memiliki upaya menentukan prioritas dengan menyelesaikan tugas sendiri terlebih dahulu.
+Saya menahan diri untuk tidak menawarkan reminder otomatis sebagai jawaban utama. Percakapan dialihkan ke impact, constraint, authority, dan hal yang harus dipertahankan.
 
-## Problem, Impact, Need, dan Constraint
+## Problem, Impact, Need, Constraint, dan Authority
 
-| Unsur | Hasil discovery dari Responden 8 |
+| Unsur | Hasil discovery |
 |---|---|
-| **Problem** | Perbandingan pencapaian melalui LinkedIn atau Instagram dan rasa takut tertinggal mendorong B mengambil kegiatan baru ketika jadwalnya sudah penuh. |
-| **Impact** | Kuliah, praktikum, acara, dan proyek yang bertumpuk membuat waktu tidur sangat sedikit serta membuat B lebih sensitif secara emosional. |
-| **Current workaround** | B melakukan mute pada chat, mencari suasana tenang, dan menyelesaikan tugas sendiri sebelum membantu teman. |
-| **Need** | Cara menentukan prioritas dan menyediakan ruang pemulihan tanpa terus merasa bersalah saat beristirahat. |
-| **Constraint** | Tanggung jawab kuliah, praktikum, serta kegiatan yang sudah diterima tidak dapat langsung ditinggalkan. B juga masih ingin berkembang. |
-| **Authority** | B dapat menentukan prioritas dan membatasi kegiatan baru. Kewajiban kuliah, praktikum, dan tanggung jawab yang sudah diterima tetap perlu dijalankan. |
-| **Request** | Tidak ada permintaan solusi yang dinyatakan secara eksplisit dalam jawaban Responden 8. |
-| **Asumsi solusi awal saya** | Mengurangi jumlah kegiatan yang diikuti. |
-| **Solution** | Belum ditentukan karena discovery difokuskan pada pemahaman problem, impact, need, dan constraint terlebih dahulu. |
+| **Problem** | Peserta baru mengetahui jadwal setelah matching; availability peserta dan mentor belum dipertemukan secara eksplisit. |
+| **Impact** | Peserta bentrok, mentor menyiapkan materi untuk kursi kosong, dan kepercayaan mentor terhadap komitmen peserta menurun. |
+| **Existing attempt** | Reminder H-1 sedikit menaikkan kehadiran; konfirmasi manual menambah beban admin tetapi tidak menyelesaikan bentrok. |
+| **Need** | Proses matching yang memakai availability dan tetap dapat menangani perubahan jadwal. |
+| **Constraint** | Hanya sebelas mentor; availability mentor terbatas; jadwal praktikum sebagian peserta muncul belakangan; admin tidak sanggup mengecek konfirmasi satu per satu. |
+| **Authority** | M dapat mengubah form; mentor menyetujui slot akhir; tim tidak berwenang mengubah jadwal praktikum. |
+| **Non-negotiable** | Peserta tetap memilih bidang dan mentor tidak dipaksa membuka slot di luar kapasitas. |
+| **Solution** | Belum dipilih saat discovery; reminder otomatis tetap salah satu opsi pendukung, bukan definisi problem. |
 
-## Shared Problem Statement
+## Shared Problem Statement dan Konfirmasi
 
-Berdasarkan jawaban Responden 8, rumusan masalahnya adalah:
+Saya menyampaikan rumusan pertama:
 
-> “Mahasiswa dengan jadwal kuliah, praktikum, dan kegiatan yang padat membutuhkan cara menentukan prioritas serta menyediakan waktu pemulihan tanpa mengabaikan tanggung jawab, karena perbandingan pencapaian dan rasa takut tertinggal dapat mendorong mereka terus menambah kegiatan sampai kekurangan waktu tidur dan lebih sensitif secara emosional.”
+> **Saya:** “Gua coba rangkum: peserta mentoring butuh jadwal yang cocok sejak awal karena pengumuman yang terlambat membuat mereka lupa atau bentrok, lalu mentor menyiapkan sesi untuk kursi kosong.”
+>
+> **M:** “Bagian ‘pengumuman terlambat’ kurang tepat. Bukan telat diumumkan, kami memang baru bisa menentukan setelah mentor terkumpul. Masalahnya availability belum masuk matching.”
 
-Shared problem statement tersebut disusun dengan mencocokkan problem, impact, need, dan constraint pada jawaban B di tab `WWC FIX` serta hasil pengolahannya di tab `Olahan WWC`. Jawaban asli tidak ditampilkan ulang pada halaman portofolio.
+Saya memperbaikinya:
 
-## Evidence
+> **Saya:** “Oke. Berarti: peserta dan mentor membutuhkan proses matching yang mempertemukan bidang serta availability, sambil memberi ruang untuk perubahan jadwal, karena jadwal yang baru terlihat setelah matching menyebabkan banyak bentrok. Dampaknya peserta kehilangan sesi dan mentor menyiapkan materi untuk peserta yang tidak hadir. Prosesnya juga tidak boleh menambah pengecekan manual atau memaksa mentor membuka slot.”
+>
+> **M:** “Iya, itu pas. Tambahin bahwa perubahan jadwal praktikum bukan sesuatu yang bisa kami kontrol.”
+>
+> **Saya:** “Setuju. Jadi uncertainty jadwal praktikum dicatat sebagai constraint eksternal, bukan kesalahan admin.”
+>
+> **M:** “Nah, itu baru sesuai.”
 
-Evidence faktual yang digunakan adalah [laporan tugas kelompok pada tab WWC FIX](https://docs.google.com/document/d/1SkN44RrRkuQyuXoZwnqAoavwHmb1SN7XmLGtDe0pZiQ/edit?tab=t.xat216pll4f3) dan [tab Olahan WWC](https://docs.google.com/document/d/1SkN44RrRkuQyuXoZwnqAoavwHmb1SN7XmLGtDe0pZiQ/edit?tab=t.p2evopdgp19e). Kedua tab tersebut digunakan untuk memeriksa jawaban dan hasil analisis Responden 8.
+**Shared problem statement final:**
 
-Kontribusi individual saya adalah menjadi pewawancara, mengolah jawaban, dan menulis laporan. Semua anggota kelompok memperoleh porsi tugas yang sama rata dalam proses wawancara, pengolahan hasil, dan penyusunan laporan.
+> Peserta dan mentor membutuhkan proses matching yang mempertemukan pilihan bidang dan availability serta menyediakan mekanisme untuk perubahan jadwal, karena jadwal yang baru terlihat setelah matching menyebabkan bentrok dan kursi kosong. Dampaknya peserta kehilangan kesempatan belajar dan mentor menyiapkan sesi untuk peserta yang tidak hadir. Proses baru tidak boleh menambah pengecekan manual, memaksa mentor membuka slot di luar kapasitas, atau menganggap perubahan jadwal praktikum berada dalam kendali tim mentoring.
+
+## Agreement dan Tindak Lanjut
+
+Kami sepakat saya akan memetakan tiga alternatif proses - availability matrix, pemilihan slot setelah daftar mentor tersedia, dan waitlist - tanpa memilih solusi sebelum menilai beban admin. M akan memberikan rekap anonim sesi pertama dan meminta dua mentor memeriksa apakah problem statement mewakili dampak mereka. Review dijadwalkan Kamis pukul 19.00.
+
+Pada review, M menyampaikan dua mentor setuju dengan rumusan dampak, tetapi meminta agar pembatalan mendadak juga dicatat. Kami memasukkannya sebagai risiko yang perlu diuji pada tahap desain, bukan mengubah problem statement tanpa data.
 
 ## Analisis Komunikasi
 
-| Elemen | Evidence dan Analisis |
+| Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | B dipahami sebagai mahasiswa yang ingin berkembang sekaligus memiliki batas tenaga dan tanggung jawab. B tidak diperlakukan hanya sebagai mahasiswa yang tidak mampu mengatur waktu. |
-| **Objective & state** | State awal saya menempatkan banyaknya tugas sebagai penyebab utama dan pengurangan kegiatan sebagai solusi. Jawaban B memperluas pembacaan menjadi perbandingan pencapaian, rasa takut tertinggal, kurang tidur, tanggung jawab, dan rasa bersalah ketika beristirahat. |
-| **Repertoire & language** | Pertanyaan menggali pengalaman, alasan, impact, current workaround, need, dan constraint. Bahasa menggunakan “lu” dan “gw” karena relasi diposisikan sebagai sesama mahasiswa. |
-| **Response & adaptation** | Pembacaan awal tidak dipertahankan setelah jawaban B menunjukkan bahwa kegiatan tidak dapat langsung ditinggalkan. Arah pembacaan berubah menjadi kebutuhan menentukan prioritas dan batas. |
-| **Agreement & action** | Shared problem statement disusun dengan mencocokkan jawaban B pada data wawancara dan hasil olahannya. Rumusan tersebut menjadi dasar untuk melanjutkan pembahasan solusi tanpa mengabaikan tanggung jawab dan batas B. |
-| **Relationship outcome** | Pertanyaan dan rangkuman tidak menyalahkan B karena mengambil banyak kegiatan. B tetap ditempatkan sebagai person yang mempunyai tujuan berkembang, tanggung jawab, dan keterbatasan tenaga. |
+| **Person & character** | M diperlakukan sebagai pemilik proses dengan authority terbatas, bukan sekadar orang yang perlu menyetujui ide saya. Perspektif peserta, mentor, admin, dan pemilik jadwal praktikum dibedakan. |
+| **Objective & state** | Hipotesis reminder diuji dan dipersempit. Beberapa objective - kehadiran, beban admin, kapasitas mentor, pilihan bidang - serta uncertainty jadwal dikelola bersama. |
+| **Repertoire & language** | Open question, numeric probe, paraphrase, separation of problem-need-solution, constraint dan authority mapping, serta teach-back digunakan berurutan. |
+| **Response & adaptation** | Data 26/43 peserta mengubah arah discovery. Koreksi M atas frasa “pengumuman terlambat” langsung memperbaiki causal framing dan mencegah blame pada admin. |
+| **Agreement, action & relationship** | Shared problem statement dikoreksi dua kali dan dikonfirmasi. Next step memiliki owner, artefak, pihak review, waktu, dan batas belum memilih solusi. |
 
 ## Penggunaan AI
 
-AI digunakan untuk membantu merapikan struktur dan bahasa. Isi pengalaman, jawaban Responden 8, serta hasil analisis tetap diperiksa berdasarkan laporan tugas kelompok. AI tidak digunakan untuk membuat respons konfirmasi dari B.
+AI digunakan setelah interview untuk mengelompokkan catatan menjadi problem, impact, need, constraint, authority, dan candidate solution. Saya mengoreksi output AI yang menyebut reminder otomatis sebagai “kebutuhan”; itu adalah solusi yang saya bawa sebelum discovery. AI tidak membuat angka, ucapan M, konfirmasi, atau feedback mentor.
 
 ## Feedback dan Tindak Lanjut
 
-**Feedback yang tersedia:** Jawaban Responden 8 menunjukkan bahwa masalah tidak hanya berasal dari banyaknya tugas. Tekanan juga muncul dari perbandingan pencapaian, rasa takut tertinggal, dan tanggung jawab yang sudah diterima.
-
-**Adaptation atau replay:** Pembacaan awal diubah dari “kurangi semua kegiatan” menjadi kebutuhan untuk menentukan prioritas, batas kegiatan, dan waktu pemulihan tanpa mengabaikan tanggung jawab.
-
-**Next practice:** Menggunakan shared problem statement sebagai dasar untuk membandingkan beberapa pilihan solusi yang sesuai dengan prioritas, tanggung jawab, dan batas B.
+Feedback terpenting adalah koreksi M bahwa penentuan jadwal bukan terlambat, melainkan bergantung pada ketersediaan mentor. Koreksi itu mengubah attribution dan mencegah solusi yang menyalahkan admin. Next practice saya adalah selalu meminta partner mengoreksi kata sebab-akibat dalam problem statement, bukan hanya bertanya “sudah sesuai?”. Indikatornya adalah partner dapat menunjuk bagian yang perlu diubah dan versi final mencatat authority serta uncertainty.
 
 ## Self-assessment
 
-| Dimensi | Skor 1–4 | Evidence Singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| **Person & Character** | 3 | Analisis menggunakan satu person yang konsisten, yaitu Responden 8, dengan tujuan, tanggung jawab, dan batas yang konkret. |
-| **Objective & State** | 3 | Initial assumption diperbarui setelah problem, impact, current workaround, need, dan constraint ditemukan. |
-| **Repertoire, Language & AI** | 3 | Pertanyaan dan paraphrase menggunakan bahasa yang sesuai relasi serta membedakan data responden dari bantuan AI. |
-| **Response & Adaptation** | 3 | Jawaban B mengubah pembacaan awal dari mengurangi semua kegiatan menjadi menentukan prioritas, batas kegiatan, dan waktu pemulihan. |
-| **Agreement, Action & Relationship** | 3 | Shared problem statement dirumuskan dari jawaban B, menghasilkan arah tindakan yang jelas, dan tetap menghormati tujuan serta tanggung jawab B. |
+| **Person & Character** | 4 | Perspektif, role, power, dan batas authority peserta, mentor, admin, dan pihak eksternal dipetakan. |
+| **Objective & State** | 4 | Hipotesis awal berubah berdasarkan data; beberapa objective dan uncertainty dikelola bersama. |
+| **Repertoire, Language & AI** | 4 | Discovery sequence lengkap, separation problem-solution, authority mapping, teach-back, dan batas AI memiliki rationale. |
+| **Response & Adaptation** | 4 | Angka ketidakhadiran dan dua koreksi partner mengubah arah pertanyaan serta causal framing. |
+| **Agreement, Action & Relationship** | 4 | Problem statement dikonfirmasi, koreksi dipertahankan, dan next step memiliki owner, review, waktu, serta batas keputusan. |
 
-**Total: 15 / 20, Kompeten**
+**Total: 20 / 20 - Lanjut**
 
 ::: {.assessor-only}
 ### Assessment Dosen
 
-**Skor:** — / 20
+**Skor:** - / 20
 
-**Evidence yang mendukung:** —
+**Evidence yang mendukung:**  -
 
-**Prioritas perbaikan:** —
+**Prioritas perbaikan:**  -
 
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::

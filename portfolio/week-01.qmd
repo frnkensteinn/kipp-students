@@ -2,9 +2,9 @@
 title: "Character Map"
 week: 1
 status: "Siap dinilai"
-self_score: "15/20"
-assessor_score: "—"
-description: "Evidence person, personality, character, objective, repertoire, language, action, dan relationship."
+self_score: "20/20"
+assessor_score: " - "
+description: "Pemetaan lima character dan adaptasi peran saat koordinasi tim lomba."
 categories: [Fondasi, Person]
 ---
 
@@ -18,117 +18,115 @@ Membedakan person, personality, dan character serta memilih objective, repertoir
 - Objective, responsibility, repertoire, dan risiko tiap character.
 - Satu contoh perubahan language ketika character berubah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 1](../examples/week-01.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Lima Character
 
-## Lima Character - Peta Karakter Komunikasi Pribadi
+Saya memahami personality sebagai kecenderungan yang relatif menetap, sedangkan character adalah peran yang saya pilih dalam relationship dan situasi tertentu. Karena itu, orang yang sama dapat menerima language yang berbeda ketika objective dan tanggung jawab saya berubah.
 
-Dalam peta ini, **person** berarti manusia utuh yang saya hadapi, sedangkan **personality** adalah kecenderungan pribadi yang tidak saya simpulkan hanya dari satu percakapan. **Character** adalah peran yang saya pilih dalam hubungan dan situasi tertentu. Karena itu, satu person dapat saya hadapi dengan character yang berbeda ketika objective dan konteks komunikasinya berubah.
-
-| Domain dan Character | Person & Relationship | Objective & Responsibility | Repertoire & Language | Risiko dan Latihan |
+| Domain dan character | Person dan relationship | Objective dan responsibility | Repertoire dan language | Risiko dan latihan |
 |---|---|---|---|---|
-| **Diri Sendiri — Pengatur Ritme Belajar (*Reflective Learner*)** | Diri sendiri saat menghadapi beban praktikum dan tugas kuliah STI yang bertumpuk | **Objective:** Menjaga fokus kerja, mengendalikan stres, dan mencegah prokrastinasi. **Responsibility:** Menilai kapasitas energi secara jujur dan merencanakan waktu kerja secara bertahap. | *Self-talk* berbasis fakta, pencatatan to-do list terukur di aplikasi catatan, memecah tugas besar menjadi sub-tugas kecil. | Terjebak dalam kritik diri berlebih atau menunda pekerjaan saat tugas terasa berat. **Latihan:** Menerapkan aturan lima menit pertama (langsung mulai tanpa menuntut hasil sempurna). |
-| **Keluarga — Anak Terakhir** | Orang tua di rumah dan Kakak di luar daerah sedang berkuliah (komunikasi jarak jauh karena merantau di Bandung) | **Objective:** Memberikan rasa tenang mengenai kondisi perkuliahan dan kesehatan. **Responsibility:** Memberi kabar secara berkala tanpa harus menunggu ditanya. | Bahasa santun, hangat, dan terbuka melalui WhatsApp atau panggilan telepon. Kabar akademik diceritakan dengan istilah yang mudah dipahami. | Komunikasi merenggang dan menjadi sekadar transaksional akibat kesibukan kampus. **Latihan:** Menjadwalkan panggilan telepon rutin minimal satu kali setiap akhir pekan. |
-| **Sahabat Dekat — Teman Pendengar (*Attentive Peer*)** | Teman dekat di lingkungan kampus yang sedang mengalami kendala belajar atau kelelahan mental | **Objective:** Memberikan kehadiran emosional yang suportif dan menjaga ruang aman. **Responsibility:** Menyimak tanpa memotong dan menjaga kerahasiaan cerita. | Mendengarkan aktif, kontak mata, bahasa kasual yang hangat (*"Mau didengerin dulu atau cari solusi bareng?"*), memvalidasi perasaan sebelum berbicara. | Naluri terburu-buru memberikan solusi teknis (*fixer trap*). **Latihan:** Menahan diri selama tiga menit pertama untuk mendengarkan utuh sebelum merespons. |
-| **Profesional/Akademik — Rekan Tim Lomba (*Collaborative Teammate*)** | Rekan sekelas yang sekaligus rekan satu tim dalam perlombaan | **Objective:** Memastikan seluruh syarat administratif dan persiapan lomba tuntas tepat waktu. **Responsibility:** Menyediakan data pendukung, menjaga kejelasan peran, dan saling membantu saat ada kendala. | Respons cepat, bahasa santai namun to-the-point, koordinasi tautan dokumen (*link sharing*), dan konfirmasi langkah lanjutan. | Asumsi bahwa semua anggota otomatis melihat informasi yang sudah dikirim di grup chat. **Latihan:** Melakukan *pin message* atau *quote reply* saat membagikan tautan penting. |
-| **Komunitas/Organisasi — Anggota Divisi Acara (*Adaptive Contributor*)** | Rekan satu divisi kepanitiaan / organisasi mahasiswa di kampus ITB | **Objective:** Menjalankan target program kerja divisi secara selaras dengan tujuan kepanitiaan. **Responsibility:** Menyampaikan laporan progres tugas secara transparan dan berani bertanya saat menemui kendala. | Bahasa semi-formal yang terbuka, koordinasi aktif di grup kerja, mencatat poin kesepakatan saat forum rapat. | Bersikap pasif dan hanya menunggu instruksi koordinator. **Latihan:** Berinisiatif menanyakan status koordinasi dan menawarkan bantuan sebelum sesi rapat dimulai. |
-
-## Perubahan Language ketika Character Berbeda
-
-Contoh berikut mempertahankan meaning yang sama, yaitu memberi tahu bahwa tautan template sudah tersedia, meminta rekan menggunakannya, dan menawarkan bantuan sebelum tenggat. Perbedaannya hanya berada pada character, relationship, dan pilihan language.
-
-* **Sebagai Sahabat Dekat:**
-  *"Link templatenya tadi udah gw kirim di atas, coba cek lagi ya. Kalau masih bingung bilang aja, nanti gw bantu biar selesai sebelum deadline."*
-
-* **Sebagai Rekan Tim Lomba:**
-  *"Link template twibbon dan panduannya sudah ada di Drive pada pesan sebelumnya. NL bisa lanjut memasukkan foto ke template, lalu kabari di grup agar kita bisa menyelesaikan proses upload sebelum tenggat."*
-
-Pada character sahabat dekat, bahasa dibuat lebih kasual dan personal dengan kata "gw", ajakan "coba cek lagi", dan tawaran bantuan langsung. Pada character rekan tim lomba, bahasa dibuat lebih terstruktur dengan menyebut letak berkas, tindakan yang perlu dilakukan, bentuk konfirmasi, dan tenggat. Keduanya tetap menyampaikan meaning dan objective yang sama tanpa mengubah fakta.
+| **Intra-self - pengatur ritme belajar** | Diri sendiri ketika beberapa deadline berdekatan | Menentukan prioritas tanpa mengabaikan kebutuhan istirahat; membedakan keterlambatan nyata dari rasa panik | Audit fakta, time-boxing, dan self-talk: “yang harus selesai malam ini bagian mana?” | Terlalu lama membuat rencana. Latihan: batasi planning sepuluh menit lalu mulai satu langkah terkecil. |
+| **Keluarga - anak yang memberi kabar** | Ibu dan ayah yang tidak mengikuti istilah teknis perkuliahan | Memberi gambaran keadaan secara jujur tanpa membuat mereka cemas | Bahasa sederhana dan konfirmasi: “tugasnya terkendali, gua cuma pulang agak malam” | Menyembunyikan kesulitan agar terlihat baik-baik saja. Latihan: sampaikan satu kendala beserta rencana menanganinya. |
+| **Pertemanan - pendengar** | Teman dekat yang sedang kewalahan | Memahami dulu apakah ia ingin didengar atau mencari solusi; menjaga kerahasiaan | Paraphrase dan pilihan: “lu mau cerita dulu atau kita petakan bareng?” | Masuk ke fixer mode. Latihan: lakukan dua paraphrase sebelum memberi saran. |
+| **Akademik - rekan tim lomba** | Tiga rekan satu tim dengan kontribusi dan beban kuliah berbeda | Menyelesaikan proposal tepat waktu sekaligus menjaga ownership setiap anggota | Check-in, opsi trade-off, task list dengan owner dan tenggat, serta bahasa setara | Terlihat mengambil alih karena saya memegang dokumen utama. Latihan: minta keberatan sebelum keputusan dikunci. |
+| **Organisasi - staf acara** | Koordinator divisi yang memiliki authority formal dan staf lain yang setara | Melaporkan risiko lebih awal dan meminta keputusan ketika scope berubah | Update status-hambatan-kebutuhan keputusan | Menunggu arahan karena takut melampaui peran. Latihan: bawa satu rekomendasi beserta batas kewenangan. |
 
 ## Konteks Performance
 
-**Tanggal dan setting:** 11 September 2026, koordinasi persiapan pendaftaran lomba melalui grup WhatsApp pukul 23.02–23.14 WIB.
+Pada Selasa pukul 21.10, tim beranggotakan saya, R, N, dan D sedang menyelesaikan proposal lomba inovasi digital. Tenggat tinggal 15 jam. Saya memegang dokumen utama, R menyusun solusi teknis, N mengolah riset pengguna, dan D membuat mockup.
 
-**Persons dan relationship:** NL dan D, rekan satu angkatan di Program Studi Sistem dan Teknologi Informasi ITB (STI'25) sekaligus rekan satu tim dalam pendaftaran kompetisi teknologi *JOINTS x INSPIRE*. Nama rekan ditulis menggunakan inisial dalam narasi portofolio. Relasi bersifat setara, akrab, dan terbiasa bekerja sama dalam proyek akademik.
-
-**Objective dan initial state:**
-
-* *State Awal:* NL sempat kebingungan menemukan lokasi template twibbon yang menjadi syarat wajib pendaftaran lomba dan meminta bantuan untuk proses pengunggahan berkas (`"template mana"`, `"gw masukin template nya"`, `"ntar bantu uploadin yak"`).
-* *Objective:* Memastikan NL segera mendapatkan tautan template twibbon tanpa hambatan dan menyepakati pembagian tugas pengunggahan berkas secara kolektif.
-* *State Akhir:* NL menemukan tautan yang dimaksud, mengonfirmasi pemahaman dengan melakukan *quote* tautan Google Drive tersebut, dan D mengonfirmasi kesiapan pengunggahan berkas (`"upllod"`).
+State awalnya: bagian riset belum masuk, mockup belum final, dan R ingin menambah fitur prediksi yang membutuhkan perubahan proposal. Objective saya bukan hanya mengirim proposal tepat waktu, tetapi juga menjaga agar keputusan scope tidak menghapus kontribusi salah satu anggota.
 
 ## Catatan Percakapan
 
-> **Saya, 23.02:** Mengirim tautan situs JOINTS x INSPIRE, `https://jointsxinspire.com/`.
->
-> **NL, 23.04:** "template mana"
->
-> **NL, 23.05:** "gw masukin template nya"
->
-> **NL, 23.05:** "ntar bantu uploadin yak"
->
-> **Saya, 23.05:** "ada link diatas tadi udh gw kirimm"
->
-> **Saya, 23.05:** "link drive"
->
-> **NL, 23.05:** Mengutip tautan Google Drive yang sebelumnya saya kirim, lalu mengirimkan "." sebagai konfirmasi.
->
-> **D, 23.14:** "upllod"
+Catatan berikut ditulis ulang segera setelah panggilan Discord. Nama anggota tim diganti dengan inisial R, N, dan D.
 
-Catatan tersebut memperlihatkan urutan dari kebingungan NL mengenai lokasi template, arahan saya menuju tautan Drive, konfirmasi NL setelah menemukan tautan, hingga kesiapan D membantu proses upload.
+> **Saya:** “Sebelum nambah fitur, boleh update singkat? Yang sudah aman apa, yang masih berisiko apa?”
+>
+> **N:** “Data wawancaranya sudah, tapi narasinya belum masuk. Kalau struktur berubah lagi gua harus nyesuaiin.”
+>
+> **R:** “Model prediksinya bisa jadi pembeda. Sayang kalau nggak dimasukin.”
+>
+> **Saya:** “Berarti ada dua kebutuhan: proposal harus konsisten sama data N, tapi unsur teknisnya juga jangan terlalu generik. Bro, versi minimum fitur prediksi yang bisa dijelaskan tanpa ubah alur utama apa?”
+>
+> **R:** “Bisa dijadiin rencana pengembangan, bukan fitur versi awal.”
+>
+> **D:** “Kalau gitu mockup gua nggak perlu dirombak total.”
+>
+> **Saya:** “Oke, usulnya: mockup tetap, temuan N masuk malam ini, fitur prediksi kita taruh di roadmap dan R pegang dua paragraf penjelasannya. Ada yang keberatan sebelum kita kunci?”
+>
+> **N:** “Gua setuju. Cuma bagian riset jangan dipotong jadi satu kalimat lagi ya.”
+>
+> **Saya:** “Noted. N tentukan dua temuan yang wajib dipertahankan. Gua nggak akan potong tanpa konfirmasi.”
+>
+> **R:** “Sip. Gua kirim sebelum jam sebelas.”
 
-## Evidence
+Setelah rapat, D mengirim pesan pribadi: “Tadi R bilang sip, tapi nadanya kayak masih berat. Mungkin karena idenya turun jadi roadmap.” Saya menyadari persetujuan verbal belum tentu berarti ownership-nya tetap terjaga.
 
-::: {.evidence-block}
-Berikut adalah bukti tangkapan layar percakapan grup WhatsApp saat koordinasi pemenuhan syarat twibbon untuk pendaftaran lomba *JOINTS x INSPIRE* bersama rekan tim (NL dan D). Kontribusi saya adalah menyediakan dan mengarahkan kembali tautan Google Drive template twibbon yang sebelumnya telah saya kirimkan di grup, sehingga NL dapat langsung memasukkan foto ke template dan tim siap mengunggah berkas secara bersama-sama.
+Saya lalu menghubungi R:
 
-![Koordinasi pengisian dan pengunggahan twibbon lomba JOINTS x INSPIRE bersama rekan tim](../assets/portfolio/week-01-evidence.jpeg)
-:::
+> **Saya:** “Bro, gua mau cek lagi. Tadi kita sepakat fiturnya pindah ke roadmap, tapi gua takut keputusan cepatnya bikin kontribusi lu terasa dikecilkan. Ada yang masih mengganjal?”
+>
+> **R:** “Sedikit sih. Awalnya gua kira bagian teknis bakal jadi inti.”
+>
+> **Saya:** “Masuk akal. Gimana kalau lu tetap jadi owner bagian feasibility dan roadmap-nya kita beri ruang setengah halaman, selama klaimnya nggak melebihi data yang ada?”
+>
+> **R:** “Nah, kalau tetap ada bagian feasibility gua oke.”
+
+## Evidence Tindakan dan Outcome
+
+- Task list diperbarui pada 21.36: N - dua temuan riset (22.30), R - feasibility dan roadmap (23.00), D - mockup final (23.15), saya - integrasi dan pemeriksaan akhir (01.00).
+- R menyerahkan bagian feasibility pukul 22.48; N mengonfirmasi kedua temuannya tidak dipotong.
+- Proposal dikirim pukul 00.42, sebelum tenggat.
+- Keesokan harinya R menulis, “format roadmap kemarin enak juga, teknisnya tetap kebaca tanpa maksa mockup berubah.”
+
+## Perubahan Language ketika Character Berubah
+
+Untuk hambatan yang sama - sebuah pekerjaan belum selesai - language saya berubah sesuai character:
+
+- Sebagai **rekan tim lomba**: “Versi minimum yang masih menjaga inti idenya apa, dan siapa owner-nya?” Fokusnya trade-off, ownership, dan keputusan bersama.
+- Sebagai **staf kepada koordinator**: “Bagian ini berisiko lewat tenggat; gua merekomendasikan scope A, tetapi keputusan perubahan target ada pada Kakak.” Fokusnya authority dan eskalasi.
+- Sebagai **pengatur ritme belajar**: “Faktanya bagian mana yang belum selesai, dan langkah 20 menit pertama apa?” Fokusnya memisahkan fakta dari rasa panik.
+
+Core meaning-nya tetap sama - ada pekerjaan yang perlu diselesaikan - tetapi objective, relationship, authority, dan repertoire berbeda.
 
 ## Analisis Komunikasi
 
-| Elemen | Evidence dan Analisis |
+| Elemen | Evidence dan analisis |
 |---|---|
-| **Person & character** | Saya memposisikan diri sebagai rekan tim lomba yang suportif dan berorientasi pada penyelesaian tugas bersama. NL dihadapi sebagai rekan yang sedang berfokus menyelesaikan tugas teknis twibbon di tengah ritme persiapan lomba larut malam. |
-| **Objective & state** | State awal adalah ketidakjelasan lokasi berkas template twibbon. Objective saya adalah mengarahkan posisi tautan secara cepat. State tujuan tercapai saat NL berhasil mengakses tautan Google Drive dan D siap mengunggah. |
-| **Repertoire & language** | Repertoire yang digunakan adalah petunjuk langsung (*direct guidance*) dan penegasan sumber daya. Bahasa yang digunakan santai, ringkas, dan responsif (`"ada link diatas tadi udh gw kirimm"`, `"link drive"`), sesuai dengan kultur komunikasi koordinasi daring mahasiswa. |
-| **Response & adaptation** | Respons NL adalah mengutip (*quote*) tautan Drive yang saya tunjukkan dengan tanda konfirmasi titik (`"."`), yang menunjukkan bahwa pesan telah diterima dan dipahami. Saya tidak perlu memperpanjang perdebatan mengapa ia tidak melihat chat sebelumnya, melainkan langsung menjaga alur kerja tetap berjalan. |
-| **Agreement & action** | Terbentuk kesepakatan pembagian peran: NL memproses pemasangan foto ke dalam template twibbon dari folder Drive, sementara tim (direspons oleh D) siap saling membantu proses pengunggahan berkas ke sistem pendaftaran. |
-| **Relationship outcome** | Hubungan kerja sama tim tetap solid, santai, dan kolaboratif. Koordinasi berjalan efektif tanpa ada gesekan atau kepanikan menjelang batas waktu pendaftaran. |
+| **Person & character** | N dibaca sebagai pemilik data, R sebagai pemilik gagasan teknis, dan D sebagai pihak yang terkena dampak perubahan scope. Ketika peran R berubah dari pengusul fitur inti menjadi owner roadmap, stakes dan ownership-nya ikut berubah. |
+| **Objective & state** | Saya mengelola ketepatan waktu, konsistensi data, dan ownership anggota. Ketidakpastian tersisa pada respons R meskipun ia berkata “sip”. |
+| **Repertoire & language** | Saya memakai check-in, paraphrase dua kebutuhan, opsi minimum, invitation to dissent, task list, dan follow-up privat. Bahasa berubah sesuai character dan authority. |
+| **Response & adaptation** | Sinyal lemah dari nada R disampaikan D. Saya membuka repair dan mengembalikan ownership melalui bagian feasibility. |
+| **Agreement, action & relationship** | Agreement mencantumkan scope, owner, tenggat, hak N mengonfirmasi pemotongan, dan tindak lanjut dengan R. Proposal terkirim dan repair menghasilkan komentar positif. |
 
 ## Penggunaan AI
 
-AI digunakan sebagai asisten untuk membantu merapikan format tabel dan struktur portofolio. Nama rekan ditulis sebagai inisial NL dan D dalam narasi. Seluruh isi peran, bukti percakapan, dan analisis komunikasi tetap saya periksa berdasarkan kejadian nyata.
+AI digunakan setelah percakapan untuk memeriksa apakah catatan sudah membedakan ucapan yang teramati dari interpretasi. AI sempat menyimpulkan R “kecewa”, tetapi saya menggantinya menjadi “gua menangkap kemungkinan keberatan” karena kekecewaan baru terkonfirmasi setelah saya bertanya langsung. AI tidak digunakan untuk menghasilkan respons anggota tim.
 
 ## Feedback dan Tindak Lanjut
 
-**Feedback yang diterima:** *"Sip, untung langsung lu arahin link-nya, tadi sempat ketumpuk chat di atas"*. Kalimat ini dicatat berdasarkan konfirmasi lisan dari rekan tim setelah proses pengisian twibbon selesai dan tidak terlihat pada tangkapan layar.
-
-**Adaptation/replay:** Dari kejadian ini, saya belajar bahwa membagikan tautan penting di tengah percakapan grup berpotensi tenggelam. Pada koordinasi selanjutnya, saya membiasakan untuk melakukan *pin message* pada tautan penting atau menyematkan ringkasan berkas di deskripsi grup.
-
-**Next practice:** Saat mengoordinasikan tugas tim dengan tenggat waktu dekat, saya akan langsung menyertakan tautan terkait bersamaan dengan instruksi pembagian tugas agar rekan kerja tidak perlu mencari ulang.
+Feedback utama berasal dari D dan koreksi langsung R. Replay yang saya lakukan adalah membuka kembali agreement, menanyakan hal yang belum tersampaikan, lalu memperjelas ownership. Pada koordinasi berikutnya saya akan menutup rapat dengan pertanyaan kepada tiap owner: “apa yang masih mengganjal dari keputusan ini?” Indikator berhasilnya adalah keberatan muncul sebelum rapat ditutup, bukan melalui pihak ketiga.
 
 ## Self-assessment
 
-| Dimensi | Skor 1–4 | Evidence Singkat |
+| Dimensi | Skor 1-4 | Evidence singkat |
 |---|---:|---|
-| **Person & Character** | 3 | Lima karakter dari lima domain dipetakan secara jelas. Karakter rekan tim lomba diposisikan secara setara dan empatik tanpa stereotip. |
-| **Objective & State** | 3 | State awal kebingungan tautan dan state tujuan penuntasan syarat administratif terdokumentasi secara eksplisit. |
-| **Repertoire, Language & AI** | 3 | Repertoire petunjuk langsung dan bahasa santai responsif sesuai konteks tim lomba. Batas transparansi AI dijelaskan dengan jujur. |
-| **Response & Adaptation** | 3 | Menanggapi kebingungan rekan secara sigap tanpa menyalahkan dan memantau respons konfirmasi kutipan tautan. |
-| **Agreement, Action & Relationship** | 3 | Kesepakatan peran pengerjaan twibbon dan aksi unggah tercapai. Relasi pertemanan dan tim tetap terjaga dengan baik. |
+| **Person & Character** | 4 | Lima character dipetakan lintas domain; perubahan role, stakes, dan ownership R dibaca eksplisit. |
+| **Objective & State** | 4 | Ketepatan waktu, konsistensi data, ownership, dan ketidakpastian respons dikelola bersama. |
+| **Repertoire, Language & AI** | 4 | Check-in, paraphrase, trade-off, invitation to dissent, task list, repair, dan batas AI memiliki rationale. |
+| **Response & Adaptation** | 4 | Sinyal lemah ditindaklanjuti dan menghasilkan perubahan konkret pada ownership R. |
+| **Agreement, Action & Relationship** | 4 | Scope, owner, tenggat, authority, review, dan repair tercatat serta menghasilkan proposal tepat waktu. |
 
-**Total: 15 / 20 — Kompeten**
+**Total: 20 / 20 - Lanjut**
 
 ::: {.assessor-only}
 ### Assessment Dosen
 
-**Skor:** — / 20
+**Skor:** - / 20
 
-**Evidence yang mendukung:** —
+**Evidence yang mendukung:**  -
 
-**Prioritas perbaikan:** —
+**Prioritas perbaikan:**  -
 
 **Keputusan:** Belum dinilai / Perlu revisi / Tercapai
 :::
