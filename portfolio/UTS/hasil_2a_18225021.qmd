@@ -1,0 +1,249 @@
+---
+title: "Laporan UTS KIPP 2026 - Versi 2.0"
+subtitle: "Sesi 2a - Kasus 2"
+author: "Ihsan Fadhlih Akbar - 18225021"
+date: 2026-10-08
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 2
+execute:
+  eval: false
+---
+
+[Kembali ke Portfolio Minggu 8](../week-08.qmd)
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ihsan Fadhlih Akbar |
+| NIM | 18225021 |
+| Kelas dan tanggal | K2; 8 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2; Menegosiasikan beban bantuan yang tidak tercatat |
+| Nama dan ID target | Rafi (R), K2-05 |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_2a_18225021.zip; penugasan tetap |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif; simulasi percakapan |
+| Kelengkapan skrip | Lengkap, dari identifikasi sampai konfirmasi; 24 pasangan giliran |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief tetap: tugas kelompok berakhir 48 jam lagi, teman dekat belum mengirim bagiannya dan merasa pembagian tidak adil. Sesi ini baru dengan Rafi (R), K2-05. Dalam kasus ini, laporan kecil memiliki bagian temuan, analisis, dan integrasi; R memegang ringkasan temuan sekaligus membantu format file anggota lain. T0 berarti awal percakapan, T+48 jam adalah tenggat. Tujuan ialah mengklarifikasi beban tersembunyi, meredistribusi satu tugas secara sah, dan menetapkan draf, bantuan, kabar kendala, serta waktu integrasi. Saya tidak dapat menjanjikan pekerjaan anggota ketiga tanpa persetujuannya. Tenggat antara disepakati dengan memperhatikan kapasitas setiap pemilik tugas.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang memperbaiki kerja sama; ancaman keterlambatan; mampu merangkum, belum tahu beban bantuan | U003 | Laporan tokoh; belum mengetahui alasan R |
+| Attitude | Menghargai friendship dan akuntabilitas; berisiko menenangkan tanpa batas | U003 | Sementara |
+| Knowledge | Mengetahui brief 48 jam dan bagian belum masuk; kontribusi tak tertulis belum diketahui | U003-U004 | Bukti awal terbatas |
+| Skill | Dapat membuat catatan kerja dan membantu format; tidak berwenang membagi pekerjaan orang lain | U003, U010 | Kemampuan di dalam skenario |
+| Preferensi/MBTI | Suka struktur setelah mendengar; tidak ada hasil MBTI atau diagnosis | U003 | Preferensi kerja, bukan tipe |
+| Karakter/peran/kultur | Rekan setara yang bertanggung jawab atas integrasi; norma kelompok membantu tanpa pencatatan | U003, AI005 | Norma muncul dari respons, bukan asumsi universal |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan sebelum respons R adalah kapasitas atau ketidakjelasan pembagian, bukan malas. Pertanyaan validasi memeriksa bagian belum masuk, tugas bantuan, dan kebutuhan dukungan. Kebutuhan emosional belum dapat disimpulkan sebelum R menjelaskan AI005. Dugaan awal saya dicatat pada U003. Perubahan pembacaan dijelaskan pada U014, kemudian dibandingkan dengan profil yang diungkap pada AI014.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Rekan setara R, bagian belum masuk | A/K/S belum terpisah | Minta waktu percakapan dan fakta | R menerima pembicaraan |
+| Attention | Isu aman dibahas tanpa label | A: kontribusi diakui | Observation dan pertanyaan pengalaman | AI004-AI005 membuka beban |
+| Interest | Memahami batas tanggung jawab | K: bantuan tidak sama dengan tugas inti | Paraphrase dan peta beban | AI007 membedakan peran |
+| Desire | Memilih pengurangan satu beban | A/S: dukungan nyata, bukan kasihan | Opsi bantuan dengan kapasitas saya | AI009 memilih redistribusi |
+| Action | Draf dan integrasi sebelum T+48 | S: owner, waktu, indikator, fallback | Teach-back dan checkpoint | AI013, U016-U019 agreement diperbarui |
+
+# C) Skrip Percakapan
+
+Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uji ulang, refleksi, hingga konfirmasi. ID U/AI menjadi acuan kutipan pada bagian evaluasi.
+
+## Identifikasi
+
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 8 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 2a sesuai paket.”
+>
+> **AI001 · Fasilitator:** “Sesi 2a menggunakan Rafi K2-05. Apakah nama dan NIM yang dicatat sudah sesuai?”
+
+> **U002 · Saya:** “Nama dan NIM sudah sesuai. Saya memilih kasus fiktif untuk simulasi percakapan ini. Silakan mulai sesi 2a.”
+>
+> **AI002 · Fasilitator:** “Brief: tenggat tugas kelompok 48 jam lagi, rekan dekat belum mengirim bagian dan merasa pembagian tidak adil. Apa tujuan serta dugaan awal?”
+
+
+## Rencana
+
+> **U003 · Saya:** “Tujuan saya agreement yang menjaga friendship serta pembagian nyata, bukan sekadar balasan setuju. Saya menduga ada gap kapasitas atau pembagian. Saya memegang integrasi dan dapat membantu format, tapi tidak boleh menjanjikan tugas orang lain. Tidak ada hasil MBTI saya; saya lebih suka mencatat setelah mendengar.”
+>
+> **AI003 · R:** “Rafi, rekan kelompok, membuka percakapan: Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.”
+
+
+## Simulasi awal
+
+> **U004 · Saya:** “R, gua pengin ngerti dulu. Bagian lu belum masuk dan kita punya 48 jam, tapi gua nggak mau langsung menyalahkan. Apa yang paling bikin lu berat dari pembagian sekarang?”
+>
+> **AI004 · R:** “Gua diminta ringkas temuan, tapi juga terus bantu format bagian teman lain. Kalau gua berhenti bantu, mereka kebingungan.”
+
+> **U005 · Saya:** “Jadi lu bukan cuma mengerjakan bagian sendiri; ada bantuan tambahan yang belum terlihat. Bantuan apa yang paling sering memotong waktu lu?”
+>
+> **AI005 · R:** “Rapihin tabel dan gabung format file. Kelihatannya kecil, tapi berulang. Gua juga nggak enak bilang jangan minta bantuan.”
+
+> **U006 · Saya:** “Makasih sudah bantu mereka. Gua ngerti kenapa lu khawatir perubahan malah menyusahkan orang. Menurut lu, apa yang perlu tetap jalan kalau satu beban itu dialihkan?”
+>
+> **AI006 · R:** “Teman lain tetap perlu tahu siapa yang bantu, jangan tiba-tiba gua berhenti dan semuanya menggantung.”
+
+> **U007 · Saya:** “Berarti masalahnya bukan lu nggak peduli tugas, tapi batas bantuan dan owner-nya belum jelas. Temuan tetap tugas lu; format file bisa satu owner lain. Itu rangkuman yang tepat?”
+>
+> **AI007 · R:** “Iya. Kalau owner bantuan jelas, gua bisa fokus temuan tanpa merasa meninggalkan mereka.”
+
+> **U008 · Saya:** “Gua bisa ambil format gabungan maksimal satu jam dari slot integrasi gua. Kita pindahkan hanya format; penjelasan isi tetap tiap pemilik. Apa ada bagian dari opsi itu yang masih bikin lu ragu?”
+>
+> **AI008 · R:** “Gua khawatir lu akhirnya kewalahan juga dan temuan gua masih harus dipercepat.”
+
+> **U009 · Saya:** “Gua belum janji mengambil semuanya. Temuan lu nggak harus langsung sempurna: draf dengan sumber dan bagian kosong ditandai dulu. Format satu batch gua ambil; kalau lebih dari satu jam, kita bahas scope. Mana langkah pertama yang paling realistis buat lu?”
+>
+> **AI009 · R:** “Gua bisa draf temuan pada T+12 jam kalau batch format dialihkan sekarang.”
+
+> **U010 · Saya:** “Gua tulis di catatan: lu owner temuan T+12, gua owner format batch T+6, integrasi mulai T+24, review T+36, kirim sebelum T+48. Anggota ketiga tetap pemilik isi analisis; gua minta persetujuannya, tidak menetapkan diam-diam. Dengan kapasitas lu, jadwal ini masuk?”
+>
+> **AI010 · R:** “Masuk untuk draf. Kalau ada sumber belum jelas, gua tandai supaya nggak dianggap selesai.”
+
+> **U011 · Saya:** “Untuk sumber yang belum jelas, tulis bukti yang sudah ada dan pertanyaan, jangan isi tebakan. Kalau draf berisiko lewat, kabari paling lambat T+10 dengan bagian yang macet. Dukungan apa yang perlu kita pastikan dulu?”
+>
+> **AI011 · R:** “Gua butuh akses dokumen yang bisa diedit, bukan cuma file dikirim lewat chat.”
+
+> **U012 · Saya:** “Gua siapkan satu dokumen bersama pada T+1, lalu cek akses lu sebelum batch dimulai. Kalau akses gagal, kirim draf teks ke gua dengan label bagian, jadi kerja lu nggak berhenti. Gua tidak akan mengubah makna temuan tanpa konfirmasi.”
+>
+> **AI012 · R:** “Itu membantu. Bukan cuma bilang lu peduli, ada jalur kerja yang jelas.”
+
+> **U013 · Saya:** “Coba ulang agreement dengan kata lu sendiri supaya kita tahu nggak ada yang tertinggal.”
+>
+> **AI013 · R:** “Gua draf temuan T+12 dan tandai gap sumber; lu format satu batch T+6 serta akses T+1. Kalau risiko telat, gua kabari T+10. Integrasi T+24, review T+36, final sebelum T+48. Isi analisis tidak lu pindahkan tanpa persetujuan pemilik.”
+
+
+## Evaluasi sementara
+
+> **U014 · Saya:** “Dugaan kapasitas benar sebagian, tetapi AI005 menunjukkan beban bantuan dan rasa bersalah sebagai hambatan A. AI007 memperjelas K, AI011 menunjukkan dukungan S berupa akses. Interest muncul saat R meminta owner; Action baru conditional setelah teach-back AI013, bukan dari ucapan terima kasih AI012.”
+>
+> **AI014 · Fasilitator:** “Profil sumber R setelah segmen awal: peduli orang, beban bantuan belum terlihat, batas tanggung jawab belum jelas, perlu redistribusi satu tugas; ISFJ adalah parameter fiktif. Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?”
+
+> **U015 · Saya:** “U006 mengakui bantuan yang spesifik sehingga AI006 menjelaskan syarat transisi. U008 belum cukup karena AI008 takut gua kewalahan. U009-U012 membatasi bantuan dan memastikan akses. Mengatakan semua akan gua ambil justru menghapus akuntabilitas; dukungan harus punya kapasitas.”
+>
+> **AI015 · Fasilitator:** “Uji ulang pada T+10: anggota ketiga belum menyetujui peran isi; batch format melewati perkiraan, dan R khawatir diminta mengurusnya lagi. Jalankan respons.”
+
+
+## Uji ulang
+
+> **U016 · Saya:** “R, owner format masih gua, bukan otomatis balik ke lu. Yang belum disetujui anggota ketiga tetap dicatat pending. Bagian format mana yang masih menghambat draf lu?”
+>
+> **AI016 · R:** “Dua tabel dari anggota ketiga belum rapi. Gua bisa lanjut temuan sendiri, tapi nggak mau terus ditag buat format tabel itu.”
+
+> **U017 · Saya:** “Gua tandai dua tabel itu pending milik sumbernya; gua kirim satu pesan owner format gua supaya lu nggak ditag. Lu lanjut temuan yang sumbernya lengkap. Kita tidak menulis hasil dua tabel sebelum jelas. Apakah gap itu memengaruhi poin utama?”
+>
+> **AI017 · R:** “Satu paragraf bergantung pada tabel kedua. Kalau ditandai pending, draf temuan lain tetap bisa gua kirim.”
+
+> **U018 · Saya:** “Kita pertahankan draf bagian lengkap T+12; paragraf bergantung tabel ditandai gap, lalu gua follow-up pemilik sampai T+18. Jika belum terkonfirmasi, kita batasi klaim dan laporkan gap di integrasi T+24. Apakah ini lebih realistis daripada menahan seluruh draf?”
+>
+> **AI018 · R:** “Iya. Gua tidak perlu sembunyikan kekurangan sumber atau menyelesaikan semuanya sendiri.”
+
+> **U019 · Saya:** “Untuk contoh sekarang, tulis satu status draf yang jujur. Gua tetap jaga review T+36, dan jika jalur sumber belum selesai kita bahas scope bersama, bukan mengubah deadline sepihak.”
+>
+> **AI019 · R:** “Status gua: temuan 1-2 siap draf T+12; temuan 3 menunggu tabel kedua, owner follow-up lu T+18. Gua tidak mengklaim temuan 3 selesai. Pembagian bantuan masih berlaku.”
+
+
+## Refleksi
+
+> **U020 · Saya:** “A R lebih aman mengungkap beban, K lebih jelas membedakan isi dan format, S tokoh hanya kesiapan memakai dokumen serta status gap. Skill saya yang ditunjukkan adalah klarifikasi dan replan U016-U019. Tugas belum dikirim nyata; outcome simulasi baru agreement bersyarat.”
+>
+> **AI020 · Fasilitator:** “Apa kesimpulan tentang SWOT serta relasi yang tidak melampaui bukti?”
+
+> **U021 · Saya:** “Ancaman ditinggal membantu orang bergeser menjadi peluang bekerja dengan owner jelas; keterbatasan sumber masih ada. Kepercayaan diperkirakan naik dari respons spesifik, bukan bukti ketulusan. Norma saling bantu perlu batas agar yang paling peduli tidak jadi penampung semua kerja.”
+>
+> **AI021 · Fasilitator:** “Apa lesson learned dan langkah berikutnya?”
+
+> **U022 · Saya:** “Pada kerja tim berikutnya saya catat tugas inti dan bantuan tersembunyi sebelum membandingkan fairness. Untuk sesi ini, checkpoint T+12, T+18, T+24, T+36 dipakai memeriksa sumber serta kapasitas; indikatornya draf berlabel, owner jelas, dan kabar risiko datang lebih awal.”
+>
+> **AI022 · Fasilitator:** “Ringkasan: Rafi K2-05, brief 48 jam, redistribusi hanya format, agreement dan uji ulang empat respons. outcome belum berupa pengumpulan nyata. Ada koreksi?”
+
+
+## Konfirmasi
+
+> **U023 · Saya:** “Pertahankan catatan bahwa bantuan anggota ketiga belum dianggap tersedia. U016-U019 menjawab ketidakpastian itu. Semua tenggat dihitung relatif dari awal percakapan.”
+>
+> **AI023 · Fasilitator:** “Koreksi ringkasan sudah dicatat. Apakah identitas, tujuan, hasil, serta refleksi tersebut sudah sesuai?”
+
+> **U024 · Saya:** “Ringkasan sudah sesuai. Simpan laporan sebagai hasil_2a_18225021.qmd dengan bagian A-D, kutipan, evaluasi, uji ulang, dan refleksi.”
+>
+> **AI024 · Fasilitator:** “Sesi 2a selesai. Laporan dapat disusun sebelum melanjutkan sesi berikutnya.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan percakapan tercapai melalui kesepakatan pembagian dan penyesuaian rencana. R menerima redistribusi satu beban, tetapi sumber serta persetujuan pihak ketiga tetap belum tersedia pada uji ulang. Ketidakpastian itu dikelola dengan label pending dan batas klaim, bukan diselesaikan melalui respons yang otomatis setuju.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT subjektif | Ancaman meninggalkan teman; mampu rutinitas | Peluang pembagian jelas, sumber tetap terbatas | AI004-AI007, AI018-AI019 | Respons tokoh dalam dialog |
+| Attitude | Beban bantuan tidak terlihat | Lebih terbuka dengan batas dukungan | AI005, AI009, AI018 | Kepedulian membuka informasi, tidak membuktikan niat |
+| Knowledge | Owner bantuan belum jelas | Isi, format, gap, dan approval dibedakan | U007-U010, AI013 | Teach-back pada sesi |
+| Skill | Butuh redistribusi dan akses | Menyusun status parsial; komunikator replan | AI011-AI013, U016-U019 | Demonstrasi teks, bukan hasil laporan nyata |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus komunikator | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U004/AI004 | Attention, belum agreement | tidak langsung menyalahkan | Menyebut bantuan tambahan | A mulai aman | Gali detail U005 |
+| U007/AI007 | K menjadi jelas | format bisa satu owner lain | Bisa fokus tanpa merasa meninggalkan | Interest | Batasi kapasitas bantuan |
+| U008/AI008/U009 | Desire belum mantap | ambil format satu jam | Takut saya kewalahan | S/ketersediaan bantuan belum pasti | Tawarkan scope draf dan batas |
+| U016-U019/AI016-AI019 | Action direview | pending, owner, sumber | Status temuan lengkap dan gap | Ketidakpastian tidak disamarkan | Pertahankan deadline dengan scope jujur |
+
+Dugaan U003 tentang kapasitas diperluas berdasarkan respons menjadi hambatan A (beban peduli), K (batas peran), S (redistribusi dan akses). Itu sesuai K2-05 sumber; ISFJ bukan label untuk semua orang yang membantu. Kepercayaan R pada sesi ini tidak dibawa ke F sesi berikutnya.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons teramati | Estimasi relasi awal/akhir | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U006/AI006 | Akui bantuan dan kekhawatiran transisi | Meminta owner agar orang tidak menggantung | Aman/keterbukaan rendah menjadi sedang | Kebutuhan bantuan masih ada |
+| U009-U012/AI009-AI012 | Bantuan spesifik, satu batch, akses | Draf realistis dan respons ada jalur jelas | Dipahami/percaya sedang menjadi tinggi dalam sesi | Bukan bukti pekerjaan terlaksana |
+| U016/AI016 | Owner bantuan tidak dikembalikan sepihak | R menjelaskan dua tabel pending | Kepercayaan dipertahankan tinggi | Konsistensi bantuan diuji |
+| U018/AI018 | Draf parsial dan gap jujur | Tidak perlu menyembunyikan sumber | Rasa aman tinggi | Tetap ada hambatan K/S |
+
+Estimasi rendah/sedang/tinggi didasarkan pada respons dalam dialog. Saya menilai kepedulian melalui bantuan, penghormatan pilihan, dan konsistensi, tanpa menyimpulkan motif batin.
+
+## Uji ulang dan pembelajaran
+
+U016-U019 adalah empat respons pada kendala dukungan belum tersedia. Dibanding usul awal U008 yang belum cukup menjawab kapasitas, replan mempertahankan owner, memisahkan temuan siap dan pending, serta menyatakan jalur eskalasi. Kepercayaan yang sudah dibangun tetap dijaga saat kendala baru muncul. Bentuk awal pembelajaran terlihat pada cara menjaga agreement di bawah kendala; hasil pengumpulan tugas masih menjadi tindak lanjut.
+
+## Penilaian enam dimensi
+
+Penilaian diri berikut menggunakan enam dimensi berbobot sama. Setiap dimensi diberi skor 4 dengan dasar kutipan dan ID giliran yang dapat diperiksa. Kesalahan usulan awal dinilai bersama koreksi serta adaptasinya, bukan dihapus dari dialog.
+
+| Dimensi | Skor (1-4) | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U003: “agreement yang menjaga friendship serta pembagian nyata” | Hubungan, tanggung jawab, owner, kapasitas, dan tenggat dihubungkan dalam agreement U003 serta U010-U013 |
+| Persepsi dan validasi profil/status | 4 | U007: “batas bantuan dan owner-nya belum jelas.” | U005-U007 menguji bantuan tersembunyi; U014 membedakan hambatan A, K, dan S berdasarkan respons |
+| Pemilihan dan urutan repertoar | 4 | U009: “Gua belum janji mengambil semuanya.” | U004-U013 mengurutkan mendengar, validasi, rangkuman, opsi terbatas, dukungan akses, dan teach-back |
+| Eksekusi jelas, peduli dan konsisten | 4 | U016: “owner format masih gua, bukan otomatis balik ke lu.” | U016 mempertahankan ownership bantuan saat kendala muncul, tanpa memindahkan beban kembali secara sepihak |
+| Evaluasi dan adaptasi | 4 | U018: “paragraf bergantung tabel ditandai gap” | U016-U019 mengubah draf menjadi parsial, menandai dependency, serta mempertahankan batas authority dan review |
+| Refleksi dan lesson learned | 4 | U020: “Tugas belum dikirim nyata;” | U020-U022 mengoreksi norma bantuan tanpa batas dan menetapkan checkpoint untuk memeriksa sumber serta kapasitas |
+
+**Total usulan skor: 24/24, setara 100/100** (24 ÷ 24 × 100). Usulan penilaian diri ini memerlukan moderasi dosen. Hasil tujuan dinilai terpisah dari kualitas proses komunikasi.
+
+Fokus latihan berikutnya: Jika batch bantuan melewati estimasi, saya akan menyebut sisa kapasitas sebelum menambah follow-up. Pada checkpoint berikutnya saya juga akan meminta R menilai apakah pembagian bantuan masih jelas, bukan hanya menanyakan progres draf.
+
+## Refleksi dan lesson learned mahasiswa
+
+Refleksi saya pada U020-U022 membedakan rasa aman, pemahaman, kesiapan, dan hasil aktual. Stimulus kurang memadai U008 menunjukkan niat membantu masih perlu batas kapasitas serta akses. Lesson learned adalah fairness tidak selalu terlihat pada jumlah bagian; bantuan kecil yang berulang perlu tercatat. Relationship dijaga dengan validasi serta pembagian, sedangkan professional accountability dijaga melalui draf, owner, dan status pending.
+
+## Tindak lanjut dan batas bukti
+
+Rencana akses T+1, format T+6, kabar kendala T+10, draf T+12, follow-up T+18, integrasi T+24, review T+36, dan batas final T+48. Semua tenggat dihitung relatif dari T0, yaitu awal percakapan. Jika sumber tak cukup, klaim dibatasi; jika persetujuan peran belum ada, status pending tetap tertulis. Indikator review berupa draf, sumber, owner, dan catatan risiko, bukan janji saja.
+
+Penggunaan AI: simulasi lawan bicara, pembahasan evaluasi, penyusunan, dan pemeriksaan laporan.
+
+Rujukan pelaksanaan: paket kasus_2a_18225021.zip, [petunjuk UTS](https://azral1962.github.io/kipp-students/lk/lk-UTS/), dan [konsep UTS versi 2.0](https://azral1962.github.io/kipp-students/lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html).
+
+{{< include "../../includes/uts-penilaian.md" >}}

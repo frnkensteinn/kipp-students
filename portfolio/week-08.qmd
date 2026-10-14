@@ -1,25 +1,62 @@
 ---
-title: "UTS Performance Evidence Package"
+title: "Portfolio Minggu 8 - UTS KIPP"
 week: 8
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
-description: "Integrated performance Target–Attention–Interest."
+status: "Siap dinilai"
+self_score: "-"
+assessor_score: "-"
+description: "Makalah pra-UTS, lima laporan kasus individual, refleksi lintas sesi, dan rekap nilai UTS."
 categories: [Assessment, UTS]
 ---
 
-## Kompetensi target
+Halaman ini menghimpun paket UTS saya. Makalah dan transkrip lengkap berada pada masing-masing berkas di `portfolio/UTS/`.
 
-Mengintegrasikan person recognition, state recognition, repertoire, language, response, dan adaptation.
+## Identitas dan status paket
 
-## Evidence wajib
+| Elemen | Keterangan |
+|---|---|
+| Nama | Ihsan Fadhlih Akbar |
+| NIM | 18225021 |
+| Kelas | K2 |
+| Periode dokumen | 6-14 Oktober 2026; tanggal setiap komponen tercantum pada berkasnya |
+| Versi bank/paket | Bank 2.0; paket individual 2.0 |
+| Modalitas | Teks; simulasi kasus fiktif |
+| Status jawaban | Makalah dan kelima laporan lengkap, siap dinilai |
+| Status pengumpulan | Belum dikirim melalui portal |
 
-- Performance card dan initial state.
-- Rekaman/transcript serta observer sheet.
-- Feedback, replay, evidence improvement, dan reflection.
+## Makalah dan lima laporan
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 8](../examples/week-08.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+| Komponen | Berkas jawaban | Target sesuai paket | Status | Bagian evidence |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Empat pertanyaan MBTI, komunikasi, dan PASK | Siap dinilai | Empat pembahasan utama, contoh, keterbatasan, dan daftar pustaka |
+| Sesi 1 | [hasil_1_18225021.qmd](UTS/hasil_1_18225021.qmd) | Diri saya; pembanding F, K1-02 | Siap dinilai | A-D; U001-U024 dan AI001-AI024; uji ulang U016-U019 |
+| Sesi 2a | [hasil_2a_18225021.qmd](UTS/hasil_2a_18225021.qmd) | R, K2-05 | Siap dinilai | A-D; U001-U024 dan AI001-AI024; uji ulang U016-U019 |
+| Sesi 2b | [hasil_2b_18225021.qmd](UTS/hasil_2b_18225021.qmd) | F, K2-02 | Siap dinilai | A-D; U001-U024 dan AI001-AI024; uji ulang U016-U019 |
+| Sesi 3a | [hasil_3a_18225021.qmd](UTS/hasil_3a_18225021.qmd) | R, K3-05 | Siap dinilai | A-D; U001-U024 dan AI001-AI024; uji ulang U016-U019 |
+| Sesi 3b | [hasil_3b_18225021.qmd](UTS/hasil_3b_18225021.qmd) | D, K3-04 | Siap dinilai | A-D; U001-U024 dan AI001-AI024; uji ulang U016-U019 |
 
-{{< include ../includes/evidence-template.md >}}
+Target ditulis dengan inisial satu huruf. ID profil dipertahankan sesuai paket; awalan K1/K2/K3 pada ID tersebut adalah nomor kasus, bukan kelas.
+
+## Refleksi lintas sesi
+
+Pada sesi 1, saya belajar memisahkan error dari penilaian terhadap diri. Pesan yang menuntut langsung mahir pada U005 diperbaiki menjadi latihan kecil dengan pemeriksaan fakta. Respons F sebagai pembanding tidak saya anggap sebagai bukti perubahan diri atau penguasaan SQL.
+
+Perbedaan sesi 2a dan 2b membuat saya mengubah bentuk kepedulian. R membutuhkan bantuan yang tetap berjalan tanpa menjadikannya penampung seluruh pekerjaan; F meminta ukuran scope, pembanding, serta prosedur tertulis. Penolakan F pada AI005 dan AI017 mendorong koreksi dari bantuan kabur menjadi draf parsial dengan checkpoint yang dikonfirmasi.
+
+Pada sesi 3a dan 3b, kebutuhan customer mendahului pilihan teknologi. R menekankan jalur manusia dan kesiapan staf; D menekankan baseline, biaya koreksi, audit, serta otonomi keputusan. Uji ulang memperlihatkan bahwa saya perlu menjaga status pending dan membatasi izin pada demo. Perhatian atau izin mencoba tidak otomatis berarti persetujuan pilot.
+
+Latihan berikutnya adalah meminta target mengulang satu keputusan setelah saya merangkum responsnya. Saya akan memeriksa apa yang berubah, siapa owner-nya, serta batas kapasitas sebelum menambah usulan.
+
+{{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---:|---|---|---|
+| Makalah | 10% | - | - | - | Belum dinilai |
+| Sesi 1 | 18% | - | - | - | Belum dinilai |
+| Sesi 2a | 18% | - | - | - | Belum dinilai |
+| Sesi 2b | 18% | - | - | - | Belum dinilai |
+| Sesi 3a | 18% | - | - | - | Belum dinilai |
+| Sesi 3b | 18% | - | - | - | Belum dinilai |
+
+**Nilai akhir UTS resmi: belum dihitung.** Rekap dan kolom nilai pada indeks portfolio dibiarkan kosong sampai hasil penilaian tersedia.

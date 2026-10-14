@@ -8,6 +8,7 @@ project:
     - "*.qmd"
     - "course/*.qmd"
     - "portfolio/*.qmd"
+    - "portfolio/UTS/*.qmd"
     - "examples/*.qmd"
     - "assessment/*.qmd"
     - "lk/*.qmd"

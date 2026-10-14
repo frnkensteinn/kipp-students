@@ -1,0 +1,249 @@
+---
+title: "Laporan UTS KIPP 2026 - Versi 2.0"
+subtitle: "Sesi 3a - Kasus 3"
+author: "Ihsan Fadhlih Akbar - 18225021"
+date: 2026-10-12
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 2
+execute:
+  eval: false
+---
+
+[Kembali ke Portfolio Minggu 8](../week-08.qmd)
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ihsan Fadhlih Akbar |
+| NIM | 18225021 |
+| Kelas dan tanggal | K2; 12 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3; Uji pencatatan pesanan yang mempertahankan layanan manusia |
+| Nama dan ID target | Rafi (R), K3-05 |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_3a_18225021.zip; penugasan tetap |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif; simulasi percakapan |
+| Kelengkapan skrip | Lengkap, dari identifikasi sampai konfirmasi; 24 pasangan giliran |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief kasus 3 yang dipakai juga pada sesi 3b: customer menerima pertanyaan berulang, pesanan tercecer, tenaga terbatas, dan belum yakin memerlukan AI. Sesi ini dimulai baru dengan Rafi (R), K3-05. Dalam kasus ini, R mengelola pesanan cookies rumahan melalui chat bersama satu pembantu. Tidak digunakan data pelanggan asli. Tujuan bukan pembelian AI, melainkan keputusan uji alur pesanan, batas jawaban, jalur manusia, dukungan belajar, ukuran sukses, dan cara menghentikan uji. Durasi dan jumlah contoh uji disepakati bersama R.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang mengurangi pencatatan ganda; ancaman menambah beban atau menghilangkan layanan personal | U003 | Dugaan sebelum discovery |
+| Attitude | Ingin membantu dan menjaga customer memilih; mengakui belum memiliki data manfaat | U003, U008 | Laporan diri |
+| Knowledge | Mengetahui opsi catatan dan draft jawaban; gap konteks customer belum digali | U003, U005-U007 | Diagnosis sementara |
+| Skill | Dapat menjelaskan alur dummy dan membuat rencana latihan; bukan sistem yang sudah dibangun | U003, U010 | Demonstrasi desain |
+| Preferensi/MBTI | Lebih suka menguji kecil sebelum memperluas; tidak ada MBTI | U003 | Preference, bukan diagnosis |
+| Karakter/peran/kultur | Konsultan/rekan yang tidak memutuskan operasional usaha; keputusan pada R | U003, U013 | Authority terbatas |
+
+## Dugaan awal profil target dan rencana
+
+Hipotesis awal adalah kebutuhan pencatatan serta bottleneck pertanyaan, tetapi R belum tentu menginginkan otomasi. Pembuka sumber AI003 baru menyatakan kekhawatiran, belum mengungkap seluruh hambatan. Pertanyaan U004-U007 memvalidasi meaning sentuhan personal, jalur layanan, dan kapasitas staf. A/K/S serta status TAIDA dibaca dari respons, bukan langsung mengambil ISFJ sebagai label manusia.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | R pemilik usaha dengan kendali operasional | A/K/S dan workflow belum jelas | Discovery pengalaman | Problem dikonfirmasi |
+| Attention | Percakapan tidak memaksa AI | A: pelanggan tetap diperhatikan | Akui perhatian dan hak memilih | AI004 membuka pengalaman |
+| Interest | Memahami pencatatan dan batas jawaban | K: TI vs AI, eskalasi | Contoh order log dan manusia | AI007-AI009 meminta mekanisme |
+| Desire | Memilih uji kecil yang tidak membebani | A/S: aman dan mampu | Dua opsi, latihan, biaya belum dipastikan | AI011 menerima uji bersyarat |
+| Action | Demo dummy dan pilot hanya jika siap | S: owner, waktu, stop condition | Teach-back, eskalasi, review | AI013; U016-U019 fallback diuji |
+
+# C) Skrip Percakapan
+
+Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uji ulang, refleksi, hingga konfirmasi. ID U/AI menjadi acuan kutipan pada bagian evaluasi.
+
+## Identifikasi
+
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 12 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 3a sesuai paket.”
+>
+> **AI001 · Fasilitator:** “Sesi 3a menggunakan Rafi K3-05. Apakah nama dan NIM yang dicatat sudah sesuai?”
+
+> **U002 · Saya:** “Nama dan NIM sudah sesuai. Saya memilih kasus fiktif untuk simulasi percakapan ini. Silakan mulai sesi 3a.”
+>
+> **AI002 · Fasilitator:** “Brief: pertanyaan pelanggan berulang, pesanan tercecer, tenaga terbatas, belum yakin perlu AI. Tujuan serta dugaan awal apa yang digunakan?”
+
+
+## Rencana
+
+> **U003 · Saya:** “Tujuan saya keputusan uji kecil yang menjaga layanan, bukan membeli AI. Saya menduga pencatatan dan jawaban berulang terpisah masalahnya, tapi harus ditanya. Saya bisa menggambar workflow dummy; manfaat, biaya, dan kemampuan staf belum diketahui. Tidak ada hasil MBTI saya.”
+>
+> **AI003 · R:** “Rafi, pengelola usaha: Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.”
+
+
+## Simulasi awal
+
+> **U004 · Saya:** “Pak R, saya ingin memahami siapa yang paling Bapak khawatirkan kesulitan. Bagian layanan seperti apa yang perlu tetap terasa personal?”
+>
+> **AI004 · R:** “Pelanggan sering cerita kebutuhan pesanannya. Kalau semua dijawab mesin, saya takut mereka merasa tidak diperhatikan.”
+
+> **U005 · Saya:** “Saya tidak akan menganggap cerita pelanggan sebagai FAQ biasa. Sekarang pesanan yang tercecer biasanya terjadi pada tahap mana?”
+>
+> **AI005 · R:** “Saat chat ramai, saya sudah bilang akan dicatat, lalu ada pertanyaan lain masuk dan lupa. Pembantu saya juga kadang mengira saya sudah mencatat.”
+
+> **U006 · Saya:** “Jadi yang perlu dipastikan ialah siapa mencatat dan statusnya, sementara percakapan pelanggan tetap ditangani orang. Apa pertanyaan berulang yang aman dibantu tanpa mengubah janji pesanan?”
+>
+> **AI006 · R:** “Jam pemesanan dan menu umum. Harga khusus, perubahan isi, dan stok harus saya cek sendiri.”
+
+> **U007 · Saya:** “Apakah rangkuman ini tepat: satu daftar pesanan dengan owner dan status untuk mencegah anggapan sudah dicatat, lalu informasi umum boleh memakai template, tetapi perubahan atau ketidakpastian selalu ke Bapak?”
+>
+> **AI007 · R:** “Iya, tapi pelanggan harus tahu bisa bicara ke orang. Saya belum paham bagaimana jalur itu tetap ada kalau pakai AI.”
+
+> **U008 · Saya:** “Kita punya dua opsi. Pertama, catatan bersama dan template yang dipilih manusia, tanpa AI. Kedua, AI hanya draft internal yang harus disetujui petugas. Untuk masalah sekarang saya usulkan opsi pertama dulu karena lebih sederhana. Keduanya belum diuji dan saya tidak menjanjikan penghematan tertentu. Opsi mana yang lebih nyaman?”
+>
+> **AI008 · R:** “Yang pertama dulu. Saya ingin tahu cara mencatat tanpa bolak-balik membuka banyak halaman.”
+
+> **U009 · Saya:** “Satu daftar berisi ID dummy, ringkasan permintaan, owner, status, dan catatan menunggu konfirmasi. Satu orang mencatat, yang lain melihat status agar tidak duplikat. Template umum dikirim petugas; harga, stok, keluhan, dan perubahan ke Bapak. Apakah ada langkah yang terasa berat?”
+>
+> **AI009 · R:** “Pembantu saya belum terbiasa daftar digital. Kalau perlu belajar lama, layanan bisa berhenti.”
+
+> **U010 · Saya:** “Kita awali latihan 20 menit menggunakan lima order dummy, bukan pelanggan nyata. Saya dampingi cara menambah, cek duplikat, dan tandai menunggu Bapak. Kanal chat tetap berjalan seperti semula. Kalau latihan belum nyaman, uji operasional ditunda. Apakah waktu latihan seperti itu masuk?”
+>
+> **AI010 · R:** “Bisa, di waktu sepi yang saya tentukan. Lima contoh cukup untuk mulai, tapi jangan langsung mengganti semuanya.”
+
+> **U011 · Saya:** “Setuju. Demo besok pada slot sepi yang Bapak pilih; saya siapkan lima dummy, Bapak dan pembantu membaca ulang owner/status. Baru setelah siap, calon pilot tiga hari untuk satu jenis pesanan. Biaya akun atau tools belum dicek, jadi belum ada keputusan beli. Untuk memastikan layanan aman, kapan kita harus berhenti?”
+>
+> **AI011 · R:** “Kalau ada pesanan tidak tercatat, stok salah dijanjikan, atau tidak ada orang yang menangani pertanyaan khusus, hentikan uji dan kembali cara lama.”
+
+> **U012 · Saya:** “Kriteria itu saya catat. Kita ukur cakupan order, duplikasi, antrean khusus, dan beban pencatatan terhadap baseline yang dicatat sebelum pilot. Harga dan stok tidak dijawab otomatis. Uji hanya dilanjutkan jika setiap order tercatat satu kali, jalur manusia aktif, dan beban bisa diterima Bapak; jika data kecil atau campur, kita belum menyatakan efektif.”
+>
+> **AI012 · R:** “Itu membuat saya lebih tenang. Yang penting bukan cepat saja, pelanggan tetap mendapat kepastian dari orang.”
+
+> **U013 · Saya:** “Mohon ulang keputusan, bantuan, serta batasnya agar saya tahu penjelasannya jelas.”
+>
+> **AI013 · R:** “Besok kita demo lima dummy dulu, Anda dampingi dan saya pilih waktunya. Tanpa AI dan tanpa membeli dulu. Pilot tiga hari baru dipertimbangkan kalau staf siap, baseline ada, dan jalur manusia terjaga. Harga serta stok tetap saya putuskan; jika terjadi risiko layanan, kembali cara lama.”
+
+
+## Evaluasi sementara
+
+> **U014 · Saya:** “Dugaan awal perlu dipersempit. AI004 menunjukkan hambatan A pada layanan personal; AI007 gap K tentang eskalasi; AI009 gap S pada staf. AI008 memilih TI sederhana, AI013 Action berupa demo, bukan rollout atau pembelian. Penjelasan fitur saja tidak menjawab concern ini.”
+>
+> **AI014 · Fasilitator:** “Profil sumber R: menjaga kesinambungan layanan, takut sentuhan personal hilang, perlu memahami eskalasi dan pelatihan; ISFJ adalah parameter fiktif. Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?”
+
+> **U015 · Saya:** “U006 memberi boundary informasi, U008 menghormati pilihan tanpa AI, U010 menunda pilot bila belum mampu. AI012 menunjukkan perhatian pada manusia, bukan otomatis skill tinggi. Klaim pasti hemat waktu akan menghambat karena baseline belum ada. Saya tetap perlu menjaga dukungan pada kendala baru.”
+>
+> **AI015 · Fasilitator:** “Uji ulang: pembantu yang direncanakan ikut demo tidak tersedia; customer tetap ingin dilayani pribadi. Satu pertanyaan tentang harga khusus muncul pada contoh dummy. Jalankan respons.”
+
+
+## Uji ulang
+
+> **U016 · Saya:** “Pak R, absennya pembantu berarti syarat kesiapan belum terpenuhi. Pilot tidak saya aktifkan. Latihan bisa dengan Bapak saja atau dijadwalkan ulang, tanpa mengubah kanal pelanggan. Pilihan mana yang kapasitasnya aman?”
+>
+> **AI016 · R:** “Latihan dengan saya dulu, tetapi saya tidak bisa sekaligus mencatat semua pesan selama melayani pelanggan.”
+
+> **U017 · Saya:** “Kita tetap hanya lima dummy pada waktu sepi, tidak memindahkan chat nyata. Untuk order dummy C-01, harga khusus saya tandai menunggu pemilik, bukan diisi perkiraan. Contoh jawaban petugas: harga khusus akan dikonfirmasi pemilik; pesanan belum final. Apakah alurnya sesuai?”
+>
+> **AI017 · R:** “Sesuai, tetapi kalau saya belum sempat jawab, jangan mengatakan sudah pasti ada harga atau stok.”
+
+> **U018 · Saya:** “Benar. Status C-01 tetap belum dikonfirmasi; tidak ada janji ketersediaan. Daftar menunjukkan owner Bapak dan alasan pending. Jika Bapak tidak sempat, petugas mengirim kabar belum terkonfirmasi sesuai waktu yang Bapak sanggupi, bukan janji balas menit tertentu dari saya.”
+>
+> **AI018 · R:** “Itu boleh. Saya bisa melihat mana yang menunggu keputusan tanpa pelanggan mendapat janji palsu.”
+
+> **U019 · Saya:** “Jadi agreement baru: demo tetap, calon pilot ditunda sampai staf pengganti dilatih, jalur manusia dan baseline tersedia. Saya kirim panduan satu halaman; Bapak pilih slot pengganti. Untuk contoh sekarang, mohon tunjukkan status order C-01 dan apakah boleh ditandai selesai.”
+>
+> **AI019 · R:** “C-01 menunggu pemilik, harga serta stok belum dikonfirmasi, tidak boleh selesai. Staf baru harus bisa membedakan pending dan final sebelum pilot; saya tetap memutuskan kapan siap.”
+
+
+## Refleksi
+
+> **U020 · Saya:** “Tujuan keputusan demo tercapai di simulasi, tetapi pilot ditunda. A R lebih aman memilih, K teramati dari teach-back status pending, S nyata staf belum diketahui. Skill saya hanya merancang serta mengadaptasi workflow dalam teks. Pesanan tidak benar-benar diproses.”
+>
+> **AI020 · Fasilitator:** “Apa kesimpulan SWOT yang tetap mengakui keterbatasan?”
+
+> **U021 · Saya:** “Perubahan tidak lagi ancaman mutlak; ada peluang demo yang mempertahankan manusia. Kemampuan operasional tetap dibatasi staf belum dilatih. Desire untuk demo tidak sama dengan kesiapan pilot. Saya tidak membaca rasa tenang sebagai izin otomatis mengaktifkan sistem.”
+>
+> **AI021 · Fasilitator:** “Apa pelajaran serta indikator tindak lanjut?”
+
+> **U022 · Saya:** “Pada tawaran berikutnya saya pisahkan pencatatan, jawaban umum, dan keputusan berisiko. Ukuran awal lima dummy masing-masing tercatat sekali serta pending benar; sebelum pilot ada baseline, staf siap, owner manusia, dan biaya diketahui. Jika salah satu belum ada, keputusan berikutnya adalah menunda.”
+>
+> **AI022 · Fasilitator:** “Ringkasan: Rafi K3-05, brief customer tetap, TI tanpa AI dipilih, demo bersyarat, pilot ditunda setelah retest empat respons. tidak ada data pelanggan nyata. Ada koreksi?”
+
+
+## Konfirmasi
+
+> **U023 · Saya:** “Tambahkan bahwa slot demo masih perlu disepakati. Demo, pilot, dan manfaat bisnis belum dilaksanakan atau diukur.”
+>
+> **AI023 · Fasilitator:** “Koreksi ringkasan sudah dicatat. Apakah identitas, tujuan, hasil, serta refleksi tersebut sudah sesuai?”
+
+> **U024 · Saya:** “Ringkasan sudah sesuai. Simpan laporan sebagai hasil_3a_18225021.qmd dengan bagian A-D, kutipan, evaluasi, uji ulang, dan refleksi.”
+>
+> **AI024 · Fasilitator:** “Sesi 3a selesai. Laporan dapat disusun sebelum melanjutkan sesi berikutnya.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Keputusan demo TI sederhana tercapai, pembelian AI tidak diajukan sebagai syarat. Calon pilot tiga hari ditunda ketika staf tidak tersedia. Ini tetap outcome komunikasi yang layak karena keputusan sesuai constraint. Tahap berikutnya adalah menyiapkan demo dan baseline sebelum menilai manfaat operasional.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT subjektif | Ancaman sentuhan personal dan staf belum siap | Peluang demo dengan kontrol manusia; pilot belum mampu | AI004, AI010-AI013, AI016-AI019 | Respons R dalam percakapan |
+| Attitude | Khawatir mesin mengabaikan pelanggan | Memilih demo tanpa dipaksa AI | AI004, AI008, AI012 | Rasa aman tidak menghapus hambatan S |
+| Knowledge | Eskalasi belum jelas | Memahami pending, owner, final | AI007, AI013, AI019 | Teach-back simulasi |
+| Skill | Staf belum terbiasa | Kesiapan owner membaca status; komunikator replan | AI009, U016-U019 | Latihan klasifikasi status dalam dialog |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus komunikator | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U004-U007/AI004-AI007 | Attention/Interest | Layanan personal dan owner | Minta jalur manusia | A membaik; gap K tersisa | Pisah TI/AI |
+| U008/AI008 | Desire terbatas | Opsi tanpa AI, batas klaim | Memilih opsi pertama | Kesediaan bukan rollout | Demonstrasi mekanisme |
+| U010-U013/AI010-AI013 | Action demo | Latihan dummy, stop condition | Setuju demo bersyarat | S perlu latihan | Jangan klaim pilot sudah jalan |
+| U016-U019/AI016-AI019 | Retest capacity | Tunda pilot, pending C-01 | Status tidak boleh selesai | K teramati; S staf belum cukup | Jadwalkan latihan pengganti |
+
+U014 memvalidasi tiga hambatan berbeda yang sesuai K3-05. Respons personal R tidak menghapus ketidakmampuan staf. Preferensi ISFJ sumber memberi model pemeranan, tidak mendiagnosis pemilik usaha. R sesi 3a berbeda konteks dan trust dari R sesi 2a.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons teramati | Estimasi relasi awal/akhir | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U004/AI004 | Menanyakan siapa yang dikhawatirkan | Cerita pelanggan diungkap | Aman/keterbukaan rendah menjadi sedang | Belum persetujuan solusi |
+| U008/AI008 | Hak memilih tanpa AI | Memilih catatan dan ingin memahami | Dipahami sedang | Otonomi dipertahankan |
+| U010-U012/AI010-AI012 | Latihan dan kanal manusia | Lebih tenang, pelanggan tetap penting | Trust sedang menjadi tinggi dalam sesi | S belum dibuktikan |
+| U016-U018/AI016-AI018 | Menunda tanpa menyalahkan, tanpa janji palsu | Pending diterima | Trust dipertahankan tinggi | Tidak memaksa pilot |
+
+Estimasi rendah/sedang/tinggi didasarkan pada respons dalam dialog. Saya menilai kepedulian melalui bantuan, penghormatan pilihan, dan konsistensi, tanpa menyimpulkan motif batin.
+
+## Uji ulang dan pembelajaran
+
+U016-U019 memenuhi empat jawaban pada kendala terkait S: staf absen dan butuh latihan serta jalur manusia. Saya mempertahankan pemahaman dan kepercayaan yang telah dibangun, memisahkan demo dari pilot, dan menuliskan status dummy yang tidak final. Adaptasi tidak mengganti target menjadi pembelian; kesiapan R terindikasi dari teach-back, staf tetap belum terlatih.
+
+## Penilaian enam dimensi
+
+Penilaian diri berikut menggunakan enam dimensi berbobot sama. Setiap dimensi diberi skor 4 dengan dasar kutipan dan ID giliran yang dapat diperiksa. Kesalahan usulan awal dinilai bersama koreksi serta adaptasinya, bukan dihapus dari dialog.
+
+| Dimensi | Skor (1-4) | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U003: “keputusan uji kecil yang menjaga layanan, bukan membeli AI.” | Tujuan dibatasi pada keputusan demo; manfaat, authority, layanan, pilot, dan pembelian dipisahkan pada U003 serta U011-U013 |
+| Persepsi dan validasi profil/status | 4 | U007: “satu daftar pesanan dengan owner dan status” | U004-U007 dan U014 membedakan concern personal, pemahaman eskalasi, serta kebutuhan latihan dari respons R |
+| Pemilihan dan urutan repertoar | 4 | U008: “opsi pertama dulu karena lebih sederhana.” | U008 menawarkan opsi TI/AI setelah discovery; U009-U013 mengurutkan workflow, latihan, kriteria aman, dan teach-back |
+| Eksekusi jelas, peduli dan konsisten | 4 | U010: “Kanal chat tetap berjalan seperti semula.” | U010 menjaga kanal layanan lama dan dukungan belajar; keputusan pemilik serta informasi harga/stok tetap dihormati |
+| Evaluasi dan adaptasi | 4 | U016: “Pilot tidak saya aktifkan.” | U016-U019 menunda pilot, menyesuaikan demo, dan menjaga status pending setelah kapasitas serta janji layanan dikoreksi |
+| Refleksi dan lesson learned | 4 | U020: “S nyata staf belum diketahui.” | U020-U022 membedakan kesiapan demo dari skill operasional, membatasi klaim manfaat, dan memberi langkah review |
+
+**Total usulan skor: 24/24, setara 100/100** (24 ÷ 24 × 100). Usulan penilaian diri ini memerlukan moderasi dosen. Hasil tujuan dinilai terpisah dari kualitas proses komunikasi.
+
+Fokus latihan berikutnya: Saya akan mengganti istilah seperti owner dan baseline dengan penanggung jawab dan catatan pembanding, lalu menjelaskan satu langkah setiap kali. Pada review kesiapan berikutnya, saya akan meminta R mengulang jalur pertanyaan khusus sebelum membahas pilot.
+
+## Refleksi dan lesson learned mahasiswa
+
+U020-U022 membedakan persetujuan demo, Desire, dan kemampuan menjalankan pilot. TI sederhana dipilih karena cukup untuk masalah owner/status yang terkonfirmasi, sementara AI tidak menambah value yang sudah dibuktikan. Concern R mengenai orang lain dijawab melalui mekanisme, bukan sekadar kalimat empati. Saya menjaga peran sebagai pemberi opsi dan dukungan, sedangkan keputusan usaha tetap pada R.
+
+## Tindak lanjut dan batas bukti
+
+Demo lima dummy pada slot sepi yang dipilih R, panduan satu halaman, dan latihan pengganti menjadi langkah berikut. Pilot tiga hari baru dipertimbangkan setelah baseline, kesiapan, jalur manusia, serta biaya diperiksa. Risiko berupa order terlewat, janji stok/harga salah, atau eskalasi tak terlayani memicu penghentian dan kembali alur yang sebelumnya dipakai. Biaya, integrasi, dan hasil penggunaan diperiksa sebelum mengambil keputusan pilot.
+
+Penggunaan AI: simulasi lawan bicara, pembahasan evaluasi, penyusunan, dan pemeriksaan laporan.
+
+Rujukan pelaksanaan: paket kasus_3a_18225021.zip, [petunjuk UTS](https://azral1962.github.io/kipp-students/lk/lk-UTS/), dan [konsep UTS versi 2.0](https://azral1962.github.io/kipp-students/lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html).
+
+{{< include "../../includes/uts-penilaian.md" >}}

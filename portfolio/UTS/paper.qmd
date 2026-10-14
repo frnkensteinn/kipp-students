@@ -1,0 +1,231 @@
+---
+title: "MBTI, Adaptasi Komunikasi, dan Edukasi PASK"
+subtitle: "Makalah pra-UTS KIPP"
+author: "Ihsan Fadhlih Akbar - 18225021"
+date: 2026-10-06
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 3
+execute:
+  eval: false
+---
+
+**NIM: 18225021** · **Kelas: K2**
+
+[Kembali ke Portfolio Minggu 8](../week-08.qmd)
+
+## Abstrak
+
+Komunikasi efektif memerlukan pemahaman terhadap person, tujuan, peran, dan respons yang berkembang. MBTI dapat menyediakan kosakata untuk membicarakan preferensi, tetapi tidak menggantikan validasi kebutuhan orang. Makalah ini menjawab empat pertanyaan pra-UTS: pengertian serta pengaruh MBTI, adaptasi komunikasi kepada profil tertentu, pembacaan preferensi dari percakapan, dan edukasi Perception, Attitude, Skill, Knowledge (PASK) untuk memperbaiki respons melalui kerangka SWOT-like. Pendekatan yang digunakan ialah telaah sumber resmi MBTI, penelitian psikometri asli, serta kerangka asesmen KIPP. Saya mengusulkan siklus observasi, hipotesis, klarifikasi, pilihan stimulus, respons, dan uji ulang. Contoh penerapan menunjukkan bahwa perubahan rasa aman, pemahaman, kesiapan, serta tindakan perlu dibedakan. Keberhasilan tidak harus berupa persetujuan; penolakan yang beralasan dapat menunjukkan komunikasi dan evaluasi yang baik.
+
+**Kata kunci:** MBTI, person, PASK, ASK, SWOT subjektif, TAIDA, adaptasi, evidence.
+
+## Pendahuluan dan pendekatan
+
+Keberhasilan percakapan tidak cukup ditentukan oleh kelancaran pembicara. Pesan yang sama dapat diterima berbeda karena pengetahuan, tanggung jawab, risiko, dan kesiapan lawan bicara. Orang yang meminta detail mungkin membutuhkan bukti, bukan kurang antusias. Orang yang menerima usulan mungkin belum mampu melaksanakannya. Karena itu, saya memusatkan analisis pada perilaku dan pertanyaan validasi.
+
+Makalah membedakan tiga sumber pengetahuan. Pertama, definisi MBTI dari pembuat dan penerbitnya menjelaskan cara kerangka itu dimaksudkan digunakan. Kedua, penelitian psikometri menguji aspek tertentu dari instrumen. Ketiga, kerangka KIPP dan contoh yang saya susun menjelaskan aplikasi pendidikan. Panduan komunikasi bukan dengan sendirinya bukti bahwa suatu strategi selalu efektif.
+
+Empat pertanyaan berikut mengikuti [penugasan pra-UTS](https://azral1962.github.io/kipp-students/lk/lk-UTS/). Kerangka perkuliahan juga dibaca melalui prompt umum pada paket individual versi 2.0.
+
+## 1. Kategori personalitas MBTI dan pengaruhnya pada komunikasi
+
+### 1.1 Pengertian, pasangan preferensi, dan 16 kombinasi
+
+Menurut Myers & Briggs Foundation, MBTI menggambarkan preferensi orientasi perhatian, penerimaan informasi, pengambilan keputusan, dan hubungan dengan dunia luar. Kombinasi empat pasangan menghasilkan 16 kode tipe. Saya menggunakan istilah preferensi, bukan pembagian kemampuan atau identitas yang ditetapkan pengamat. [Myers-Briggs Overview](https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/).
+
+| Pasangan | Arti dalam kerangka MBTI |
+|---|---|
+| Extraversion (E) / Introversion (I) | Orientasi energi dan perhatian ke interaksi luar atau refleksi dalam. |
+| Sensing (S) / Intuition (N) | Penekanan pada informasi konkret dan pengalaman atau pola serta kemungkinan. |
+| Thinking (T) / Feeling (F) | Penekanan pada kriteria logis atau nilai dan dampak pada manusia ketika memutuskan. |
+| Judging (J) / Perceiving (P) | Preferensi struktur/penutupan atau keterbukaan terhadap informasi serta pilihan. |
+
+Definisi tabel mengikuti [The MBTI Preference Pairs](https://www.myersbriggs.org/my-mbti-personality-type/the-mbti-preferences/). Orang tetap dapat menggunakan kedua sisi. Keempat pasangan bukan ukuran kepintaran, moralitas, atau kompetensi pekerjaan.
+
+Enam belas kombinasinya adalah ISTJ, ISFJ, INFJ, INTJ; ISTP, ISFP, INFP, INTP; ESTP, ESFP, ENFP, ENTP; ESTJ, ESFJ, ENFJ, ENTJ. Kode tersebut merangkum kombinasi preferensi dalam model, bukan menyatakan setiap pemilik kode memiliki kebutuhan identik.
+
+### 1.2 Pengaruh yang dapat dipakai sebagai hipotesis komunikasi
+
+Dalam aplikasi saya, kerangka preferensi membantu membuka pilihan bentuk pesan. Saya dapat menawarkan ringkasan sebelum diskusi, contoh sebelum konsep, kriteria sebelum keputusan, atau alternatif sebelum menutup pilihan. Saya tetap menanyakan apakah bentuk itu membantu person yang dihadapi.
+
+Dunning membahas pemahaman gaya sendiri dan penyesuaian terhadap perbedaan dalam panduan komunikasi dari penerbit MBTI. Panduan itu dipakai sebagai sumber aplikasi, bukan bukti eksperimental atas keberhasilan semua pilihan di makalah ini. [Introduction to Type and Communication, preview resmi](https://asia.themyersbriggs.com/wp-content/uploads/MB6289_preview.pdf).
+
+Contoh ilustratif: F meminta cara lama tetap menjadi pembanding ketika belajar SQL. Respons yang saya pilih ialah prosedur kecil dan kriteria pemeriksaan. Alasan utamanya adalah permintaan F, bukan tebakan bahwa semua orang bertipe ISTJ memerlukan perlakuan yang sama. Jika F justru meminta gambaran umum dulu, urutan pesan saya ubah.
+
+### 1.3 Batas ilmiah dan penggunaan yang bertanggung jawab
+
+McCrae dan Costa (1989), pada penelitian 468 orang, tidak menemukan dukungan untuk interpretasi preferensi yang benar-benar dikotomis atau tipe berbeda secara kualitatif; indeks MBTI berhubungan dengan aspek dimensi model lima faktor. Temuan ini mendukung kehati-hatian terhadap kategori kaku, bukan kesimpulan bahwa seluruh informasi MBTI tidak berguna. [Artikel dan abstrak penelitian](https://doi.org/10.1111/j.1467-6494.1989.tb00759.x).
+
+Salter, Forney, dan Evans (2005) meneliti stabilitas melalui tiga administrasi pada 231 peserta dan melaporkan hasil yang secara umum positif. Saya tidak memakai angka stabilitas atau interval yang belum diperiksa dari artikel lengkap. [Artikel penelitian](https://doi.org/10.1080/07481756.2005.11909761).
+
+Kestabilan skor, keberadaan kategori diskret, dan ketepatan menebak tipe lewat percakapan merupakan pertanyaan berbeda. Hasil positif pada satu aspek tidak otomatis membuktikan dua aspek lain. Temuan kedua penelitian tidak dapat langsung digunakan untuk menyimpulkan ketepatan membaca tipe dari percakapan pendek.
+
+## 2. Cara efektif berkomunikasi dengan profil tertentu
+
+### 2.1 Dari tipe ke kebutuhan person
+
+Saya memulai dari tujuan dan konteks: apa yang hendak diputuskan, apa yang orang sudah ketahui, risiko apa yang ditanggung, dan bentuk dukungan yang tersedia. Bila orang melaporkan tipe MBTI, saya memakai informasi itu sebagai salah satu petunjuk lalu memeriksa kebutuhan aktual.
+
+Kode etik Foundation menekankan uraian yang tidak menghakimi dan tidak menyamakan semua pemilik tipe. Preferensi tidak menjelaskan seluruh pribadi atau kemampuan. [MBTI Code of Ethics](https://www.myersbriggs.org/using-type-as-a-professional/mbti-code-of-ethics/).
+
+Tabel berikut merupakan **rancangan strategi saya** berdasarkan kombinasi preferensi, bukan deskripsi wajib atau hasil uji efektivitas tiap tipe. Gunakan hanya bila laporan diri dan respons person mendukung; bila tidak, pilih bentuk yang diminta orang.
+
+| Profil yang dilaporkan | Bentuk awal yang dapat dicoba | Pemeriksaan respons |
+|---|---|---|
+| ISTJ | Urutan konkret, contoh hasil, dan batas keputusan | Apakah langkah serta tolok ukur sudah jelas? |
+| ISFJ | Contoh praktis dan siapa yang dibantu saat perubahan | Apakah dukungan menjaga orang yang terdampak? |
+| INFJ | Hubungkan tujuan jangka panjang dengan meaning dan dampak | Apakah interpretasi saya sesuai nilainya? |
+| INTJ | Ringkas masalah, asumsi, ukuran sukses, dan hak mengevaluasi | Bukti apa yang masih kurang? |
+| ISTP | Tawarkan percobaan kecil yang bisa diperiksa sendiri | Bagian mana perlu didemonstrasikan? |
+| ISFP | Jelaskan dampak konkret dan ruang memilih tanpa tekanan | Pilihan apa yang terasa sesuai? |
+| INFP | Beri waktu refleksi, alasan yang bermakna, serta langkah kecil | Apakah pilihan ini menjaga nilai yang penting? |
+| INTP | Jelaskan mekanisme, batas pengetahuan, dan alternatif | Asumsi mana yang perlu diuji? |
+| ESTP | Contoh langsung, konsekuensi praktis, dan uji singkat | Risiko apa yang belum diperhitungkan? |
+| ESFP | Dialog konkret tentang orang yang terlibat dan langkah berikut | Apakah tugas serta waktunya dipahami? |
+| ENFP | Buka kemungkinan lalu sepakati satu percobaan | Alternatif mana diprioritaskan sekarang? |
+| ENTP | Diskusikan alternatif dan uji alasan sebelum memilih | Apa yang bisa membantah usulan ini? |
+| ESTJ | Ringkas tujuan, scope, owner, waktu, dan dasar keputusan | Apakah dependency serta workload masuk? |
+| ESFJ | Jelaskan tanggung jawab bersama dan dampak pada relasi | Siapa memerlukan dukungan agar bisa bertindak? |
+| ENFJ | Hubungkan tujuan bersama dengan kebutuhan tiap person | Apakah ada suara atau keberatan yang belum muncul? |
+| ENTJ | Jelaskan outcome, trade-off, indikator, dan batas authority | Apakah keputusan didukung kapasitas pelaksanaan? |
+
+### 2.2 Contoh perbedaan stimulus untuk dua sasaran
+
+Pada dua rekan yang sama-sama terlambat mengirim tugas, saya tidak otomatis memberi pesan identik. Dalam ilustrasi R, hambatan yang terungkap adalah bantuan tambahan dan rasa bersalah jika berhenti membantu. Stimulusnya: akui pekerjaan spesifik, pisahkan bantuan dari tugas inti, dan tetapkan owner dukungan. Pada F, hambatannya bobot belum dibandingkan; stimulusnya work breakdown, estimasi yang disebut sebagai estimasi, serta checkpoint tertulis.
+
+Untuk R saya dapat berkata, “Gua melihat lu juga bantu format teman lain. Kita catat bantuan itu dan tentukan owner supaya lu bisa fokus tanpa meninggalkan mereka.” Untuk F saya dapat berkata, “Gua ingin bandingkan langkah dan dependency, bukan jumlah judul saja. Setelah itu kita tulis perubahan yang kedua owner setujui.”
+
+Evidence keberhasilan R ialah kesediaan menjelaskan beban dan menggunakan bantuan yang jelas; evidence F ialah kemampuan mengulang pembagian dan kondisi revisi. Kedua contoh menggabungkan kepedulian dan akuntabilitas. Mereka tidak membuktikan semua ISFJ atau ISTJ akan merespons sama.
+
+### 2.3 Boundary, kultur, dan authority
+
+Preferensi tidak menghapus peran. Teman dekat masih dapat meminta aturan profesional, dan customer yang ramah tetap berhak menolak pembelian. Kultur atau ko-kultur digunakan pada norma yang spesifik dan teramati, seperti bantuan tim yang belum dicatat, bukan stereotipe kelompok.
+
+Saya menjaga core meaning saat mengganti language. Fakta, risiko, dan batas tidak disembunyikan agar cocok dengan gaya target. Bila solusi belum dibangun, saya menyebutnya rancangan. Bila biaya belum diketahui, saya tidak menawarkan angka sebagai fakta. Authority keputusan juga dinyatakan: siapa boleh mengubah tugas, menetapkan stok, dan menghentikan pilot.
+
+## 3. Membaca profil MBTI melalui pola percakapan
+
+### 3.1 Deteksi sebagai hipotesis, bukan diagnosis
+
+Foundation membedakan tipe yang dilaporkan dari jawaban kuesioner dan proses menentukan best-fit melalui feedback serta refleksi person. Konteks pengisian dan ekspresi preferensi turut dipengaruhi pengalaman serta lingkungan. [Understanding My MBTI Results](https://www.myersbriggs.org/my-mbti-personality-type/my-mbti-results/home.htm).
+
+Saya menjawab istilah “mendeteksi” dalam tugas sebagai **membaca kecenderungan komunikasi secara tentatif**. Tidak tersedia dasar untuk memberi kode empat huruf pasti hanya dari dialog pendek. Jika tipe diperlukan secara formal, percakapan biasa tidak menggantikan instrumen dan proses best-fit.
+
+### 3.2 Prosedur observasi dan validasi
+
+1. Catat ucapan atau tindakan spesifik, bukan kesan umum.
+2. Rumuskan hipotesis sempit, misalnya “person ingin waktu berpikir pada keputusan ini”.
+3. Tulis penjelasan alternatif: deadline, kelelahan, pengalaman, pengetahuan, atau peran.
+4. Ajukan pertanyaan netral yang memberi pilihan bentuk pesan.
+5. Coba bentuk yang dipilih dan periksa respons berikutnya.
+6. Revisi hipotesis bila respons berbeda. Simpan label belum pasti jika evidence tidak cukup.
+
+| Petunjuk percakapan | Hipotesis sementara | Penjelasan alternatif | Pertanyaan validasi |
+|---|---|---|---|
+| Meminta ringkasan sebelum menjawab | Preferensi refleksi mungkin relevan pada E/I | Keputusan berisiko atau belum memahami materi | “Ingin membaca dulu atau berdiskusi sekarang?” |
+| Menanyakan urutan dan contoh | Penekanan informasi konkret mungkin relevan pada S/N | Tugas teknis belum dikenal | “Contoh dulu membantu, atau gambaran besarnya dulu?” |
+| Meminta ukuran sukses | Kriteria analitis mungkin relevan pada T/F | Bertanggung jawab atas biaya dan risiko | “Dasar apa yang perlu dipastikan sebelum keputusan?” |
+| Menanyakan siapa yang terdampak | Nilai relasional mungkin relevan pada T/F | Memiliki tanggung jawab layanan | “Dampak pada siapa yang paling penting?” |
+| Ingin timeline dan scope tetap | Struktur mungkin relevan pada J/P | Tenggat sangat dekat | “Bagian mana perlu dikunci dan mana boleh direvisi?” |
+| Ingin beberapa alternatif | Keterbukaan pilihan mungkin relevan pada J/P | Informasi awal belum cukup | “Kapan pilihan perlu dipersempit?” |
+
+Tabel ialah rancangan validasi yang saya susun, bukan alat skoring MBTI. Pertanyaan sengaja memeriksa kebutuhan, tidak menyebut label agar orang merasa harus membenarkannya. Respons pendek juga tidak otomatis menunjukkan introversion; petunjuk tersebut dapat berasal dari ketidaknyamanan atau keterbatasan waktu.
+
+### 3.3 Penerapan pada bank simulator
+
+Dalam paket UTS, F mempunyai preferensi ISTJ, R ISFJ, dan D INTJ sebagai **parameter tokoh fiktif**. Parameter tersebut dibaca sebagai konfigurasi, bukan hasil diagnosis. Dugaan komunikator pada tahap rencana dipisahkan dari ringkasan source yang dibuka saat evaluasi.
+
+Dugaan awal perlu dicatat sebelum profil dibuka. Setelah percakapan, saya membandingkannya dengan kebutuhan yang terungkap dan menjelaskan respons yang mengubah dugaan tersebut. Fokus analisisnya adalah kebutuhan yang berhasil divalidasi serta adaptasi yang dilakukan.
+
+## 4. Stimulus, SWOT-like, dan pertumbuhan PASK
+
+### 4.1 Perbedaan persepsi, ASK, dan SWOT subjektif
+
+Dalam penggunaan kerangka KIPP di makalah ini, **P** adalah Perception, yaitu cara event dibaca. **A** adalah Attitude, mencakup sikap, nilai, kepercayaan, dan kemauan. **S** adalah Skill, yaitu kemampuan menjalankan tindakan. **K** adalah Knowledge, yaitu pemahaman fakta, mekanisme, pilihan, dan batas. ASK pada paket memakai tiga unsur yang sama meskipun urutannya A/K/S.
+
+SWOT-like merujuk penilaian subjektif apakah situasi dipandang sebagai peluang atau ancaman dan apakah person merasa mampu atau belum mampu. Kesan tersebut diperiksa terhadap evidence, bukan diperlakukan sebagai SWOT objektif atau hasil tes kepribadian. TAIDA pada rancangan asesmen menghubungkan sasaran, perhatian, minat, pilihan, dan langkah nyata. [Konsep dan strategi UTS KIPP versi 2.0](https://azral1962.github.io/kipp-students/lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html).
+
+Peta berikut merupakan aplikasi diagnosis yang saya usulkan, bukan rumus perilaku otomatis.
+
+| Persepsi awal | Pertanyaan diagnosis | Stimulus yang dapat diuji | Bukti yang dicari |
+|---|---|---|---|
+| Peluang dan merasa mampu | Apakah kemampuan serta resource sudah terbukti? | Demonstrasi kecil dan pemeriksaan risiko | Hasil diperiksa, bukan hanya antusias |
+| Peluang tetapi belum mampu | Gap K, S, atau dukungan mana yang dominan? | Contoh, latihan bertahap, atau bantuan | Person dapat menunjukkan langkah |
+| Ancaman tetapi merasa mampu | Apa yang dianggap terancam: standar, otonomi, atau relasi? | Pengakuan concern, batas, dan perbandingan | Person mengoreksi atau memperjelas concern |
+| Ancaman dan merasa belum mampu | Apa yang perlu dibuat aman dan apa yang tidak layak dipaksakan? | Kurangi scope, beri pilihan, dukungan realistis | Langkah kecil atau penolakan beralasan |
+
+Satu person dapat sekaligus melihat peluang efisiensi dan ancaman pada layanan. Saya tidak memaksakan satu kuadran apabila evidence menunjukkan keadaan campuran.
+
+### 4.2 Refleks, reaktif, responsif, dan apresiatif
+
+Istilah berikut digunakan sesuai model pedagogis pada paket, bukan diagnosis neurologis. Contoh dan pertanyaan merupakan ilustrasi saya.
+
+| Pola | Contoh ilustratif | Intervensi komunikasi | Batas inferensi |
+|---|---|---|---|
+| Refleks | Terkejut dan segera menutup layar saat error muncul | Beri ruang sebelum meminta penjelasan | Teks tidak dapat memastikan refleks fisiologis |
+| Reaktif | Menganggap kritik mengulang pengalaman disalahkan, lalu membela diri | Pisahkan event, ingatan, serta story; minta fakta spesifik | Emosi bukan bukti motif pihak lain |
+| Responsif | Memeriksa data, kapasitas, dan opsi sebelum memilih | Klarifikasi, prediksi konsekuensi, serta agreement | Satu respons terencana belum membuktikan kebiasaan |
+| Apresiatif/edukatif | Pada kendala berikutnya memakai pelajaran dan memperbaiki cara kerja | Uji ulang dengan kondisi baru lalu refleksikan hasil | Transfer jangka panjang perlu observasi berulang |
+
+Stimulus dimaksudkan membuka pilihan belajar, bukan mengontrol orang agar selalu bertindak sesuai keinginan komunikator. Jika pilihan tidak layak, penundaan atau penolakan tetap dapat menjadi respons yang bertanggung jawab.
+
+### 4.3 Edukasi PASK sebagai loop yang dapat diperiksa
+
+Saya menggunakan langkah berikut:
+
+- **Perception:** tanyakan apa yang dianggap fact, story, peluang, dan ancaman.
+- **Attitude:** akui concern secara spesifik, beri pilihan, dan buktikan konsistensi bantuan.
+- **Knowledge:** jelaskan mekanisme serta batas dengan contoh yang relevan; minta teach-back.
+- **Skill:** minta person menjalankan langkah pada contoh aman, lalu periksa hasilnya.
+- **Evaluasi:** gunakan respons untuk memperbaiki diagnosis dan menguji pada kendala sejenis.
+
+Contoh SQL: kalimat “gua nggak berbakat” adalah story dari event query error. P diperbaiki dengan memisahkan keduanya. A didukung melalui standar belajar yang realistis; K diperkuat dengan membedakan error sintaks dan hasil data; S diuji dengan query serta prediksi. Uji ulang membawa data dengan kapitalisasi berbeda. Bila person hanya berkata akan belajar, S belum dianggap meningkat.
+
+Contoh customer: mengakui takut kehilangan sentuhan personal dapat membuka A, tetapi belum mengajarkan K tentang eskalasi atau S menggunakan daftar pesanan. Sebaliknya, menjelaskan banyak fitur tidak menyelesaikan waktu staf. Stimulus dipilih sesuai gap yang ditemukan: jalur manusia, latihan dummy, batas workload, dan opsi menunda.
+
+### 4.4 Hubungan dengan TAIDA dan pembelajaran dari pengalaman
+
+| TAIDA | Fokus edukasi | Indikator dalam percakapan |
+|---|---|---|
+| Target | Pahami person, peran, dan kebutuhan | Sasaran serta tindakan ditetapkan |
+| Attention | Buat masalah relevan dan cukup aman | Target menjelaskan atau mengoreksi problem |
+| Interest | Perjelas mekanisme dan fit | Target menanyakan how, bukti, atau batas |
+| Desire | Timbang nilai, risiko, dan kemampuan | Target memilih opsi beralasan |
+| Action | Pastikan dukungan, waktu, dan indikator | Ada langkah yang dapat dijalankan serta direview |
+
+Tabel merupakan rancangan integrasi saya. Tahap tidak wajib linear: staf absen dapat mengembalikan pembahasan dari Action ke gap S. Persetujuan demo bukan persetujuan pilot; keputusan mencoba tidak membuktikan sistem sudah efektif.
+
+Kolb dan Kolb menguraikan pembelajaran pengalaman melalui pengalaman konkret, refleksi, konseptualisasi, dan eksperimen aktif. Saya memakainya sebagai dukungan pedagogis bagi urutan dialog, evaluasi, dan uji ulang, sebagai dasar menghubungkan pengalaman dengan refleksi dan penerapan pada kendala berikutnya. [Kolb & Kolb, 2005](https://doi.org/10.5465/amle.2005.17268566).
+
+### 4.5 Evidence pertumbuhan dan kualitas relasi
+
+Untuk A, saya mencari ucapan yang menunjukkan concern dapat dibicarakan dan pilihan dihormati. Untuk K, saya meminta penjelasan ulang yang tepat. Untuk S, saya memeriksa tindakan atau demonstrasi. Untuk P, saya memeriksa bagaimana event yang sama diinterpretasikan setelah klarifikasi. Keempatnya bisa berubah secara parsial.
+
+Kepedulian diperiksa melalui perilaku: menyebut kebutuhan dengan akurat, memberi dukungan yang disanggupi, menepati boundary, dan menerima koreksi. Saya tidak mengukur “ketulusan” melalui dugaan motif. Kategori rasa aman atau trust pada simulator adalah interpretasi teks, bukan skala psikometri.
+
+Evidence yang kuat mempunyai jejak stimulus, respons, adaptation, dan batas klaim. Dalam laporan percakapan, jejak tersebut membantu memeriksa apakah stimulus benar-benar menjawab kebutuhan atau hanya menghasilkan persetujuan sementara.
+
+## Kesimpulan
+
+MBTI dapat membantu membahas perbedaan preferensi selama person tetap menjadi pusat pembacaan. Komunikasi efektif memerlukan klarifikasi, konteks peran, dan respons yang menentukan langkah berikutnya. Deteksi tipe dari percakapan diposisikan sebagai hipotesis kebutuhan, bukan diagnosis kode pasti. Pertumbuhan PASK ditunjukkan melalui perbaikan persepsi, attitude yang lebih terbuka, knowledge yang lebih tepat, dan skill yang diperagakan. Kerangka SWOT-like serta TAIDA membantu merencanakan stimulus, tetapi kesesuaian usul tetap diuji terhadap kapasitas, risiko, dan pilihan orang. Respons yang menolak atau menunda dapat menjadi hasil baik apabila didasarkan pada pemahaman serta tanggung jawab.
+
+## Penggunaan AI
+
+AI digunakan untuk membantu pencarian rujukan, penyusunan, dan pemeriksaan konsistensi makalah.
+
+## Daftar pustaka
+
+- Dunning, D. (2003). *Introduction to Type and Communication*. CPP, Inc. [Preview resmi penerbit](https://asia.themyersbriggs.com/wp-content/uploads/MB6289_preview.pdf).
+- Kolb, A. Y., & Kolb, D. A. (2005). Learning styles and learning spaces: Enhancing experiential learning in higher education. *Academy of Management Learning & Education, 4*(2), 193-212. [DOI](https://doi.org/10.5465/amle.2005.17268566).
+- McCrae, R. R., & Costa, P. T., Jr. (1989). Reinterpreting the Myers-Briggs Type Indicator from the perspective of the five-factor model of personality. *Journal of Personality, 57*(1), 17-40. [DOI](https://doi.org/10.1111/j.1467-6494.1989.tb00759.x).
+- Myers & Briggs Foundation. (Tanpa tahun). *Myers-Briggs Overview*. [Halaman resmi](https://www.myersbriggs.org/my-mbti-personality-type/myers-briggs-overview/).
+- Myers & Briggs Foundation. (Tanpa tahun). *The MBTI Preference Pairs*. [Halaman resmi](https://www.myersbriggs.org/my-mbti-personality-type/the-mbti-preferences/).
+- Myers & Briggs Foundation. (Tanpa tahun). *MBTI Code of Ethics*. [Halaman resmi](https://www.myersbriggs.org/using-type-as-a-professional/mbti-code-of-ethics/).
+- Myers & Briggs Foundation. (Tanpa tahun). *Understanding My MBTI Results*. [Halaman resmi](https://www.myersbriggs.org/my-mbti-personality-type/my-mbti-results/home.htm).
+- Salter, D. W., Forney, D. S., & Evans, N. J. (2005). Two approaches to examining the stability of Myers-Briggs Type Indicator scores. *Measurement and Evaluation in Counseling and Development, 37*(4), 208-219. [DOI](https://doi.org/10.1080/07481756.2005.11909761).
+- Tim pengembangan asesmen KIPP. (2026). *Petunjuk UTS KIPP 2026, paket individual versi 2.0*. [Penugasan resmi](https://azral1962.github.io/kipp-students/lk/lk-UTS/).
+- Tim pengembangan asesmen KIPP. (2026). *Komunikasi sebagai Edukasi ASK: Konsep dan strategi UTS KIPP versi 2.0*. [Dokumen strategi](https://azral1962.github.io/kipp-students/lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html).

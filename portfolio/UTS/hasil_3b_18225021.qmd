@@ -1,0 +1,249 @@
+---
+title: "Laporan UTS KIPP 2026 - Versi 2.0"
+subtitle: "Sesi 3b - Kasus 3"
+author: "Ihsan Fadhlih Akbar - 18225021"
+date: 2026-10-14
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 2
+execute:
+  eval: false
+---
+
+[Kembali ke Portfolio Minggu 8](../week-08.qmd)
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ihsan Fadhlih Akbar |
+| NIM | 18225021 |
+| Kelas dan tanggal | K2; 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3; Menguji manfaat TI/AI dengan ukuran yang dapat diaudit |
+| Nama dan ID target | Dimas (D), K3-04 |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_3b_18225021.zip; penugasan tetap |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif; simulasi percakapan |
+| Kelengkapan skrip | Lengkap, dari identifikasi sampai konfirmasi; 24 pasangan giliran |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief sama dengan sesi 3a: pertanyaan pelanggan berulang, pesanan tercecer, tenaga terbatas, customer belum yakin perlu AI. Sesi baru memakai Dimas (D), K3-04, sebagai pengelola usaha pesanan rumahan. Scope, jumlah contoh, dan batas waktu uji ditetapkan melalui kesepakatan. Tujuan akhir bukan membeli, tetapi memilih demo dummy serta rancangan uji terukur dengan baseline, scope, kontrol manusia, stop condition, dan decision rule. Manfaat biaya/waktu belum ada data aktual. Solusi utama pencatatan dan template manusia; AI hanya calon draft internal jika kelak diuji, tidak wajib.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Peluang mengurangi error, ancaman overclaim atau biaya review tersembunyi | U003 | Dugaan awal simulasi |
+| Attitude | Ingin menilai bersama, berisiko merasa harus membuktikan AI unggul | U003, U005 | Motif tokoh, bukan identitas tetap |
+| Knowledge | Mengenal desain uji dan batas draft; belum tahu workflow atau baseline D | U003-U004 | Gap kontekstual |
+| Skill | Dapat menulis skema dummy, indikator, serta fallback; belum membangun sistem | U003, U009 | Demonstrasi rancangan |
+| Preferensi/MBTI | Lebih suka membandingkan contoh; tidak ada tipe MBTI dilaporkan | U003 | Tidak disamakan dengan D |
+| Karakter/peran/kultur | Pemberi opsi, keputusan dan data operasional berada pada D | U003-U005 | Authority dibatasi |
+
+## Dugaan awal profil target dan rencana
+
+Dugaan awal pada U003 adalah target mungkin membutuhkan bukti atau kontrol, tetapi belum diasumsikan seluruh gap berasal dari skeptisisme. AI004 menunjukkan pola kendala; AI005 memastikan hambatan A berupa klaim manfaat, AI007 mengungkap kebutuhan K/S berupa ledger dan waktu. Profil INTJ hanya sumber pemeranan yang dibahas AI014, bukan diagnosis peserta. Saya menilai kebutuhan D melalui responsnya sendiri.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | D sebagai pengambil keputusan operasional | Baseline dan batas unknown | Discovery workflow | Prioritas dikonfirmasi |
+| Attention | Pertanyaan kritis dianggap sah | A: otonomi dan kepercayaan | Akui belum punya bukti | AI004-AI005 membuka kebutuhan |
+| Interest | Memahami mekanisme dan pembanding | K: kondisi AI/ti belum jelas | Pisah pencatatan dari generation | AI007-AI009 meminta detail |
+| Desire | Bersedia mempertimbangkan uji terkontrol | A/K/S: risiko dan effort | Baseline, dummy, decision rule | AI011 menilai kelayakan |
+| Action | Demo, lalu pilot hanya jika lolos | S: waktu, owner, kontrol | Teach-back dan fallback ambigu | AI013; U016-U019 replan |
+
+# C) Skrip Percakapan
+
+Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uji ulang, refleksi, hingga konfirmasi. ID U/AI menjadi acuan kutipan pada bagian evaluasi.
+
+## Identifikasi
+
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 14 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 3b sesuai paket.”
+>
+> **AI001 · Fasilitator:** “Sesi 3b menggunakan Dimas K3-04. Apakah nama dan NIM yang dicatat sudah sesuai?”
+
+> **U002 · Saya:** “Nama dan NIM sudah sesuai. Saya memilih kasus fiktif untuk simulasi percakapan ini. Silakan mulai sesi 3b.”
+>
+> **AI002 · Fasilitator:** “Brief: pertanyaan pelanggan berulang, pesanan tercecer, tenaga terbatas, belum yakin perlu AI. Apa tujuan dan dugaan awal?”
+
+
+## Rencana
+
+> **U003 · Saya:** “Saya ingin keputusan uji yang memiliki bukti serta batas, bukan persetujuan fitur. Saya belum tahu baseline D dan tidak boleh menjanjikan akurasi. Dugaan saya mungkin ada gap pencatatan dan kontrol, tetapi discovery dulu. Saya bisa menulis contoh dummy; tidak ada hasil MBTI saya.”
+>
+> **AI003 · D:** “Dimas, pengelola usaha: Apa bukti pendekatan ini lebih baik?”
+
+
+## Simulasi awal
+
+> **U004 · Saya:** “Pak D, pertanyaan itu tepat. Saya belum memiliki bukti untuk usaha Bapak. Supaya tidak memberi klaim umum, kegagalan paling sering pada proses sekarang seperti apa?”
+>
+> **AI004 · D:** “Pesanan muncul di chat, lalu pertanyaan menu masuk terus. Kadang ada pesanan yang tidak tercatat dan saya baru tahu saat pelanggan menanyakan.”
+
+> **U005 · Saya:** “Apa hal yang membuat Bapak ragu mencoba pendekatan baru, selain masalah yang sekarang?”
+>
+> **AI005 · D:** “Orang menawarkan AI katanya akurat dan hemat waktu. Saya belum lihat dibanding cara saya, dan waktu mengoreksi jawabannya sering tidak dihitung.”
+
+> **U006 · Saya:** “Saya setuju waktu koreksi harus masuk biaya. Saya pisahkan dua masalah: status pesanan perlu ledger yang bisa ditinjau; pertanyaan umum bisa template manusia. AI bukan syarat untuk keduanya. Apakah prioritas pertama mencegah pesanan terlewat, atau mempercepat jawaban?”
+>
+> **AI006 · D:** “Pesanan tercatat dulu. Jawaban bisa saya kerjakan kalau status pesanan tidak berantakan.”
+
+> **U007 · Saya:** “Jadi shared problem-nya: satu catatan dengan status dan owner tanpa menganggap jawaban chat otomatis menjadi pesanan final. Apa constraint yang membatasi percobaan?”
+>
+> **AI007 · D:** “Waktu saya. Saya bisa menilai hasil, tapi tidak mau harus belajar alat besar dan memeriksa dua sistem berhari-hari.”
+
+> **U008 · Saya:** “Kita mulai satu daftar dengan ID order internal, owner, status, dan catatan keputusan. Demo 10 dummy dulu, tidak menyambungkan akun pelanggan. Sesudah itu boleh uji satu kategori selama tiga hari pada slot yang Bapak setujui. Baseline lama dicatat terlebih dulu; tanpa baseline kita belum klaim lebih baik. Apakah scope itu cukup kecil?”
+>
+> **AI008 · D:** “Cukup kecil kalau bisa dicek setiap order dan tidak menjawab harga atau stok sendiri.”
+
+> **U009 · Saya:** “Contoh dummy: order O-01 meminta paket standar, stok belum dikonfirmasi. Statusnya menunggu pemilik, bukan final. Kalau pesan berikutnya mengubah isi O-01, kita catat revisi dengan konfirmasi, bukan order baru. Jika dua pesan tidak jelas order yang sama, tandai perlu klarifikasi. Harga, stok, dan perubahan tetap manusia.”
+>
+> **AI009 · D:** “Masuk. Tetapi angka apa yang dipakai untuk memutuskan uji layak lanjut?”
+
+> **U010 · Saya:** “Ukuran: jumlah order masuk, tercatat sekali, terlewat, duplikat, dan janji salah. Waktu total mencakup mencatat, memeriksa, mengoreksi, dan membantu staf. Demo lolos bila 10 dummy seluruhnya punya owner/status benar, tanpa final palsu. Pilot dinilai terhadap baseline per order, bukan total waktu hari ramai dibanding hari sepi. Target nol error kritis adalah syarat, bukan hasil yang sudah tercapai.”
+>
+> **AI010 · D:** “Saya juga ingin dapat menelusuri penyebab jika angka kelihatan bagus tetapi ada contoh yang salah.”
+
+> **U011 · Saya:** “Setiap catatan memiliki asal pesan dummy dan alasan status. Bapak dapat audit kasus per kasus. Error kritis seperti order hilang atau janji salah menghentikan pilot; data sedikit membuat manfaat belum dapat disimpulkan. Jika beban tambah melebihi batas yang Bapak pilih, kembali cara lama. Apa batas effort yang realistis untuk disepakati?”
+>
+> **AI011 · D:** “Untuk rancangan ini saya izinkan demo 30 menit. Batas pilot harus diputuskan lagi setelah saya melihat effort demo, bukan Anda tetapkan dulu.”
+
+> **U012 · Saya:** “Baik, persetujuan sekarang hanya demo 10 dummy maksimal 30 menit. Saya siapkan contoh dan panduan singkat, Bapak menilai. Tidak ada keputusan beli, biaya tools belum diketahui. AI jika kelak dipertimbangkan hanya draft internal dengan approval manusia, diuji terpisah; saat ini kita belum memasukkannya.”
+>
+> **AI012 · D:** “Saya bersedia menilai demo itu. Tidak perlu AI hanya untuk membuat catatan yang mestinya sederhana.”
+
+> **U013 · Saya:** “Mohon ulang keputusan serta kapan Bapak dapat menolak tahap berikutnya.”
+>
+> **AI013 · D:** “Demo 10 dummy maksimal 30 menit, audit per order, harga/stok tetap manusia. Pilot belum disetujui sampai effort demo, baseline, biaya, dan kontrol jelas. Saya boleh berhenti jika ada error kritis, atau memilih catatan biasa tanpa AI.”
+
+
+## Evaluasi sementara
+
+> **U014 · Saya:** “AI005 mengoreksi dorongan saya untuk menjual manfaat sebelum baseline. AI006 menetapkan prioritas ledger; AI007 hambatan S adalah effort. AI013 menunjukkan Action hanya demo, bukan pilot atau pembelian. Hipotesis kontrol cocok setelah bukti, tidak berarti semua keberatan terselesaikan.”
+>
+> **AI014 · Fasilitator:** “Profil sumber D: skeptis terhadap klaim, analitis, membutuhkan ukuran serta batas, implementasi terbatas waktu dan kontrol manusia; INTJ parameter fiktif. Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?”
+
+> **U015 · Saya:** “U004 menghormati alasan kritis; AI005 menjelaskan pengalaman klaim. U010 memasukkan biaya koreksi dan U012 menghormati izin 30 menit, lalu AI012 bersedia. Mengatakan pasti lebih baik tanpa baseline akan merusak trust. Kepedulian berupa otonomi audit dan hak menolak.”
+>
+> **AI015 · Fasilitator:** “Uji ulang: staf pada contoh dummy menandai pesanan final sebelum pemilik konfirmasi; dua pesan mirip bisa berasal dari order berbeda. D ingin tahu cara berhenti, mengoreksi, dan mengevaluasi. Jalankan respons.”
+
+
+## Uji ulang
+
+> **U016 · Saya:** “Pak D, final tanpa approval melanggar syarat, jadi calon pilot tetap tidak aktif. Pada dummy kita kembalikan status ke perlu konfirmasi, simpan alasan koreksi, dan jangan menjanjikan stok. Bagian mana dari dua pesan itu yang cukup untuk menentukan sama atau berbeda?”
+>
+> **AI016 · D:** “Belum cukup. Nama singkatnya sama, tetapi tidak ada ID order. Jangan gabungkan berdasarkan nama saja.”
+
+> **U017 · Saya:** “Saya setuju. Keduanya masuk antrean ambigu terpisah, tidak dianggap duplikat sampai ada ID atau klarifikasi. Contoh pesan petugas: ini perubahan pada O-01 atau pesanan baru? Kita tidak meminta data sensitif untuk menebak. Rancangan status perlu konfirmasi ini menjawab risikonya?”
+>
+> **AI017 · D:** “Ya, tetapi cara audit harus menunjukkan ada kasus ambigu, bukan dibuang dari hitungan supaya akurasi tampak tinggi.”
+
+> **U018 · Saya:** “Ambigu tetap dihitung sebagai input yang perlu tindak lanjut. Laporan menyebut berapa belum jelas dan waktu klarifikasi; tidak disebut salah/benar otomatis. Kami audit 10 dummy termasuk kasus ambigu ini. Jika akhir demo masih ada final palsu atau jalur approval tidak dipahami, demo belum lolos dan pilot ditunda.”
+>
+> **AI018 · D:** “Baik. Kalau belum lolos, saya lebih memilih mengurangi scope daripada menambah AI untuk menyelesaikan ambiguity.”
+
+> **U019 · Saya:** “Revisi tertulis: demo tetap 10 dummy dan 30 menit, tambah aturan final perlu approval serta antrean ambigu; jika belum lolos, latihan status saja tanpa pilot. Bapak tetap owner keputusan; saya menyiapkan panduan. Tolong terapkan aturan pada dua pesan tanpa ID tadi.”
+>
+> **AI019 · D:** “Kedua pesan tetap pending terpisah. Saya minta klarifikasi ID/order baru dan tidak menandai final sebelum konfirmasi. Angka pending dilaporkan, waktu klarifikasi dihitung. Pilot belum mendapat izin.”
+
+
+## Refleksi
+
+> **U020 · Saya:** “Di simulasi, tujuan keputusan demo tercapai dan kontrol saat kendala terjaga. D tetap skeptis, tetapi kooperatif. A tidak harus menjadi antusias; K membedakan final/pending/ambigu; S nyata operasi belum diuji. Skill saya terlihat dalam aturan koreksi, bukan aplikasi yang sudah bekerja.”
+>
+> **AI020 · Fasilitator:** “Apa kesimpulan SWOT dan batas klaim manfaat?”
+
+> **U021 · Saya:** “Situasi dapat menjadi peluang uji, tetapi ancaman akurasi dan effort tetap ada. Tidak tersedia data empiris untuk menyebut lebih cepat atau ROI. Pending tidak dihapus dari denominator. AI bukan default; suatu penolakan pilot bisa menjadi keputusan bertanggung jawab.”
+>
+> **AI021 · Fasilitator:** “Apa lesson learned yang berbeda dari strategi sesi 3a?”
+
+> **U022 · Saya:** “R memerlukan jalur manusia serta latihan yang menjaga layanan; D memerlukan baseline, audit, biaya review, dan hak menentukan batas effort. Saya memakai response untuk memilih stimulus. Tindak lanjutnya demo, catatan error, review kapasitas dan biaya, baru diskusi apakah pilot layak; bukan memindahkan persetujuan R ke D.”
+>
+> **AI022 · Fasilitator:** “Ringkasan: Dimas K3-04, brief sama, demo dummy 30 menit, pilot belum disetujui, retest empat respons dengan ambiguity dan approval. Apa koreksinya?”
+
+
+## Konfirmasi
+
+> **U023 · Saya:** “Pertahankan target nol error sebagai kriteria penerimaan, bukan hasil uji. Rencana demo dan pilot tetap dibedakan dari hasil pelaksanaan; INTJ merupakan parameter tokoh.”
+>
+> **AI023 · Fasilitator:** “Koreksi ringkasan sudah dicatat. Apakah identitas, tujuan, hasil, serta refleksi tersebut sudah sesuai?”
+
+> **U024 · Saya:** “Ringkasan sudah sesuai. Simpan laporan sebagai hasil_3b_18225021.qmd dengan bagian A-D, kutipan, evaluasi, uji ulang, dan refleksi.”
+>
+> **AI024 · Fasilitator:** “Sesi 3b selesai. Laporan dapat disusun; nilai akhir UTS menunggu nilai makalah dan kelima sesi.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Action pada sesi ialah izin menilai demo 10 dummy selama maksimal 30 menit. Pilot, integrasi, AI, dan pembelian tidak disetujui otomatis. Retest menunjukkan operator dapat mengulang aturan ambiguity dan approval dalam teks; tidak ada hasil demo aplikasi. Ini outcome bersyarat yang mempertahankan skeptisisme D secara relevan.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT subjektif | Manfaat belum terbukti, mampu menilai sendiri | Peluang demo terkontrol; effort serta error tetap risiko | AI005-AI007, AI011-AI013, U021 | Penilaian subjektif tokoh |
+| Attitude | Skeptis klaim | Kooperatif pada audit, tetap kritis | AI005, AI012, AI018 | Tidak menuntut enthusiasm atau pembelian |
+| Knowledge | Kebutuhan pembanding belum jelas | Memahami baseline, denominator, approval, ambigu | U010-U011, AI017, AI019 | Penalaran teks dalam sesi |
+| Skill | Waktu implementasi terbatas | Teach-back kontrol dan klasifikasi; belum deployment | AI013, U016-U019 | Demonstrasi bukan produktivitas riil |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus komunikator | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U004/AI004-U005/AI005 | Attention membuka prioritas | Belum bukti untuk usaha Bapak | Risiko biaya review diungkap | A lebih terbuka, K masih perlu | Discovery mendahului klaim |
+| U010/AI010 | Interest evaluasi | Waktu koreksi, per order | Minta telusur kasus salah | K audit diperjelas | Log asal dan sebab |
+| U011/AI011/U012 | Desire/Action terbatas | Batas effort diminta | Demo 30 menit, pilot nanti | S capacity menentukan izin | Scope hanya demo |
+| U017-U019/AI017-AI019 | Retest kontrol | Pending ambigu, audit tidak dibuang | D menuntut denominator jujur | K menguat, S operasional belum ada | Latihan status bila belum lolos |
+
+U014 memperlihatkan profil sumber K3-04 cocok dengan kritik, otonomi, dan permintaan audit. Pada awal sesi saya belum mengetahui batas waktu yang sanggup diberikan D; pembatasan 30 menit baru muncul AI011. Parameter INTJ tidak menjadi shortcut untuk menganggap D dingin atau cukup diberi angka. Kondisi human control tetap diuji pada retest.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons teramati | Estimasi relasi awal/akhir | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U004/AI004-AI005 | Mengakui belum punya bukti, kritik sah | Membuka failure dan pengalaman | Aman/keterbukaan rendah menjadi sedang | Bukan acceptance atas AI |
+| U010-U012/AI010-AI012 | Biaya review dan hak menolak | Izin demo dengan batas sendiri | Dipahami/trust sedang menjadi tinggi dalam sesi | Hanya izin terbatas |
+| U016-U018/AI016-AI018 | Hentikan pilot, ambiguity dilaporkan | Memilih kurangi scope | Trust dipertahankan tinggi | Skeptisisme tetap relevan |
+| U019/AI019 | Ownership keputusan tetap D | Teach-back kontrol | Keterbukaan tinggi pada aturan | Belum implementasi real |
+
+Estimasi rendah/sedang/tinggi didasarkan pada respons dalam dialog. Saya menilai kepedulian melalui bantuan, penghormatan pilihan, dan konsistensi, tanpa menyimpulkan motif batin.
+
+## Uji ulang dan pembelajaran
+
+U016-U019 memenuhi empat jawaban untuk kendala S berupa kontrol manusia dan evaluasi terukur. Saya mempertahankan pemahaman awal, mengoreksi status final palsu, tidak menggabungkan pesan dengan identitas ambigu, dan mempertahankan seluruh input dalam laporan. AI017 mengoreksi cara menghitung; U018 memasukkan pending serta waktu klarifikasi. Perubahan kondisi tidak dibalas dengan pitch AI baru.
+
+## Penilaian enam dimensi
+
+Penilaian diri berikut menggunakan enam dimensi berbobot sama. Setiap dimensi diberi skor 4 dengan dasar kutipan dan ID giliran yang dapat diperiksa. Kesalahan usulan awal dinilai bersama koreksi serta adaptasinya, bukan dihapus dari dialog.
+
+| Dimensi | Skor (1-4) | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U003: “keputusan uji yang memiliki bukti serta batas” | U003 dan U011-U013 menetapkan manfaat yang perlu dibuktikan, scope demo, batas effort, serta hak menolak pilot |
+| Persepsi dan validasi profil/status | 4 | U007: “Apa constraint yang membatasi percobaan?” | U005-U007 memvalidasi pengalaman klaim, prioritas, dan effort; U014 membaca Action sebagai izin demo terbatas |
+| Pemilihan dan urutan repertoar | 4 | U010: “Waktu total mencakup mencatat, memeriksa, mengoreksi” | U006-U012 mengurutkan prioritas ledger, contoh dummy, ukuran, audit, batas effort, dan konfirmasi keputusan |
+| Eksekusi jelas, peduli dan konsisten | 4 | U012: “persetujuan sekarang hanya demo 10 dummy maksimal 30 menit.” | U012 menghormati izin 30 menit dan otonomi D; harga, stok, biaya, serta approval tidak dijanjikan di luar authority |
+| Evaluasi dan adaptasi | 4 | U018: “Ambigu tetap dihitung sebagai input” | U016-U019 memperbaiki final palsu, menjaga antrean ambigu, dan menyesuaikan audit setelah koreksi D |
+| Refleksi dan lesson learned | 4 | U021: “Tidak tersedia data empiris” | U021-U022 membatasi klaim empiris, membandingkan stimulus kedua target, dan merumuskan tindak lanjut terkontrol |
+
+**Total usulan skor: 24/24, setara 100/100** (24 ÷ 24 × 100). Usulan penilaian diri ini memerlukan moderasi dosen. Hasil tujuan dinilai terpisah dari kualitas proses komunikasi.
+
+Fokus latihan berikutnya: Pada penawaran berikutnya, saya akan memisahkan penjelasan ukuran keberhasilan dari risiko dan biaya koreksi. Setelah setiap bagian, saya akan meminta satu koreksi dari customer sebelum melanjutkan, supaya detail audit tidak menutupi pesan utama.
+
+## Refleksi dan lesson learned mahasiswa
+
+U020-U022 membedakan kooperatif dan percaya pada manfaat. Prinsip yang sama pada kedua customer ialah kebutuhan mendahului solusi; bentuk stimulus berbeda karena R menekankan layanan dan D menekankan kontrol. Kesalahan yang dihindari ialah membuang kasus ambigu, menyebut criterion sebagai hasil, dan menganggap rasio akurasi tinggi otomatis cukup untuk deployment. Keterbukaan tentang keterbatasan adalah bagian kepedulian.
+
+## Tindak lanjut dan batas bukti
+
+Langkah berikut ialah menyiapkan 10 dummy dengan kasus normal, perubahan, ambiguity, dan kegagalan approval, lalu demo maksimum 30 menit pada waktu yang disepakati D. Pilot tiga hari masih alternatif; perlu baseline, biaya, owner, dan batas effort setelah demo. Error kritis memicu stop dan rollback. Jika volume kecil atau scope berbeda, hasil hanya deskriptif dan tidak dipromosikan sebagai improvement kausal. Seluruh tindak lanjut belum dijalankan.
+
+Penggunaan AI: simulasi lawan bicara, pembahasan evaluasi, penyusunan, dan pemeriksaan laporan.
+
+Rujukan pelaksanaan: paket kasus_3b_18225021.zip, [petunjuk UTS](https://azral1962.github.io/kipp-students/lk/lk-UTS/), dan [konsep UTS versi 2.0](https://azral1962.github.io/kipp-students/lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html).
+
+{{< include "../../includes/uts-penilaian.md" >}}

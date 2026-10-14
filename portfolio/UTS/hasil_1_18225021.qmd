@@ -1,0 +1,249 @@
+---
+title: "Laporan UTS KIPP 2026 - Versi 2.0"
+subtitle: "Sesi 1 - Kasus 1"
+author: "Ihsan Fadhlih Akbar - 18225021"
+date: 2026-10-07
+status: "Siap dinilai"
+lang: id
+format:
+  html:
+    toc: true
+    toc-depth: 2
+execute:
+  eval: false
+---
+
+[Kembali ke Portfolio Minggu 8](../week-08.qmd)
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Ihsan Fadhlih Akbar |
+| NIM | 18225021 |
+| Kelas dan tanggal | K2; 7 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1; Belajar SQL tanpa terjebak tuntutan langsung mahir |
+| Nama dan ID target | Diri komunikator; pembanding Fathir (F), K1-02 |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_1_18225021.zip; penugasan tetap |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif; simulasi percakapan |
+| Kelengkapan skrip | Lengkap, dari identifikasi sampai konfirmasi; 24 pasangan giliran |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Saya memilih SQL dasar sebagai kemampuan yang ingin dikembangkan agar dapat memeriksa data tugas kuliah. Sasaran utama sesi ini adalah diri saya, sedangkan F menjadi tokoh pembanding. Target akhir ialah menulis serta memeriksa query sederhana pada tabel dummy, menetapkan tiga latihan 20 menit dalam tujuh hari, dan merespons hambatan berikutnya melalui pemeriksaan fakta. Latihan pada sesi ini menggunakan tabel dummy. Penerapan pada tugas kuliah menjadi tindak lanjut.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | SQL merupakan peluang, tetapi error dibaca sebagai ancaman pada kemampuan; mampu memakai spreadsheet, belum mandiri menulis query | U003-U004 | Laporan diri, sementara |
+| Attitude | Ingin berguna bagi kelompok tetapi menuntut hasil cepat; mudah menyamakan error dengan tidak berbakat | U004-U005 | Tidak menyatakan sifat menetap |
+| Knowledge | Mengenal tabel dan filter; belum memahami pemisahan kesalahan sintaks dan hasil logika | U003, U008 | Gap spesifik pada latihan |
+| Skill | Dapat merangkum langkah, belum konsisten memeriksa keluaran query | U003, U008 | Perlu demonstrasi, bukan niat |
+| Preferensi/MBTI | Lebih terbantu contoh kecil, urutan, waktu tenang; tidak ada hasil tes MBTI | U003 | Preferensi pada tugas ini; tanpa kode tipe |
+| Karakter/peran/kultur | Rekan tim yang ingin dapat diandalkan; norma pribadi menganggap minta bantuan merepotkan | U004, U007 | Hipotesis yang diuji |
+
+## Dugaan awal profil target dan rencana
+
+Sebelum dialog pembanding, saya menduga hambatan utama saya adalah kurang motivasi. Bukti awal hanya error dan berhenti berlatih, sehingga kemampuan serta waktu belum dapat disimpulkan. Pertanyaan validasinya: bagian pengetahuan apa yang belum jelas, standar keberhasilan apa yang dipakai, dan bantuan apa yang tersedia? F belum diprofilkan pada awal; kalimat pembukanya baru tersedia AI009. Pembacaan F dikembangkan dari AI010-AI013 dan dibandingkan dengan profil sumber pada AI014.
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Diri sendiri; SQL dasar berguna bagi tugas | Pisahkan A/K/S | Pilih satu task dan gap | U003 menetapkan satu kemampuan |
+| Attention | Dari label gagal ke fakta error | A: martabat dan kebutuhan belajar | Audit fact-story | U006 mempersempit makna error |
+| Interest | Memahami satu query kecil | K: mekanisme SELECT/WHERE | Contoh tiga baris dan prediksi hasil | U008 menjelaskan hasil |
+| Desire | Memilih latihan kecil yang realistis | A/S: mengurangi beban tanpa menghindar | Bandingkan opsi dan kapasitas | U007 menerima standar kecil |
+| Action | Latihan bertenggat dan bukti keluaran | S: prosedur, bantuan, tolok ukur | Checklist serta uji ulang | U016-U019 melakukan respons tertulis |
+
+# C) Skrip Percakapan
+
+Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uji ulang, refleksi, hingga konfirmasi. ID U/AI menjadi acuan kutipan pada bagian evaluasi.
+
+## Identifikasi
+
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 7 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 1 sesuai paket.”
+>
+> **AI001 · Fasilitator:** “Sesi 1 menggunakan diri sebagai target utama dan Fathir K1-02 sebagai pembanding. Apakah nama dan NIM yang dicatat sudah sesuai?”
+
+> **U002 · Saya:** “Nama dan NIM sudah sesuai. Saya memilih kasus fiktif untuk simulasi percakapan ini. Silakan mulai sesi 1.”
+>
+> **AI002 · Fasilitator:** “Brief: pilih kemampuan yang ingin dikembangkan agar lebih berguna, lalu periksa cara memimpin diri saat hambatan belajar. Kemampuan dan tujuan konkret apa yang dipilih?”
+
+
+## Rencana
+
+> **U003 · Saya:** “Saya memilih SQL dasar untuk memeriksa data. Targetnya tiga latihan 20 menit dalam tujuh hari. Saya bisa spreadsheet, tapi baru mengenal SELECT dan WHERE. Saya lebih terbantu contoh kecil dan urutan langkah, bukan video panjang; tidak memiliki hasil tes MBTI.”
+>
+> **AI003 · Fasilitator:** “Pada situasi belajar yang mana hambatan itu paling terlihat?”
+
+
+## Simulasi awal
+
+> **U004 · Saya:** “Dalam skenario, gua menjalankan query latihan dan keluar error nama kolom. Fakta: query belum jalan; story: gua nggak berbakat. Gua merasa malu karena ingin jadi rekan yang bisa diandalkan. Akhirnya gua tutup latihan, padahal belum mencari arti error.”
+>
+> **AI004 · Fasilitator:** “Tuliskan pesan yang biasa disampaikan kepada diri ketika error muncul.”
+
+> **U005 · Saya:** “Pesan lama gua: masa query sesederhana ini nggak bisa, malam ini harus langsung paham semua. Kalau nggak, gua cuma bikin kelompok susah.”
+>
+> **AI005 · Fasilitator:** “Respons diri apa yang muncul terhadap pesan itu?”
+
+> **U006 · Saya:** “Gua makin tegang dan pengin menghindar. Story awal terlalu luas. Alternatifnya, gua belum mengenali nama kolom; atau target belajar terlalu besar saat energi rendah. Error itu belum membuktikan gua nggak bisa belajar.”
+>
+> **AI006 · Fasilitator:** “Tuliskan pesan pengganti yang mempertahankan tanggung jawab sekaligus mengakui gap itu.”
+
+> **U007 · Saya:** “Gua belum menguasai langkah ini, bukan berarti gua nggak berguna. Malam ini cukup baca error, cek nama kolom, dan uji satu query. Kalau 10 menit mentok, tulis pertanyaan spesifik. Latihannya 20 menit pukul 19.30 pada tiga malam yang gua pilih, bukan belajar sampai capek.”
+>
+> **AI007 · Fasilitator:** “Demonstrasikan satu langkah latihan sekarang menggunakan data dummy, bukan hanya menyebut rencana.”
+
+> **U008 · Saya:** “Tabel dummy tugas punya baris (1, 'aktif'), (2, 'selesai'), (3, 'aktif') dengan kolom id dan status. Query gua: SELECT id FROM tugas WHERE status = 'aktif'; Prediksi hasilnya id 1 dan 3. Gua cek dua syarat: sintaks cocok dengan nama kolom dan hasil tidak memasukkan id 2.”
+>
+> **AI008 · Fasilitator:** “Prediksi itu cocok dengan tiga baris dummy. Ini demonstrasi penalaran query dalam teks, bukan bukti eksekusi database. Sekarang segmen pembanding dapat dimulai jika siap.”
+
+> **U009 · Saya:** “Mulai pembanding. Gua tetap target utama; respons F hanya menguji apakah pesan yang membantu gua cocok untuk orang lain.”
+>
+> **AI009 · F:** “Cara sekarang sudah jelas. Mengapa harus berubah?”
+
+> **U010 · Saya:** “F, gua nggak mau menurunkan standar kerja lu. Bagian apa dari cara lama yang paling penting buat lu pertahankan?”
+>
+> **AI010 · F:** “Cara lama punya urutan dan hasilnya bisa dicek. Gua khawatir cara baru bikin latihan asal jalan tanpa tolok ukur.”
+
+> **U011 · Saya:** “Berarti lu butuh prosedur dan hasil yang bisa dibandingkan, bukan sekadar disuruh lebih semangat. Kalau query kecil dicek ke tiga baris yang sama seperti filter spreadsheet, apakah kekhawatiran lu terjawab sebagian?”
+>
+> **AI011 · F:** “Sebagian. Gua mulai paham pembandingnya, tapi urutan pemeriksaannya harus jelas.”
+
+> **U012 · Saya:** “Urutannya cek kolom, tulis query, prediksi hasil, bandingkan dengan filter lama, lalu catat selisih. Contoh latihan hanya membaca tabel dummy, tidak mengubah data asli. Lu mau coba satu latihan dulu atau tetap dengan cara lama sampai ada contoh tertulis?”
+>
+> **AI012 · F:** “Gua mau satu latihan dengan panduan tertulis. Kalau hasilnya beda dari cara lama, gua akan berhenti dan cek dulu.”
+
+> **U013 · Saya:** “Gua siapkan panduan hari ini; latihan dummy besok pukul 19.30 selama 20 menit, lu pegang pemeriksaan hasil dan gua bantu baca error. Berhasil kalau hasil filter dan query sama serta langkahnya bisa lu jelaskan; kalau beda kita evaluasi, bukan memaksa lanjut.”
+>
+> **AI013 · F:** “Gua setuju pada langkah uji itu. Panduan dan pembandingnya penting; persetujuan ini belum berarti gua sudah menguasai SQL.”
+
+
+## Evaluasi sementara
+
+> **U014 · Saya:** “Saya semula mengira motivasi adalah masalah utama. U006 menunjukkan tekanan standar juga menghambat; U008 menunjukkan gap dapat diperiksa. Pada F, AI010 menekankan standar dan AI011 meminta urutan. Saya membaca Interest, bukan langsung skill atau Action tanpa dukungan. Gaya ke diri perlu jeda; ke F perlu prosedur pembanding.”
+>
+> **AI014 · Fasilitator:** “Ringkasan profil sumber setelah segmen awal: F berhati-hati, menguasai prosedur lama, dan memerlukan panduan serta tolok ukur; preferensi ISTJ hanya parameter fiktif. Pesan apa yang membantu atau menghambat rasa dipercaya dan dipedulikan, dan apa bukti responsnya?”
+
+> **U015 · Saya:** “Pesan lama U005 menambah ancaman menurut laporan diri U006. Penghormatan standar di U010 membuat F menjelaskan kekhawatiran AI010, tetapi belum memberi skill. U012 memberi pilihan dan batas data sehingga AI012 bersedia mencoba. Saya perlu mempertahankan dukungan itu, bukan sekadar hangat di awal.”
+>
+> **AI015 · Fasilitator:** “Uji ulang hipotetis: pada malam latihan berikutnya, query berjalan tetapi hasil kosong dan waktu tinggal 10 menit. Dorongan lama untuk belajar sampai larut muncul kembali. Jalankan respons sekarang.”
+
+
+## Uji ulang
+
+> **U016 · Saya:** “Gua berhenti menyebut diri gagal. Fakta: query jalan dan hasil kosong; dugaan: nilai status beda atau data memang nggak cocok. Gua cek dulu dua baris dummy dan kondisi WHERE, lalu batasi pencarian 10 menit. Tujuannya memahami satu masalah, bukan membuktikan gua pintar.”
+>
+> **AI016 · Fasilitator:** “Tabel dummy sekarang berisi status 'Aktif' dengan huruf awal besar. Mesin contoh diasumsikan membandingkan string secara peka huruf. Bagaimana respons terhadap informasi ini?”
+
+> **U017 · Saya:** “Dengan asumsi itu, query status = 'aktif' memang nggak cocok. Gua uji SELECT id FROM tugas WHERE status = 'Aktif'; dan prediksi id 1 serta 3. Gua catat asumsi sensitivitas huruf; jangan menganggap semua database punya aturan sama.”
+>
+> **AI017 · Fasilitator:** “Prediksi konsisten dengan asumsi contoh. Kini waktunya habis dan teman meminta bantuan yang tidak mendesak. Apa respons yang dijalankan?”
+
+> **U018 · Saya:** “Gua jawab: malam ini slot belajar gua selesai, besok pukul 17.00 gua bisa bantu 15 menit. Kalau ternyata mendesak, jelasin dampaknya dulu supaya kita cari orang lain. Gua simpan query dan catatan error, lalu berhenti sesuai batas.”
+>
+> **AI018 · Fasilitator:** “Bantuan tidak mendesak itu menerima waktu besok dalam sesi. Bagaimana memeriksa apakah latihan kecil tetap menjaga standar?”
+
+> **U019 · Saya:** “Gua bandingkan hasil ke filter manual, simpan satu query, satu prediksi, dan satu catatan alasan. Kalau beda, gua tandai belum benar. Dalam tujuh hari gua cek tiga slot terlaksana dan satu variasi query dapat dijelaskan; tidak klaim mahir hanya karena niat.”
+>
+> **AI019 · Fasilitator:** “Empat respons uji ulang memperlihatkan audit fakta, koreksi, boundary, dan tolok ukur. Apa perubahan ASK serta kesimpulan SWOT yang layak dinyatakan?”
+
+
+## Refleksi
+
+> **U020 · Saya:** “A bergeser dari merasa harus langsung bisa ke menerima proses dengan standar; K bertambah pada pemisahan error sintaks dan data; S yang ditunjukkan hanya memprediksi hasil dan menulis respons debugging. SQL menjadi peluang yang dapat dicoba, tetapi kemandirian nyata belum terbukti.”
+>
+> **AI020 · Fasilitator:** “Pelajaran apa yang diterapkan pada konteks lain tanpa menganggap respons F sebagai bukti perubahan diri?”
+
+> **U021 · Saya:** “Saya akan memeriksa fakta sebelum memberi label diri pada latihan lain. U008 dan U017 evidence penalaran tertulis; AI013 hanya kesiapan F. Preferensi saya pada struktur bukan diagnosis ISTJ. Kepedulian pada diri berarti memberi dukungan realistis sekaligus tetap menyimpan hasil untuk diperiksa.”
+>
+> **AI021 · Fasilitator:** “Apa tindak lanjut yang memiliki waktu, dukungan, dan indikator?”
+
+> **U022 · Saya:** “Rencana simulasi: tiga slot 20 menit dalam tujuh hari, pertanyaan spesifik setelah mentok 10 menit, dan review di hari ketujuh bersama rekan belajar yang bersedia. Indikatornya tiga catatan latihan serta satu variasi query benar. Jadwal ini belum dilaksanakan.”
+>
+> **AI022 · Fasilitator:** “Ringkasan: Ihsan Fadhlih Akbar, NIM 18225021; tujuan SQL dasar, perbaikan pesan diri, pembanding Fathir K1-02, empat respons uji ulang, serta tindak lanjut tujuh hari. Apakah ada koreksi?”
+
+
+## Konfirmasi
+
+> **U023 · Saya:** “Tambahkan bahwa query ditulis dan diprediksi, belum dieksekusi pada database. Rencana tujuh hari masih tindak lanjut, dan respons F bukan bukti perubahan diri saya.”
+>
+> **AI023 · Fasilitator:** “Koreksi ringkasan sudah dicatat. Apakah identitas, tujuan, hasil, serta refleksi tersebut sudah sesuai?”
+
+> **U024 · Saya:** “Ringkasan sudah sesuai. Simpan laporan sebagai hasil_1_18225021.qmd dengan bagian A-D, kutipan, evaluasi, uji ulang, dan refleksi.”
+>
+> **AI024 · Fasilitator:** “Sesi 1 selesai. Laporan dapat disusun sebelum melanjutkan sesi berikutnya.”
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan sesi tercapai pada tingkat demonstrasi teks: pesan diri direvisi, satu query dan variasinya diprediksi, serta rencana bertenggat dibuat. Penguasaan SQL, kebiasaan belajar, dan jadwal tujuh hari belum dibuktikan. Saya memisahkan respons F dari perubahan yang saya laporkan pada diri sendiri.
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| SWOT subjektif | Ancaman gagal dan belum mampu | Peluang belajar terbatas dengan bantuan; sebagian skill belum terbukti | U004, U007, U020 | Laporan diri pada sesi |
+| Attitude | Standar serba langsung mahir | Menerima latihan kecil dengan pemeriksaan | U005-U007, U019 | Laporan perasaan dan respons terhadap self-talk |
+| Knowledge | Error disamakan dengan gagal | Memisahkan sintaks, data, dan asumsi perbandingan string | U008, U016-U017 | Prediksi hasil pada tabel dummy |
+| Skill | Cenderung menutup latihan | Menulis query, memprediksi keluaran, menjaga boundary | U008, U016-U019 | Demonstrasi teks; tanpa eksekusi database |
+
+## Evaluasi stimulus-respons dan diagnosis profil
+
+| Episode/ID | Status dan bukti | Stimulus komunikator | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U005/AI005/U006 | Reaktif pada self-talk | harus langsung paham semua | makin tegang dan pengin menghindar | A menghambat pilihan; K belum diperiksa | U007 mengganti standar dan waktu |
+| U008/AI008 | Interest menjadi latihan terarah | Prediksi id 1 dan 3 | Prediksi cocok dengan dummy | K/S tertulis, bukan implementasi | Simpan batas tidak dieksekusi |
+| U010/AI010 | F membuka concern | standar kerja lu | takut latihan tanpa tolok ukur | A lebih terbuka; K/S belum cukup | U011-U013 memberi prosedur |
+| U017/AI017 | Uji ulang K | jangan menganggap semua database | Prediksi konsisten dengan asumsi | K membatasi generalisasi | Boundary dan log pada U018-U019 |
+
+Dugaan awal U014 tentang motivasi dikoreksi menjadi kombinasi standar, pengetahuan, dan prosedur. Profil F sumber cocok dengan permintaan urutan di AI011, tetapi parameter ISTJ bukan hasil diagnosis. Tahap awal tidak mengisi diri komunikator dengan profil pembanding.
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons teramati | Estimasi relasi awal/akhir | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U005-U007 | Mengganti tuntutan dengan izin belajar terbatas | U006 melaporkan tegang; U007 memilih tindakan kecil | Aman pada self-talk: rendah menjadi sedang, berdasarkan laporan diri | Berdasarkan respons yang saya laporkan |
+| U010/AI010 | Menghargai standar F | Menjelaskan tolok ukur | Keterbukaan rendah menjadi sedang | Terbuka belum berarti mahir |
+| U012-U013/AI012-AI013 | Pilihan berhenti, panduan, bantuan | Menerima uji bersyarat | Kepercayaan sedang; komitmen terbatas | F tetap membutuhkan prosedur |
+| U018/AI018 | Batas belajar dan bantuan alternatif | Waktu besok diterima | Konsistensi tanggung jawab terjaga | Kejadian hipotetis, bukan pesan terkirim |
+
+Estimasi rendah/sedang/tinggi didasarkan pada respons dalam dialog. Saya menilai kepedulian melalui bantuan, penghormatan pilihan, dan konsistensi, tanpa menyimpulkan motif batin.
+
+## Uji ulang dan pembelajaran
+
+U016-U019 menghadirkan empat jawaban pada hambatan serupa: hasil kosong, waktu menipis, dan permintaan bantuan. Dibanding U005-U006 yang menghakimi diri, respons baru memeriksa data serta assumption, menulis query pembetulan, dan menjaga waktu. Kepercayaan F tidak diulang menjadi penolakan awal karena uji ulang kembali pada diri sebagai target utama. Transfer awal terindikasi oleh tindakan tertulis; latihan nyata dan retensi jangka panjang belum diuji.
+
+## Penilaian enam dimensi
+
+Penilaian diri berikut menggunakan enam dimensi berbobot sama. Setiap dimensi diberi skor 4 dengan dasar kutipan dan ID giliran yang dapat diperiksa. Kesalahan usulan awal dinilai bersama koreksi serta adaptasinya, bukan dihapus dari dialog.
+
+| Dimensi | Skor (1-4) | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U003: “Targetnya tiga latihan 20 menit dalam tujuh hari.” | Tujuan, manfaat, tiga slot latihan, bantuan, dan batas evidence dijelaskan pada U003 serta U019-U023 |
+| Persepsi dan validasi profil/status | 4 | U004: “Fakta: query belum jalan; story: gua nggak berbakat.” | Fact-story, alternatif tafsir, ASK diri, dan kebutuhan F dipisahkan; U014 merevisi dugaan motivasi berdasarkan respons |
+| Pemilihan dan urutan repertoar | 4 | U012: “Urutannya cek kolom, tulis query, prediksi hasil” | U007-U012 memakai latihan kecil, contoh dummy, pilihan, dan prosedur pembanding sesuai kebutuhan yang terungkap |
+| Eksekusi jelas, peduli dan konsisten | 4 | U010: “gua nggak mau menurunkan standar kerja lu.” | Pesan diri yang menghakimi diperbaiki pada U007; standar F dihormati dan batas bantuan dipertahankan pada U018 |
+| Evaluasi dan adaptasi | 4 | U017: “jangan menganggap semua database punya aturan sama.” | U016-U019 memeriksa fakta, mengoreksi asumsi huruf, serta mengubah respons tanpa meninggalkan tolok ukur |
+| Refleksi dan lesson learned | 4 | U021: “AI013 hanya kesiapan F.” | U020-U022 membatasi inferensi, membedakan diri dari F, dan memberi tindak lanjut dengan indikator |
+
+**Total usulan skor: 24/24, setara 100/100** (24 ÷ 24 × 100). Usulan penilaian diri ini memerlukan moderasi dosen. Hasil tujuan dinilai terpisah dari kualitas proses komunikasi.
+
+Fokus latihan berikutnya: Pada latihan berikutnya, saya akan mencatat pesan diri sebelum dan sesudah koreksi, lalu membandingkan apakah pesan itu membantu saya kembali memeriksa error. Dengan begitu, evaluasi tidak hanya menghitung slot latihan SQL.
+
+## Refleksi dan lesson learned mahasiswa
+
+Refleksi saya pada U020-U022 memperlihatkan koreksi satu assumption: error bukan bukti tidak berbakat. Dukungan yang efektif bukan afirmasi tanpa standar, tetapi target kecil, perbandingan hasil, dan pertanyaan spesifik. Pesan kepada F berbeda karena F membutuhkan prosedur yang dapat diaudit. Peran rekan yang ingin diandalkan semula menambah tekanan; setelah audit, tanggung jawab dijaga melalui batas bantuan serta catatan hasil. Tidak ada tipe MBTI yang disimpulkan.
+
+## Tindak lanjut dan batas bukti
+
+Rencana saya selama tujuh hari pada U022 mempunyai tiga slot, batas mencari bantuan, serta review. Ukuran: catatan tiga latihan dan satu variasi query yang benar terhadap dummy. Bila catatan tidak ada atau hasil berbeda, status belum tercapai dipertahankan dan gap diperiksa lagi. Ketiga slot latihan dan review direncanakan dalam tujuh hari setelah sesi.
+
+Penggunaan AI: simulasi lawan bicara, pembahasan evaluasi, penyusunan, dan pemeriksaan laporan.
+
+Rujukan pelaksanaan: paket kasus_1_18225021.zip, [petunjuk UTS](https://azral1962.github.io/kipp-students/lk/lk-UTS/), dan [konsep UTS versi 2.0](https://azral1962.github.io/kipp-students/lk/lk-UTS/konsep-dan-strategi-uts-kipp-v2.html).
+
+{{< include "../../includes/uts-penilaian.md" >}}
