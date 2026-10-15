@@ -21,7 +21,7 @@ execute:
 |---|---|
 | Nama mahasiswa | Ihsan Fadhlih Akbar |
 | NIM | 18225021 |
-| Kelas dan tanggal | K2; 7 Oktober 2026 |
+| Kelas dan tanggal | K1; 7 Oktober 2026 |
 | Nomor/judul kasus | Sesi 1; Kasus 1; Belajar SQL tanpa terjebak tuntutan langsung mahir |
 | Nama dan ID target | Diri komunikator; pembanding Fathir (F), K1-02 |
 | Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_1_18225021.zip; penugasan tetap |
@@ -64,7 +64,7 @@ Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uj
 
 ## Identifikasi
 
-> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 7 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 1 sesuai paket.”
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K1. Tanggal 7 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 1 sesuai paket.”
 >
 > **AI001 · Fasilitator:** “Sesi 1 menggunakan diri sebagai target utama dan Fathir K1-02 sebagai pembanding. Apakah nama dan NIM yang dicatat sudah sesuai?”
 

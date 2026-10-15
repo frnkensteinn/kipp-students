@@ -16,7 +16,7 @@ Halaman ini menghimpun paket UTS saya. Makalah dan transkrip lengkap berada pada
 |---|---|
 | Nama | Ihsan Fadhlih Akbar |
 | NIM | 18225021 |
-| Kelas | K2 |
+| Kelas | K1 |
 | Periode dokumen | 6-14 Oktober 2026; tanggal setiap komponen tercantum pada berkasnya |
 | Versi bank/paket | Bank 2.0; paket individual 2.0 |
 | Modalitas | Teks; simulasi kasus fiktif |

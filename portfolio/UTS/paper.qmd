@@ -13,7 +13,7 @@ execute:
   eval: false
 ---
 
-**NIM: 18225021** · **Kelas: K2**
+**NIM: 18225021** · **Kelas: K1**
 
 [Kembali ke Portfolio Minggu 8](../week-08.qmd)
 

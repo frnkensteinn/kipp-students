@@ -21,7 +21,7 @@ execute:
 |---|---|
 | Nama mahasiswa | Ihsan Fadhlih Akbar |
 | NIM | 18225021 |
-| Kelas dan tanggal | K2; 10 Oktober 2026 |
+| Kelas dan tanggal | K1; 10 Oktober 2026 |
 | Nomor/judul kasus | Sesi 2b; Kasus 2; Menguji fairness melalui bobot pekerjaan dan agreement tertulis |
 | Nama dan ID target | Fathir (F), K2-02 |
 | Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_2b_18225021.zip; penugasan tetap |
@@ -64,7 +64,7 @@ Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uj
 
 ## Identifikasi
 
-> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 10 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 2b sesuai paket.”
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K1. Tanggal 10 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 2b sesuai paket.”
 >
 > **AI001 · Fasilitator:** “Sesi 2b menggunakan Fathir K2-02. Apakah nama dan NIM yang dicatat sudah sesuai?”
 
@@ -165,7 +165,7 @@ Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uj
 
 > **U022 · Saya:** “Catatan versi, estimasi, dan gap diperiksa pada T+16, T+18, T+24, T+36. Pada kerja berikutnya saya akan mencatat dasar pembagian sejak awal. Indikatornya perubahan scope memiliki alasan serta konfirmasi owner, bukan jumlah ucapan setuju.”
 >
-> **AI022 · Fasilitator:** “Ringkasan: Fathir K2-02, tugas 48 jam, fairness berbasis scope, prosedur tertulis, uji ulang empat respons. Outcome bersyarat, kelas K2. Apa koreksinya?”
+> **AI022 · Fasilitator:** “Ringkasan: Fathir K2-02, tugas 48 jam, fairness berbasis scope, prosedur tertulis, uji ulang empat respons. Outcome bersyarat, kelas K1. Apa koreksinya?”
 
 
 ## Konfirmasi
