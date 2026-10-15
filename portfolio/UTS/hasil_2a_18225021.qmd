@@ -21,7 +21,7 @@ execute:
 |---|---|
 | Nama mahasiswa | Ihsan Fadhlih Akbar |
 | NIM | 18225021 |
-| Kelas dan tanggal | K2; 8 Oktober 2026 |
+| Kelas dan tanggal | K1; 8 Oktober 2026 |
 | Nomor/judul kasus | Sesi 2a; Kasus 2; Menegosiasikan beban bantuan yang tidak tercatat |
 | Nama dan ID target | Rafi (R), K2-05 |
 | Versi bank/aturan penugasan | Bank 2.0; paket 2.0; kasus_2a_18225021.zip; penugasan tetap |
@@ -64,7 +64,7 @@ Dialog disusun berurutan dari identifikasi, rencana, simulasi awal, evaluasi, uj
 
 ## Identifikasi
 
-> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K2. Tanggal 8 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 2a sesuai paket.”
+> **U001 · Saya:** “Nama saya Ihsan Fadhlih Akbar, NIM 18225021, kelas K1. Tanggal 8 Oktober 2026, modalitas teks. Saya akan menjalankan sesi 2a sesuai paket.”
 >
 > **AI001 · Fasilitator:** “Sesi 2a menggunakan Rafi K2-05. Apakah nama dan NIM yang dicatat sudah sesuai?”
 

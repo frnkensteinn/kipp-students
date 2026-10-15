@@ -1,6 +1,6 @@
 # Panduan pengerjaan dan pengumpulan UTS KIPP
 
-Panduan ini menjelaskan berkas yang diminta, alur pelaksanaan, isi jawaban yang sudah dibuat, serta dasar penilaian diri. Atas revisi terbaru, target penilaian diri UTS dikembalikan ke skor maksimal pada kelima sesi. Pintu masuk situs berada di [Portfolio Week 8](portfolio/week-08.qmd), mengikuti susunan referensi pengguna. Identitas pada paket adalah **Ihsan Fadhlih Akbar, NIM 18225021**. Kelas pada dokumen saat ini **K2**.
+Panduan ini menjelaskan berkas yang diminta, alur pelaksanaan, isi jawaban yang sudah dibuat, serta dasar penilaian diri. Atas revisi terbaru, target penilaian diri UTS dikembalikan ke skor maksimal pada kelima sesi. Pintu masuk situs berada di [Portfolio Week 8](portfolio/week-08.qmd), mengikuti susunan referensi pengguna. Identitas pada paket adalah **Ihsan Fadhlih Akbar, NIM 18225021**. Kelas pada dokumen saat ini **K1**.
 
 ## 1. Apa saja yang harus dikumpulkan?
 
@@ -89,7 +89,7 @@ Kelima laporan memakai tepat empat bagian utama seperti template.
 
 Berisi nama, NIM, kelas/tanggal, sesi/kasus, target dan ID profil, versi paket, modalitas, jenis kasus, serta kelengkapan skrip.
 
-**Kelas K2 berbeda dari ID profil.** Contoh `K3-05` berarti target nomor 05 pada Kasus 3; itu bukan kelas K3. ID tersebut mengikuti paket dan harus dipertahankan.
+**Kelas K1 berbeda dari ID profil.** Contoh `K3-05` berarti target nomor 05 pada Kasus 3; itu bukan kelas K3. ID tersebut mengikuti paket dan harus dipertahankan.
 
 ### B) Kasus dan Tujuan
 
@@ -211,7 +211,7 @@ Konfigurasi `_quarto.yml` mencakup `portfolio/UTS/*.qmd`. Halaman utama UTS adal
 
 ## 9. Status dokumen saat ini
 
-Enam QMD sudah tersedia dan berhasil dirender pada direktori sementara. Identitas, target sesuai ZIP, empat bagian A-D, urutan ID, jumlah respons, kutipan skor, serta konsistensi kelas/tanggal telah diperiksa. Kelasnya K2; tanggal dokumen dipilih 6, 7, 8, 10, 12, dan 14 Oktober 2026 sesuai urutan makalah dan sesi.
+Enam QMD sudah tersedia dan berhasil dirender pada direktori sementara. Identitas, target sesuai ZIP, empat bagian A-D, urutan ID, jumlah respons, kutipan skor, serta konsistensi kelas/tanggal telah diperiksa. Kelasnya K1; tanggal dokumen dipilih 6, 7, 8, 10, 12, dan 14 Oktober 2026 sesuai urutan makalah dan sesi.
 
 Dalam konteks pengujian yang Anda tetapkan, lima skrip dibuat oleh AI pada kedua sisi percakapan. Jadi pekerjaan yang sudah selesai adalah **materi uji lengkap bergaya laporan mahasiswa**, bukan rekaman ujian peserta yang sudah berjalan. Kasus fiktif diperbolehkan pada rancangan tugas, tetapi instruksi transkrip aktual tetap meminta interaksi peserta yang benar-benar terjadi. Perbedaan ini penting saat menentukan apakah berkas digunakan untuk pengetesan bot atau pengumpulan ujian aktual.
 

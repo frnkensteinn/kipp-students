@@ -16,7 +16,7 @@ project:
     - "slides-pdf/*.qmd"
 
 website:
-  title: "Portfolio KIPP-2"
+  title: "Portfolio KIPP-1"
   description: "Portfolio pembelajaran dan assessment Komunikasi Inter Personal dan Publik"
   favicon: assets/logo.png
   search: true
@@ -126,7 +126,7 @@ website:
             - examples/week-14.qmd
             - examples/week-15.qmd
   page-footer:
-    left: "Portfolio KIPP-2 · {{< var student.name >}}"
+    left: "Portfolio KIPP-1 · {{< var student.name >}}"
     right: "Dibangun dengan Quarto"
 
 format:

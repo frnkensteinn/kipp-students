@@ -17,7 +17,7 @@ Folder `portfolio/UTS/` hanya berisi satu makalah dan lima laporan QMD. Indeks U
 | 4 | `hasil_3a_18225021.qmd` | Rafi K3-05, customer TI/AI |
 | 5 | `hasil_3b_18225021.qmd` | Dimas K3-04, brief kasus 3 yang sama |
 
-Nama dan NIM mengikuti PENUGASAN.md: Ihsan Fadhlih Akbar, 18225021. Kelas dokumen ditetapkan K2 mengikuti identitas KIPP-2 pada repository; kelas yang tersedia hanya K1 dan K2. Kode K1-02, K2-05, K2-02, K3-05, dan K3-04 adalah ID profil kasus, bukan nomor kelas.
+Nama dan NIM mengikuti PENUGASAN.md: Ihsan Fadhlih Akbar, 18225021. Kelas dokumen ditetapkan K1 mengikuti identitas KIPP-2 pada repository; kelas yang tersedia hanya K1 dan K2. Kode K1-02, K2-05, K2-02, K3-05, dan K3-04 adalah ID profil kasus, bukan nomor kelas.
 
 Nama tampilan mengikuti revisi pengguna: Elsa menjadi Rafi (R), dan Budi menjadi Fathir (F). Ini alias pada jawaban serta navigasi, bukan perubahan ID atau isi profil. Arsip ZIP asli tetap memakai nama semula dan tidak diubah. Sapaan formal kepada Rafi disesuaikan menjadi Pak R/Bapak.
 
