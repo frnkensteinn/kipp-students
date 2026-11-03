@@ -1,10 +1,10 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
-assessor_score: "—"
-description: "Barrier, authority, negotiation, agreement, dan action evidence."
+status: "Siap dinilai"
+self_score: "20/20"
+assessor_score: " - "
+description: "Mengubah keinginan N menjadi micro-agreement uji tujuh hari tabel pemilik bagian bersama D, anggota tim yang jam kerjanya berbeda."
 categories: [TAIDA, Action]
 ---
 
@@ -18,8 +18,143 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 - Options dan trade-off yang dibahas.
 - Agreement dengan owner/deadline serta bukti action atau review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Konteks Performance
 
-{{< include ../includes/evidence-template.md >}}
+Nama diganti inisial. Ini lanjutan Minggu 6, 7, dan 9. N, koordinator tim tugas besar kami, sudah menyatakan Desire dengan syarat: seminggu kerja sungguhan tanpa bagian tertimpa, tanpa pertanyaan "file mana" di grup, dan mengisi status tidak lebih dari semenit per bagian. Pada Sabtu, 24 Oktober 2026, N mengirim hasil catatannya sebelum saya datang. Lima hari (19 sampai 23 Oktober, draft bab 1 dan 2): nol bagian tertimpa, satu nyaris karena baris pemilik belum diisi, nol pertanyaan "file mana" di grup, dan rata-rata mengisi status sekitar 40 detik. R terlambat mengisi status dua kali. Syarat N terpenuhi.
+
+Kali ini saya bertemu dua orang: N dan D, anggota tim yang bekerja paruh waktu sore sampai malam. R tidak hadir karena sedang pulang ke rumah akhir pekan. Pertemuan berlangsung sekitar pukul 13.30 di ruang tamu kos N selama 25 menit. N meminta saya ikut menjelaskan supaya D tidak merasa tabel itu datang dari luar.
+
+Objective saya: Desire N menjadi agreement yang feasible dan jelas. Objective yang bersaing: N berwenang atas dokumen induk dan pembagian bagian, D berwenang atas waktu dan cara ia mengerjakan bagiannya sendiri, R berwenang atas bagiannya dan belum hadir, dan saya tidak berwenang atas ketiganya. Uncertainty: reaksi D terhadap kelanjutan belum diketahui, dan N sempat khawatir D menganggap tabel itu pengawasan. State awal: D ikut mengisi tabel selama minggu uji, tetapi belum ada pembicaraan soal kelanjutan.
+
+Karena ada D, saya sengaja menjadikan "tabelnya" atau "kita" sebagai subjek kalimat, bukan "lu harus", supaya pembicaraan tidak terdengar menunjuk orang. Bahasa tetap gua/lu karena kami teman satu tim.
+
+## Desire–Action Gap
+
+Desire N jelas, tetapi ia belum bisa bertindak sendirian. Tabel hanya bekerja bila semua pemegang bagian mengisinya, dan N tidak memiliki authority atas waktu D atau R. Jarak antara "N ingin" dan "tim melakukan" bukan soal tidak mau, melainkan soal jam kerja, persetujuan, dan siapa yang berhak menagih.
+
+## Barrier dan Authority Map
+
+| Person | Authority atas | Barrier atau kekhawatiran | Catatan |
+|---|---|---|---|
+| **N** | Dokumen induk, pembagian bagian | Tidak mau jadi pengawas yang menagih; tidak berwenang atas jam orang lain | Sudah memenuhi syarat sendiri; butuh kesepakatan, bukan izin |
+| **D** | Waktu dan cara mengerjakan bagian sendiri | Pulang kerja sekitar pukul 22.00, mengerjakan bagian sampai tengah malam; keberatan bila diminta lapor “tiap habis ngedit”; tidak mau merasa dicatat | Tidak bisa memutuskan atas nama R |
+| **R** | Bagian sendiri dan persetujuannya terhadap kebiasaan baru | Tidak hadir; dua kali terlambat mengisi status | Belum tahu detail kesepakatan |
+| **Saya** | Tidak ada atas ketiganya | Tidak boleh memutuskan jam kerja atau mengajak R tanpa lewat N | Peran: templat tabel dan fasilitasi |
+
+## Transcript dan Negosiasi
+
+> **N:** “Gua kasih liat catatan dulu. Lima hari, Senin sampe Jumat: nol bagian ketimpa, nol ‘file mana’ di grup, satu nyaris. Ngisi status rata-rata empat puluh detik.”
+>
+> **D:** “Yang nyaris itu gara-gara gua ya?”
+>
+> **N:** “Bukan. Gua yang belum nulis nama lu di baris 2.2, jadi R kira kosong.”
+>
+> **Saya:** “Gua cuma bantu nyusun. Yang punya keputusan kalian berdua soal cara kerjanya. Boleh gua tanya D dulu: dari lima hari kemarin, bagian mana yang paling bikin lu keberatan?”
+>
+> **D:** “Nulis status. Gua pulang kerja sekitar jam sepuluh, ngerjain bagian dari jam sebelas, kadang baru kelar tengah malem. Ngisi status ‘tiap habis ngedit’ itu yang gua nggak bisa. Gua juga nggak mau ngerasa dicatetin.”
+>
+> **N:** “Gua nggak nyatet lu. Tabelnya yang ngomong. Tapi gua ngerti.”
+>
+> **Saya:** “Biar kebayang, ada tiga cara yang bisa kita pilih. Gua bacain dulu, terus kalian yang ngomong mana yang masuk akal.”
+
+## Options dan Trade-off
+
+| Opsi | Isi | Keuntungan | Kerugian | Hasil pembahasan |
+|---|---|---|---|---|
+| **A** | Status diperbarui setiap kali mengedit, plus checkpoint harian pukul 21.00 | Paling jelas, mudah dilihat | Bentrok dengan jam kerja D; membuat N menagih tiap malam | Ditolak D dan N |
+| **B** | Pemilik diisi sebelum mulai menggarap; status cukup sekali sehari, paling lambat pukul 10.00 untuk pekerjaan hari sebelumnya; checkpoint Rabu pukul 12.30 lewat chat, 10 menit | Cocok dengan jam D; tabel yang mengingatkan, bukan N | Informasi bisa terlambat sampai setengah hari | Dipilih |
+| **C** | Pindah ke aplikasi papan tugas | Fitur pengingat otomatis | Perlu akun baru untuk empat orang, R belum setuju, dan tabel sudah ada di dokumen induk | Tidak dipilih |
+
+> **D:** “A gua nggak bisa. Gua kerja sampe jam sepuluh. Checkpoint jam sembilan malem itu pas gua lagi di kedai.”
+>
+> **N:** “A gua juga males. Gua yang jadi nagih tiap malem.”
+>
+> **Saya:** “Jadi A gugur dari dua sisi: jam D, sama batas lu yang nggak mau jadi pengawas. B gimana? Pemilik diisi sebelum mulai, status cukup sekali sehari, paling lambat jam sepuluh pagi buat kerjaan hari sebelumnya.”
+>
+> **D:** “Jam sepuluh pagi gua bisa. Gua bangun jam sembilan. Tapi kalau gua telat?”
+>
+> **N:** “Kalau D telat dua kali di minggu uji, kita geser jamnya, bukan ngomelin.”
+>
+> **Saya:** “Setuju kalau gitu? Yang diubah jamnya, bukan orangnya.”
+>
+> **D:** “Setuju.”
+>
+> **Saya:** “Opsi C gua sarankan jangan dulu. R belum di sini, dan akun baru buat empat orang itu satu beban lagi.”
+>
+> **N:** “Terus R gimana? Dia nggak ada.”
+>
+> **D:** “R nggak bakal keberatan ngisi, paling lupa. Tapi lu yang ngomong ke dia, bukan gua.”
+>
+> **N:** “Oke. Besok pagi gua kirim ke R. Kalau dia nggak mau, ya kita berdua dulu.”
+>
+> **Saya:** “Berarti persetujuan R belum ada dan bukan keputusan hari ini. Yang diputuskan sekarang cuma bagian lu berdua.”
+
+## Agreement
+
+Saya menutup dengan merangkum dan meminta N dan D mengoreksi:
+
+> **Saya:** “Gua ulang ya. Opsi B, minggu uji tujuh hari, 26 Oktober sampai 1 November, buat bab 3 dan 4. Pemilik diisi sebelum mulai, status sekali sehari paling lambat jam sepuluh pagi, checkpoint Rabu jam setengah satu siang lewat chat. Kalau D telat dua kali, jamnya yang digeser. Review hari Minggu 1 November jam setengah delapan malem. Ada yang salah?”
+>
+> **D:** “Checkpoint Rabu tuh sepuluh menit aja kan, bukan rapat?”
+>
+> **N:** “Sepuluh menit, lewat chat. Kalau lu lagi di kedai, balas yang penting aja.”
+>
+> **D:** “Oke. Itu bener.”
+
+| Hal | Isi |
+|---|---|
+| **Kesepakatan** | Opsi B untuk bab 3 dan 4 selama tujuh hari, Senin 26 Oktober sampai Minggu 1 November 2026 |
+| **Owner N** | Menyalin tabel ke bab 3 dan 4 dan mengabari R paling lambat Senin, 26 Oktober, pukul 09.00 |
+| **Owner D** | Mengisi pemilik sebelum mulai menggarap dan status paling lambat pukul 10.00 hari berikutnya |
+| **Owner saya** | Menambah kolom “dipinjam dari” ke templat dan mengirimkannya ke N paling lambat Minggu, 25 Oktober, pukul 20.00; ikut review |
+| **Review** | Minggu, 1 November 2026, pukul 19.30, panggilan 15 menit (N, D, saya, dan R bila bersedia) |
+| **Ukuran review** | Nol bagian tertimpa; nol “file mana” di grup; mengisi status tidak lebih dari semenit; bila D terlambat lebih dari dua kali, jam yang diubah |
+| **Trade-off** | Informasi bisa terlambat sampai pukul 10.00; imbalannya D tidak diminta lapor tiap edit dan N tidak perlu menagih |
+| **Batas authority** | Persetujuan R belum ada; bila R menolak, uji berjalan untuk bagian N dan D saja. Saya tidak mengirim apa pun ke R |
+
+## Bukti Action dan Review
+
+Action pertama terjadi pada Senin, 26 Oktober 2026. Pukul 08.40 N mengirim tangkapan layar tabel bab 3 dan 4 dengan lima baris: empat baris sudah ada pemilik (saya, N, D, dan N untuk bagian penutup), satu baris untuk R bertanda “menunggu konfirmasi R”. Pukul 12.15 R membalas di grup: “oke gua ambil 4.3, tapi status gua ngisi malem ya”. Jawaban R itu belum persis aturan pukul 10.00, jadi N mencatatnya sebagai hal yang diuji saat review. Hasil minggu uji belum dicatat di halaman ini, karena review baru dilakukan pada 1 November.
+
+## Analisis Komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| **Person & character** | Authority dipetakan per orang: N atas dokumen, D atas waktunya, R atas bagiannya, saya tidak punya. D dibaca dari kerja paruh waktunya, bukan sebagai penolak. Perubahan konteks (D hadir) mengubah cara saya berbicara: subjeknya tabel dan "kita". |
+| **Objective & state** | Desire N diubah menjadi agreement. Objective bersaing (tabel butuh diisi vs D tidak mau dicatat vs N tidak mau menagih) dikelola lewat opsi. Uncertainty tentang R dinyatakan, bukan ditutupi. |
+| **Repertoire & language** | Tiga opsi dengan trade-off, ditawarkan setelah mendengar keberatan D. Bahasa gua/lu dipertahankan, tetapi kalimat netral ("tabelnya yang ngomong"). Rangkuman dengan konfirmasi ulang. |
+| **Response & adaptation** | Keberatan D soal jam mengubah dua opsi sekaligus: A gugur, B dibuat jam sepuluh pagi. N dan D menambah aturan "geser jamnya, bukan ngomelin". Pertanyaan D tentang checkpoint dijawab dan dicatat. |
+| **Agreement, action & relationship** | Ada owner, tenggat, review, ukuran keberhasilan, trade-off, dan batas authority (persetujuan R, tidak mengajak R lewat saya). Bukti action pertama sudah ada. Repair dirancang: bila D telat, aturan yang berubah. |
+
+## Penggunaan AI
+
+AI digunakan setelah pertemuan untuk menyusun peta barrier dari catatan, lalu saya memeriksanya terhadap ucapan N dan D. Saya menolak usulan AI untuk menempatkan N sebagai penagih status harian agar tim patuh, dan menolak saran memakai aplikasi papan tugas untuk semua anggota karena R belum setuju dan itu di luar authority kami berdua. AI tidak membuat jam kerja D, angka catatan N, ucapan D, atau keputusan akhir.
+AI tidak menghasilkan dialog, respons, atau outcome
+
+## Feedback dan Tindak Lanjut
+
+Feedback terpenting datang dari D: pertanyaan "bukan rapat kan?" menunjukkan bahwa yang ia hindari adalah beban format, bukan tabelnya. Next practice saya: sebelum menawarkan opsi, saya menanyakan jam dan beban yang paling sulit bagi orang yang akan melaksanakannya. Indikatornya, tidak ada opsi yang gugur karena jam atau beban yang baru terungkap setelah opsi disebut.
+
+## Self-assessment
+
+| Dimensi | Skor 1-4 | Evidence singkat |
+|---|---:|---|
+| **Person & Character** | 4 | Authority dan barrier N, D, R dipetakan terpisah; perubahan konteks (D hadir, R absen) dibaca dan mengubah cara bicara saya. |
+| **Objective & State** | 4 | Desire N diubah menjadi agreement; objective bersaing dan uncertainty (R belum setuju) dikelola secara eksplisit. |
+| **Repertoire, Language & AI** | 4 | Tiga opsi dengan trade-off; bahasa netral di depan D; output AI yang menjadikan N penagih dan membebani R ditolak dengan alasan. |
+| **Response & Adaptation** | 4 | Keberatan D dan pertanyaan tentang checkpoint mengubah opsi dan rumusan; loop ditutup dengan rangkuman yang dikoreksi D. |
+| **Agreement, Action & Relationship** | 4 | Agreement dengan owner, tenggat, review, ukuran, trade-off, batas authority, repair, dan bukti action pertama. |
+
+**Total: 20 / 20 - Lanjut**
+
+::: {.assessor-only}
+### Assessment Dosen
+
+**Skor:** - / 20
+
+**Evidence yang mendukung:**  -
+
+**Prioritas perbaikan:**  -
+
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
